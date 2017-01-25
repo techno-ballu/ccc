@@ -1,0 +1,1331 @@
+DESC_ID,ORIG_DESC,NORM_DESC,CHRG_CLS,FLAG,CREATE_DT,FTR1,FTR2,FTR3,FTR4
+3699,86653000 - PHYSICAL THERAPY RE-EVALUATION,physical_therapy re evaluation,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,evaluation,therapy,physical,
+4018,HB THROMBIN (RECMBINNT) 20000 UNIT EX S,thrombin recombinant 20000_units ex s,Pharmacy,RETROSPECTIVE,13/07/2016,thrombin,recombinant,ex,20000_units
+4353,CPAP - ADULT SUB DAY,continuous_positive_airway_pressure adult subsequent day,Respiratory Therapy,ONLINE,24/08/2016,day,adult,cpap,sub
+2319,CHLORHEXIDINE ORAL RINSE 15ML,chlorhexidine oral rinse 15_ml,Pharmacy,RETROSPECTIVE,12/07/2016,chlorhexidine,oral,rinse,15_ml
+3300,HB LACTATED RINGERS SOL 1000ML A,lactated_ringers solution 1000_ml a,Pharmacy,RETROSPECTIVE,13/07/2016,ringers,lactated,sol,1000_ml
+5907,ROCURONIUM 10MG/ML SOLN 5 ML VIAL,rocuronium 10_mg/ml solution 5_ml vial,Pharmacy,ONLINE,16/09/2016,vial,rocuronium,soln,5_ml
+16,EQ PUMP  KANGROO FEEDING,equipment pump kangaroo feeding,Capital Equipment,RETROSPECTIVE,12/07/2016,equipment,pump,feeding,kangaroo
+2634,THER ACT PER 15,therapist activity per 15,PT / OT / Speech Therapy,RETROSPECTIVE,12/07/2016,act,ther,per,
+2416,DRESSING PETRO GZE 8X3,dressing petrolium gauze 8x3,Supply,RETROSPECTIVE,12/07/2016,petrolium,8x3,gaze,
+3860,CYTOPATH NONGYNTP (PAPTPNG,cytopathic nongyntp paptpng,Laboratory,RETROSPECTIVE,13/07/2016,cytopathic,paptpng,nongyntp,
+3276,HB DEXAMETHASONE NA P04 INJ 4MG/M,dexamethasone sodium phosphate injection 4_mg/m,Pharmacy,RETROSPECTIVE,13/07/2016,inj,na,dexamethasone,
+2059,CANNISTER SUCTION DISP 2500,cannister suction disposable 2500,Supply,RETROSPECTIVE,12/07/2016,disp,suction,cannister,
+2159,DRAPE IOBAN 6640EZ,drape ioban 6640ez,Supply,RETROSPECTIVE,12/07/2016,ioban,drape,6640ez,
+4856,CEFAZOLIN 2G SOLR,cefazolin 2_gm solution,Pharmacy,ONLINE,16/09/2016,cefazolin,2_gm,solution,
+5622,LOW PRESSURE TUBING,low pressure tubing,Supply,ONLINE,16/09/2016,pressure,low,tubing,
+4068,IV 0.9% NACL 50 ML,intravenous 0.9% sodium_chloride 50_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,13/07/2016,0.90%,50_ml,intravenous,sodium_chloride
+4284,TACROLIMUS 1 MG CAP,tacrolimus 1_mg capture,Pharmacy,RETROSPECTIVE,13/07/2016,1_mg,capture,tacrolimus,
+1028,OMEPRAZOLE 40 MG CPDR,omeprazole 40_mg cpdr,Pharmacy,RETROSPECTIVE,12/07/2016,cpdr,40_mg,omeprazole,
+1368,HB HOLDER TB DALE ADLT W1IN TRACH,holder tube dale adult w1 inches tracheostomy,Supply,RETROSPECTIVE,12/07/2016,tracheostomy,tube,holder,adult
+5209,H CONDITIONER SKIN ALOE VESTA 4 OZ,conditioner skin aloe vesta 4 ounce,Supply,ONLINE,16/09/2016,oz,skin,,
+3177,STAPLER LINEAR PROX VASC 3,stapler linear proximate vascular 3,Supply,RETROSPECTIVE,13/07/2016,vasc,stapler,linear,prox
+5595,LCHG PLATELET PHERESIS LR,platelet pheresis leukocyte_reduced,Blood Products,ONLINE,16/09/2016,pheresis,platelet,lr,
+1524,TC BAG ENTERNAL FEED 1000M,bag enteral feed 1000m,Supply,RETROSPECTIVE,12/07/2016,feed,bag,1000m,enternal
+4745,BAG PRSS INFUS W/HK 500ML 4005,bag pressure infusion with hk 500_ml 4005,Supply,ONLINE,16/09/2016,bag,infusion,500_ml,
+4522,SUTURE WIRE # S CSS,suture wire steel css,Supply,ONLINE,29/08/2016,wire,suture,shunt,css
+4217,PROTAMINE SULFATE 10 MG INJ,protamine sulfate 10_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,injection,protamine,sulfate,10_mg
+1465,RT SUPPLIES LEVEL 1,respiratory_therapy supplies level 1,Supply,RETROSPECTIVE,12/07/2016,RT,level,supplies,
+3394,03600007 - RB 4 WEST ICU SURG,room_and_board 4 west intensive_care_unit surgical,Room and Board,RETROSPECTIVE,13/07/2016,west,surgical,intensive_care_unit,room_and_board
+312,SODIUM CHLORIDE 0.9% IVPB  5,sodium chloride 0.9% intravenous_piggyback 5,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,IVPB,chloride,sodium,
+142,HEPARIN 100 UNIT/ML INJ (10ML),heparin 100_units/ml injection 10_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,injection,100_units/ml,10_ml
+1500,SODIUM CHLORIDE 3% NEBU 15 ML PLAS CONT,sodium chloride 3% nebulizer 15_ml plastic container,Supply,RETROSPECTIVE,12/07/2016,container,sodium,plastic,nebulizer
+2846,92365680 - PICC PLACEMENT > 5 YRS OLD,peripherally_inserted_central_catheter placement greater_than 5 years_old,Procedure,RETROSPECTIVE,13/07/2016,greater_than,,,
+5750,OSTOMY DEODORANT SPRAY DISP,ostomy deodorant spray disposable,Supply,ONLINE,16/09/2016,ostomy,spray,deodorant,disp
+3728,ACETAZOLAMIDE SODIUM 500 MG-,acetazolamide sodium 500_mg,Pharmacy,RETROSPECTIVE,13/07/2016,500_mg,acetazolamide,sodium,
+4793,BOSENTAN 125 MG TAB 60 EACH BOTTLE,bosentan 125_mg tablet 60 each bottle,Plan Benefit,ONLINE,16/09/2016,bosentan,bottle,tab,125_mg
+208,NACL 0.9% 250ML,sodium_chloride 0.9% 250_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,0.90%,250_ml,NaCl,
+2014,SODIUM CHLORIDE 3 % SOLUTION FOR NEBULIZATION,sodium chloride 3% solution for nebulization,Supply,RETROSPECTIVE,12/07/2016,chloride,solution,sodium,
+4341,ZINC SULF 220MG,zinc sulfate 220_mg,Pharmacy,RETROSPECTIVE,13/07/2016,sulfate,zinc,220_mg,
+1116,ROOM 5011,room 5011,Room and Board,RETROSPECTIVE,12/07/2016,room,,,
+5579,KIT ET,kit et,Supply,ONLINE,16/09/2016,et,kit,,
+620,LACTATE/LACTIC ACID BODY FLUID,lactate/lactic acid body fluid,Laboratory,RETROSPECTIVE,12/07/2016,body,acid,lactate,lactic
+1282,20710935-HB KIT MANGUM FILTER,hemoglobin kit mangum filter,Supply,RETROSPECTIVE,12/07/2016,manganium,filter,kit,
+5085,EPINEPHRINE 1 MG/ML SOLN 30 ML VIAL,epinephrine 1_mg/ml solution 30_ml vial,Pharmacy,ONLINE,16/09/2016,vial,30_ml,epinephrine,soln
+1075,NICOTINE PATCH 14MG,nicotine patch 14_mg,Plan Benefit,RETROSPECTIVE,12/07/2016,nicotine,14_mg,patch,
+4978,DEXTROSE 10% SOLP 500 ML B,dextrose 10% solution 500_ml bottle,Pharmacy,ONLINE,16/09/2016,dextrose,solution,500_ml,
+4594,GRAFT BONE 26MM 18MM INFUS,graft bone 26mm 18mm infuse,Implant,ONLINE,01/09/2016,infusion,,,
+3630,66046000 - O2 SATURATION DIRECT,oxygen saturation direct,Monitoring,RETROSPECTIVE,13/07/2016,saturation,direct,oxygen,
+1763,ENOXAPARIN 10MG,enoxaparin 10_mg,Pharmacy,RETROSPECTIVE,12/07/2016,enoxaparin,10_mg,,
+2068,ACETAMINOPHEN 500 MG TAB,acetaminophen 500_mg tablet,Pharmacy,RETROSPECTIVE,12/07/2016,tab,500_mg,acetaminophen,
+4705,AMPICILLIN 2 000 MG/15 ML SOLR,ampicillin 2 000_mg/15_ml solution,Pharmacy,ONLINE,16/09/2016,000_mg/15_ml,ampicillin,solution,
+5519,HYDROCORTISONE 1 % CREA 30 G TUBE,hydrocortisone 1% cream 30 g tube,Pharmacy,ONLINE,16/09/2016,tube,cream,,
+3380,X-MATCH 1 UNIT,x match 1_units,Laboratory,RETROSPECTIVE,13/07/2016,x,1_units,match,
+5040,DISP: 5.000 ML; 4 MG/ML; USED NDC QTY: 20.000 PCK OF 5.000 ML VIAL DEXAMETHASONE 1 MG INJECTION DEXAMETHASONE 4 MG/ML INJECTION SOLUTION,dispensed 5.000_ml 4_mg/ml used ndc quantity 20 pack of 5.000_ml vial dexamethasone 1_mg injection dexamethasone 4_mg/ml injection solution,Pharmacy,ONLINE,16/09/2016,quantity,vial,ndc,disposable
+4225,QUANT URINE CULTURE,quantitative urine culture,Laboratory,RETROSPECTIVE,13/07/2016,quantitative,urine,culture,
+1887,ALBUTEROL-IPRATROPIUM 0.5,albuterol ipratropium 0.5,Pharmacy,RETROSPECTIVE,12/07/2016,albuterol,0.5,ipratropium,
+4349,CKMB,creatine_kinase_myocardium,Laboratory,ONLINE,24/08/2016,ckmb,,,
+4687,ALBUTEROL 0.083 % NEBU,albuterol 0.083% nebulizer,Pharmacy,ONLINE,16/09/2016,0.08%,albuterol,nebu,
+1170,CHG VENIPUNCTURE,venipuncture,Nursing Services,RETROSPECTIVE,12/07/2016,venipuncture,,,
+2987,FFP BY APHERESIS EACH UNIT,fresh_frozen_plasma by apheresis each unit,Blood Products,RETROSPECTIVE,13/07/2016,fresh_frozen_plasma,apheresis,unit,
+3136,R&3 STEPDOWN SEMI,room_and_board stepdown semi,Room and Board,RETROSPECTIVE,13/07/2016,r&3,semi,stepdown,
+3359,PF-CNSLT SURGERY W/ FRZN SECT,professional_fee consult surgery with frozen section,Professional Fee,RETROSPECTIVE,13/07/2016,partial_fill,surgery,,
+5785,PASSEY MUIR EVALUATION PER 15 MIN,passey muir evaluation per 15_minutes,PT / OT / Speech Therapy,ONLINE,16/09/2016,min,evaluation,per,
+3434,12085282 - DIAZEPAM UP TO 5 MG INJ,diazepam up to 5_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,diazepam,injection,5_mg,
+5071,DRUG SCREEN QUANT,drug screen quantitative,Laboratory,ONLINE,16/09/2016,quant,screen,drug,
+4889,CISATRACURIUM 2 MG/ML SOLN 5 ML VIAL,cisatracurium 2_mg/ml solution 5_ml vial,Pharmacy,ONLINE,16/09/2016,vial,soln,5_ml,
+2874,ANES LV 3 EA ADD MIN,anesthesia level 3 each additional minute,OR / Anesthesia / Recovery Room,RETROSPECTIVE,13/07/2016,lv,minutes,anesthesia,additional
+3008,HEALTHY SHOT (FC),healthy shot fc,Pharmacy,RETROSPECTIVE,13/07/2016,healthy,fc,shot,
+472,SILDENAFIL 10 MG/12.5 ML INTRAVEOUS SOLUTION,sildenafil 10_mg/12.5_ml intravenous solution,Plan Benefit,RETROSPECTIVE,12/07/2016,solution,10_mg/12.5ml,sildenafil,intravenous
+4020,HB THYROID STIMULATING HORMONE (TSH),thyroid stimulating hormone thyroid-stimulating_hormone,Laboratory,RETROSPECTIVE,13/07/2016,thyroid,hormone,stimulating,thyroid-stimulating_hormone
+4019,HB THROMBIN (RECOMBINANT) 5000 UNIT EX,thrombin recombinant 5000_units ex,Pharmacy,RETROSPECTIVE,13/07/2016,thrombin,recombinant,ex,5000_units
+6111,URNLS DIP STICK/TABLET RGN,urinalysis dip stick/tablet reagent,Laboratory,ONLINE,16/09/2016,tablet,,,
+5606,LIDOCAINE 1 % SOLN,lidocaine 1% solution,Pharmacy,ONLINE,16/09/2016,1%,lidocaine,soln,
+1458,PROBE SKIN TEMP,probe skin temperature,Supply,RETROSPECTIVE,12/07/2016,probe,temperature,skin,
+4105,LIPID PANEL,lipid panel,Laboratory,RETROSPECTIVE,13/07/2016,lipid,panel,,
+4842,CATH LCK DRN RESOLV MRKBND 10F,catheter lock drain resolve mrkbnd 10f,Supply,ONLINE,16/09/2016,lck,cath,drain,
+523,C SODIUM ADD-ON,sodium additional on,Laboratory,RETROSPECTIVE,12/07/2016,add,sodium,,
+6224,FORMULA: PEDIASURE PEPTIDE,formula pediasure peptide,Supply,ONLINE,19/09/2016,formula,pediasure,peptide,
+3292,HB HYDROXYZINE HCL 10MG TAB UD U,hydroxyzine hydrochloride 10_mg tablet unit_dose u,Pharmacy,RETROSPECTIVE,13/07/2016,10_mg,tab,hydrochloride,
+5574,KETOROLAC 60 MG/2 ML INJ,ketorolac 60_mg/2_ml injection,Pharmacy,ONLINE,16/09/2016,inj,60_mg/2_ml,ketorolac,
+3370,SPINAL PUNCTURE LUMBAR DIAG,spinal puncture lumbar diagnostic,Procedure,RETROSPECTIVE,13/07/2016,spinal,diag,puncture,lumbar
+1136,ROOM W260,room w260,Room and Board,RETROSPECTIVE,12/07/2016,room,w260,,
+4425,6F SHEATH 501-606X,6French sheath 501 606x,Supply,ONLINE,29/08/2016,sheath,606x,,
+103,DEXTROSE 5% 50ML,dextrose 5% 50_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,5%,50_ml,dextrose,
+5023,DISP: 0.500 ML; 400 MCG/ML; USED NDC QTY: 1.000 PCK OF 60.000 ML DROP BTL PEDIATRIC MULTIVITAMIN COMB NO.40-PHYTONADIONE 400 MCG/ML ORAL DROPS,dispensed 0.500_ml 400 mcg/ml used ndc quantity 1 pack of 60.000_ml drop bottle pediatric multivitamin comb no.40 phytonadione 400 mcg/ml oral drops,Pharmacy,ONLINE,16/09/2016,drops,pediatric,mcg,ml
+4169,OT EVAL INTERMEDIATE,occupational_therapy evaluation intermediate,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,evaluation,intermediate,occupational_therapy,
+3074,NYSTATIN 100 000 UNIT/ML P,"nystatin 100,000_units/ml powder",Pharmacy,RETROSPECTIVE,13/07/2016,nystatin,000_units/ml,powder,
+5940,SHEATH,sheath,Supply,ONLINE,16/09/2016,sheath,,,
+3806,CATH CENTESIS COOK YUEH 19,catheter centesis cook yueh 19,Supply,RETROSPECTIVE,13/07/2016,cook,yueh,catheter,centesis
+4186,PHOSPHORUS  SERUM,phosphorus serum,Laboratory,RETROSPECTIVE,13/07/2016,serum,phosphorus,,
+1045,PROBENECID TAB 500MG,probenecid tablet 500_mg,Pharmacy,RETROSPECTIVE,12/07/2016,500_mg,probenecid,tablet,
+1682,GLUCOSE  BLOOD,glucose blood,Laboratory,RETROSPECTIVE,12/07/2016,blood,glucose,,
+283,SODIUM CHLORIDE 0.9 % PGBK 100 ML BAG,sodium chloride 0.9% pgbk 100_ml bag,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,100_ml,pgbk,chloride,bag
+2912,CBC W-PLT AUTO COMPD,complete_blood_count with platelets automatically compounded,Laboratory,RETROSPECTIVE,13/07/2016,complete_blood_count,platelet,compd,automated
+501,SILDENAFIL SUSP 2.5MG/ML,sildenafil suspension 2.5_mg/ml,Plan Benefit,RETROSPECTIVE,12/07/2016,suspension,sildenafil,2.5mg/ml,
+2539,IOPAMIDOL PER 1 ML,iopamidol per 1_ml,Pharmacy,RETROSPECTIVE,12/07/2016,iopamidol,1_ml,per,
+3258,HB ACETAM1NOPHEN 160MG/5ML TYLEN,acetaminophen 160_mg/5_ml tylenol,Pharmacy,RETROSPECTIVE,13/07/2016,tylenol,160_mg/5_ml,acetam1nophen,
+4188,PHYSICAL THERAPY EVAL,physical_therapy evaluation,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,evaluation,therapy,physical,
+5264,HC COAGULATION TIME ACTIVATED,coagulation time activated,Laboratory,ONLINE,16/09/2016,coagulation,activated,time,
+1239,P VENIPUNCTURE,powder venipuncture,Nursing Services,RETROSPECTIVE,12/07/2016,p,venipuncture,,
+2111,RED BLOOD CELLS LEUKO RED-CKBC,red blood cells leukocyte red ckbc,Blood Products,RETROSPECTIVE,12/07/2016,blood,red,,
+54,NICU-MICROFUSION PUMP,neonatal_intensive_care_unit microfusion pump,Capital Equipment,RETROSPECTIVE,12/07/2016,pump,microfusion,NICU,
+643,POTASSIUM-ICU (BLOOD),potassium intensive_care_unit blood,Laboratory,RETROSPECTIVE,12/07/2016,potassium,ICU,blood,
+4021,HB TOOL DISSECT LEGEND 9CM 7.5MM,tool dissect legend 9cm 7.5mm,Supply,RETROSPECTIVE,13/07/2016,tool,7.5mm,dissect,9cm
+2988,FIBRIN DEGREDATION PRODUC,fibrin degredation product,Blood Products,RETROSPECTIVE,13/07/2016,fibrin,product,degredation,
+4118,MASK O2 HI 3 N 1 7FT TUB ADLT,mask oxygen hi 3 n 1 7ft tubing adult,Supply,RETROSPECTIVE,13/07/2016,tubing,adult,oxygen,
+204,NACL 0.9 % PGBK 50 ML BAG,sodium_chloride 0.9% pgbk 50_ml bag,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,50_ml,bag,pgbk,NaCl
+3994,HB OR PROCEDURE RM ADD 15 MIN,operation_room procedure room additional 15_minutes,OR / Anesthesia / Recovery Room,RETROSPECTIVE,13/07/2016,additional,min,or,procedure
+2162,GAUZE SPNG 4X4,gauze sponge 4x4,Supply,RETROSPECTIVE,12/07/2016,gauze,spng,4x4,
+5296,HC EVAL SWALLOW FUNC,evaluation swallow function,PT / OT / Speech Therapy,ONLINE,16/09/2016,swallow,evaluation,func,
+2929,CROSSMATCH ELECTRONIC EA,crossmatch electronic each,Laboratory,RETROSPECTIVE,13/07/2016,crossmatch,electronic,,
+1178,DRAW FEE-ROUTINE,draw fee routine,Nursing Services,RETROSPECTIVE,12/07/2016,draw,fee,routine,
+2654,HC CORONARY STENT NON COATED,coronary stent non coated,Implant,RETROSPECTIVE,12/07/2016,stent,non,coated,
+1228,OXYGEN NEWBORN PER SHIFT,oxygen newborn per shift,Respiratory Therapy,RETROSPECTIVE,12/07/2016,newborn,shift,per,oxygen
+1556,UNDERPAD DISP SINGLE,underpad disposable single,Supply,RETROSPECTIVE,12/07/2016,single,disposable,underpad,
+1884,HB BLOOD GASES,blood gases,Laboratory,RETROSPECTIVE,12/07/2016,blood,gases,,
+2389,HC CATH TRAY ONLY,catheter tray only,Supply,RETROSPECTIVE,12/07/2016,cath,tray, ,
+1238,OXYGEN/HR VENTILATOR,oxygen/hour ventilator,Respiratory Therapy,RETROSPECTIVE,12/07/2016,ventilator,oxygen,hour,
+3491,13754012 - MONTELUKAST SODIUM TABLET 10MG,montelukast sodium tablet 10_mg,Pharmacy,RETROSPECTIVE,13/07/2016,montelukast,10_mg,tablet,sodium
+5715,NYSTATIN 100 000 UNIT/ML SUSP 2 ML SYRINGE,nystatin 100 000_units/ml suspension 2_ml syringe,Pharmacy,ONLINE,16/09/2016,syringe,susp,2_ml,
+4603,HB - PHYSICAL THERAPY RE-EVAL; PEDIATRIC (MOD GP),physical_therapy re evaluation pediatric mod gp,PT / OT / Speech Therapy,ONLINE,01/09/2016,evaluation,therapy,pediatric,
+3539,15324312 - TOBRAMYCIN 300MG/4ML INH SOLN,tobramycin 300_mg/4_ml inhaled solution,Pharmacy,RETROSPECTIVE,13/07/2016,tobramycin,inhaled,solution,300_mg/4_ml
+71,SYRINGE PUMP S/P,syringe pump specification,Capital Equipment,RETROSPECTIVE,12/07/2016,syringe,s,p,pump
+4669,ACETAMINOPHEN 160 MG/5 ML SUSP 3.75 ML SYRINGE,acetaminophen 160_mg/5_ml suspension 3.75_ml syringe,Pharmacy,ONLINE,16/09/2016,syringe,susp,acetaminophen,
+3440,12386332 - ENOXAPARIN SODIUM  10MG  INJ,enoxaparin sodium 10_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,injection,10_mg,enoxaparin,sodium
+1325,DRESSING TEGADERM 1 3/4,dressing tegaderm 1 3/4,Supply,RETROSPECTIVE,12/07/2016,tegaderm,dressing,,
+938,DOXAPRAM 20MG/ML 20ML VL,doxapram 20_mg/ml 20_ml vial,Pharmacy,RETROSPECTIVE,12/07/2016,20_ml,vl,doxapram,20_mg/ml
+2737,58864000 - SUCTION ONLY,suction only,Respiratory Therapy,RETROSPECTIVE,13/07/2016,suction,,,
+3441,12432212 - BASE FLUID *QS* INJ,base fluid quantity_sufficient injection,Diluent / Flush / Irrigant,RETROSPECTIVE,13/07/2016,injection,base,fluid,quantity_sufficient
+2703,27054010 - US GUIDED VASCULAR ACCESS,ultrasound guided vascular access,Radiology,RETROSPECTIVE,13/07/2016,access,guided,27054010_us,vascular
+3551,15735222 - RIVAROXABAN 20MG TABLET,rivaroxaban 20_mg tablet,Pharmacy,RETROSPECTIVE,13/07/2016,rivaroxaban,20_mg,tablet,
+4406,SET IMED ADD-ON FILTER,set imed add-on filter,Supply,ONLINE,24/08/2016,filter,set,imed,additional
+3754,AMOXIL 500MG CAP,amoxil 500_mg capture,Pharmacy,RETROSPECTIVE,13/07/2016,capture,500_mg,amoxil,
+3788,BISPECTRAL (BIS) SENSOR,bispectral bis sensor,Supply,RETROSPECTIVE,13/07/2016,bispectral,sensor,bis,
+2726,52201100 - POC BS GLUCOSE CDU,point_of_care blood_sugar glucose,Monitoring,RETROSPECTIVE,13/07/2016,cdu,point_of_care,blood_sugar,glucose
+1167,CAPILLARY COLLECTIO,capillary collection,Nursing Services,RETROSPECTIVE,12/07/2016,capillary,collection,,
+5859,PRAFO,pressure_relief_ankle_foot_orthosis,Supply,ONLINE,16/09/2016,prafo,,,
+3708,89298000 - PATIENT EDUC EA 15 MINUTES,patient education each 15_minutes,Education / Training,RETROSPECTIVE,13/07/2016,minutes,education,patient,
+2473,COIL DETACHABLE HELICAL ULTRA TARGET 1MM X 3CM,coil detachable helical ultra target 1mm x 3cm,Implant,RETROSPECTIVE,12/07/2016,3cm,detachable,target,
+4883,CHORIONIC GANADOTROPIN ASSAY,chorionic ganadotropin assay,Laboratory,ONLINE,16/09/2016,ganadotropin,assay,chorionic,
+1483,SET IV EXT LIPID 60,set intravenous extension lipid 60,Supply,RETROSPECTIVE,12/07/2016,set,intravenous,extension,lipid
+139,HEPARIN 10 UNITS/ML SOLN 3,heparin 10_units/ml solution 3,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,solution,10_units/ml,
+4635,PM-DEXTROSE 5% W/HEPARIN 1UNIT/ML,between_noon_and_midnight dextrose_5% with heparin 1_unit/ml,Diluent / Flush / Irrigant,ONLINE,01/09/2016,heparin,dextrose,,
+2491,TRAY 5 MBT TIB POR KEE,tray 5 mbt tibial porous knee,Supply,RETROSPECTIVE,12/07/2016,tray, , ,
+5429,HCHG BASIC METABOLIC PANEL HCHG BASIC METABOLIC PANEL,basic_metabolic_panel,Laboratory,ONLINE,16/09/2016,metabolic,panel,basic,
+1574,FLOWTRON EXCEL,flowtron excel,Supply,RETROSPECTIVE,12/07/2016,flowtron,excel,,
+4960,CYTOMEGALOVIRUS AB CMV IGG,cytomegalovirus ab cytomegalovirus immunoglobulin,Laboratory,ONLINE,16/09/2016,cmv,ab,immunoglobulin,
+215,NORMAL SALINE 100ML,normal saline 100_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,saline,100_ml,normal,
+414,HC NITRIC OXIDE USE HOURLY,nitric oxide use hourly,Plan Benefit,RETROSPECTIVE,12/07/2016,hourly,oxide,use,nitric
+3616,64266000 - CULTURE ISOLATE ID ADD METHOD,culture isolate id additional method,Laboratory,RETROSPECTIVE,13/07/2016,culture,additional,,
+2673,MAGNESIUM SULFATE 50 MG/ML 50 ML SYRINGE,magnesium sulfate 50_mg/ml 50_ml syringe,Pharmacy,RETROSPECTIVE,12/07/2016,50_ml,syringe,magnesium,
+4122,METFORMIN 500MG TAB,metformin 500_mg tablet,Pharmacy,RETROSPECTIVE,13/07/2016,metformin,tablet,500_mg,
+5132,FENTANYL CITRATE 1 250 MCG/25 ML SPCA,fentanyl citrate 1 250 mcg/25_ml spca,Pharmacy,ONLINE,16/09/2016,mcg/25_ml,fentanyl,citrate,spca
+2323,RE-EVALUATION OT,re evaluation occupational_therapy,PT / OT / Speech Therapy,RETROSPECTIVE,12/07/2016,ot,evaluation,,
+1284,ADAPTER 22MM ID X 6MM,adapter 22mm id x 6mm,Supply,RETROSPECTIVE,12/07/2016,adapter,6mm,22mm,
+4386,OSTOMY ALLKARE PRO BAR,ostomy allkare pro bar,Supply,ONLINE,24/08/2016,ostomy,pro,bar,allkare
+4835,CATH ART ST 20G 2.5,catheter arterial st 20_g 2.5,Supply,ONLINE,16/09/2016,arterial,cath,,
+2400,PROPOFOL 10MG INJ,propofol 10_mg injection,Pharmacy,RETROSPECTIVE,12/07/2016,inj,propofol,10_mg,
+42,HC PUMP VAC WOUND CARE,pump vacuum wound care,Capital Equipment,RETROSPECTIVE,12/07/2016,pump,care,wound,vacuum
+2316,NICARDIPINE-NACL 40MG/200ML SO,nicardipine sodium_chloride 40_mg/200_ml so,Pharmacy,RETROSPECTIVE,12/07/2016,nicardipine,40_mg/200_ml,sodium_chloride,
+3793,BUPIVAC 25% MPF 30M,bupivacaine 25% mpf 30m,Pharmacy,RETROSPECTIVE,13/07/2016,mpf,30m,bupivacaine,25%
+5394,HC SW EVOLUTION W ALT MATTRESS PER DAY,sw evolution with alternating mattress per day,Capital Equipment,ONLINE,16/09/2016,test,alanine,day,per
+203,NACL 0.9,sodium_chloride 0.9,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,0.9,NaCl,,
+5050,DRAPE 3/4 SHEET,drape 3/4 sheet,Supply,ONLINE,16/09/2016,drape,sheet,04/Mar,
+2584,ECHO TTE W/DOPPLER  COMPLETE,echocardiogram transesophageal_echocardiogram with doppler complete,Cardiology,RETROSPECTIVE,12/07/2016,ttase,echocardiogram,doppler,
+97,DEXTROSE 5 % SOLN 50 ML FLEX CONT,dextrose 5% solution 50_ml flex control,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,50_ml,flex,cont,dextrose
+2144,SOD CHLORIDE 0.9% PER 250ML,sodium chloride 0.9% per 250_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,chloride,per,sodium,
+1729,DEXTROSE SOLP,dextrose solution,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,dextrose,solution,,
+107,DEXTROSE 5% IN WATER 250ML,dextrose 5% in water 250_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,5%,water,dextrose,250_ml
+3288,HB GELATIN ADSORBABLE 100 EX MISC,gelatin adsorbable 100 ex miscellaneous,Supply,RETROSPECTIVE,13/07/2016,gelatin,adsorbable,misc,ex
+3758,AMYLASE (AMY),amylase amy,Laboratory,RETROSPECTIVE,13/07/2016,amy,amylase,,
+3230,VASOPRESSIN IV DRIP 50U,vasopressin intravenous drip 50u,Pharmacy,RETROSPECTIVE,13/07/2016,50u,vasopressin,intravenous,drip
+3720,ABO,abo,Laboratory,RETROSPECTIVE,13/07/2016,abo,,,
+943,FENTANYL CIT 10MCG/ML 1ML NSY,fentanyl citrate 10_mcg/ml 1_ml nursery,Pharmacy,RETROSPECTIVE,12/07/2016,nsy,fentanyl,citrate,1_ml
+5610,LIDOCAINE PER 10 MG,lidocaine per 10_mg,Pharmacy,ONLINE,16/09/2016,lidocaine,per,10_mg,
+1441,NUK ORTHODONTIC EXERCISER,nuk orthodontic exerciser,Supply,RETROSPECTIVE,12/07/2016,exerciser,nuke,orthodontic,
+997,MAGNESIUM (MG/UMG/RUMG),magnesium milligram/umg/rumg,Pharmacy,RETROSPECTIVE,12/07/2016,milligram,umg,rumg,magnesium
+2112,HEPARIN 100 UNIT/ML SYRG,heparin 100_units/ml syringe,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,syrg,100_units/ml,
+4254,SOD PHOSPHATE 15ML 45MM,sodium phosphate 15_ml 45mm,Pharmacy,RETROSPECTIVE,13/07/2016,45mm,phosphate,15_ml,sodium
+5118,FENTANYL 1:10 5 MCG/ML SOLN 1 ML SYRINGE,fentanyl 1:10 5 mcg/ml solution 1_ml syringe,Pharmacy,ONLINE,16/09/2016,mcg,ml,fentanyl,soln
+511,ABO TYPE,abo type,Laboratory,RETROSPECTIVE,12/07/2016,type,abo,,
+1486,SET PRIMARY PUMP CLAVE,set primary pump clave,Supply,RETROSPECTIVE,12/07/2016,pump,set,clave,primary
+407,HB NITRIC OXIDE THERAPY,nitric oxide therapy,Plan Benefit,RETROSPECTIVE,12/07/2016,oxide,therapy,nitric,
+4826,CALFACTANT 35 MG/ML SUSP,calfactant 35_mg/ml suspension,Pharmacy,ONLINE,16/09/2016,35_mg/ml,calfactant,susp,
+3047,LIDOCAINE 2% GEL10ML,lidocaine 2% gel 10_ml,Pharmacy,RETROSPECTIVE,13/07/2016,2%,lidocaine,gel10_ml,
+5994,SP G+M LEVEL V TC,specimen gross and micro level 5 technical component,Laboratory,ONLINE,16/09/2016,v,level,,
+711,GLUCOSE  HOME USE DEV,glucose home use device,Monitoring,RETROSPECTIVE,12/07/2016,device,home,use,glucose
+2229,PEDIATRIC MULTIVITAMIN SOLN,pediatric multivitamin solution,Pharmacy,RETROSPECTIVE,12/07/2016,soln,pediatric,multivitamin,
+1283,27200012-HBC SYRINGE PUMP S/P,hbc syringe pump specification,Supply,RETROSPECTIVE,12/07/2016,syringe,pump,hbc,
+4854,CEFAZOLIN 100 MG/ML SOLR,cefazolin 100_mg/ml solution,Pharmacy,ONLINE,16/09/2016,100_mg/ml,cefazolin,solution,
+1336,ENTERAL TUBE INTAKE:,enteral tube intake,Supply,RETROSPECTIVE,12/07/2016,tube,intake,enteral,
+5458,HCHG MUCOLYSACCHARIDES HCHG MUCOLYSACCHARIDES,mucolysaccharides,Laboratory,ONLINE,16/09/2016,hchg,mucolysaccharides,,
+1241,PORTABLE BEDSIDE,portable bedside,Radiology,RETROSPECTIVE,12/07/2016,bedside,portable,,
+1206,ICU PHLEBOTOMY,intensive_care_unit phlebotomy,Nursing Services,RETROSPECTIVE,12/07/2016,ICU,phlebotomy,,
+4999,DEXTROSE 70% SOLP 2 000 ML,dextrose 70% solution 2 000_ml,Pharmacy,ONLINE,16/09/2016,70%,000_ml,dextrose,solution
+490,SILDENAFIL 2.5MG/ML SUSP 4ML,sildenafil 2.5_mg/ml suspension 4_ml,Plan Benefit,RETROSPECTIVE,12/07/2016,suspension,4_ml,sildenafil,2.5mg/ml
+4892,CLINDAMYCIN 150 MG/ML SOLN 4 ML VIAL,clindamycin 150_mg/ml solution 4_ml vial,Pharmacy,ONLINE,16/09/2016,vial,4_ml,soln,
+5231,HC ANESTH PER MINUTE,anesthesia per minute,OR / Anesthesia / Recovery Room,ONLINE,16/09/2016,anesthetic,minute,per,
+1583,HB PACIFIER WUBBANUB HORSE,pacifier wubbanub horse,Supply,RETROSPECTIVE,12/07/2016,wubbanub,horse,pacifier,
+1989,TROPONIN I,troponin i,Laboratory,RETROSPECTIVE,12/07/2016,troponin,,,
+3739,ALBUMIN 25% 50ML 12.5GM I,albumin 25% 50_ml 12.5_gm i,Pharmacy,RETROSPECTIVE,13/07/2016,50_ml,albumin,12.5_gm,25%
+833,POC HEMATOCRIT,point_of_care hematocrit,Monitoring,RETROSPECTIVE,12/07/2016,hematocrit,POC,,
+3660,77032076 - KIT NEURO BASIN,kit neurology basin,Supply,RETROSPECTIVE,13/07/2016,basin,neurology,kit,
+4970,DEXAMETHASONE 20MG/5ML INJ,dexamethasone 20_mg/5_ml injection,Pharmacy,ONLINE,16/09/2016,inj,20_mg/5_ml,dexamethasone,
+5842,POTASSIUM CHLORIDE 2 MEQ/ML SOLN 20 ML VIAL,potassium chloride 2_meq/ml solution 20_ml vial,Pharmacy,ONLINE,16/09/2016,vial,potassium,chloride,soln
+3856,CULTURE VIRAL,culture viral,Laboratory,RETROSPECTIVE,13/07/2016,culture,viral,,
+4714,ANESTHESIA LEVEL 4,anesthesia level 4,OR / Anesthesia / Recovery Room,ONLINE,16/09/2016,anesthesia,level,,
+1747,PROPOFOL 10MG (50ML),propofol 10_mg 50_ml,Pharmacy,RETROSPECTIVE,12/07/2016,50_ml,propofol,10_mg,
+65,RNTL BED PLEXUS DAILY,rental bed plexus daily,Capital Equipment,RETROSPECTIVE,12/07/2016,plexus,rental,daily,bed
+5632,MAGNESIUM SULFATE 50% 1GM/2ML,magnesium sulfate 50% 1_gm/2_ml,Pharmacy,ONLINE,16/09/2016,1_gm/2_ml,50%,magnesium,sulfate
+1839,DEXMEDETOMIDINE 4 MCG/ML S,dexmedetomidine 4 mcg/ml sigma,Pharmacy,RETROSPECTIVE,12/07/2016,dexmedetomidine,mcg,ml,
+3168,SOD BICARBONATE 50MEQ,sodium_bicarbonate 50_meq,Pharmacy,RETROSPECTIVE,13/07/2016,50_meq,bicarbonate,sodium,
+2429,ROOM & BOARD - NICU LEVEL II,room & board neonatal_intensive_care_unit level ii,Room and Board,RETROSPECTIVE,12/07/2016,level,nicu,room,
+4229,RESUS GLUCOSE,resuscitation glucose,Monitoring,RETROSPECTIVE,13/07/2016,resuscitation,glucose,,
+2827,86810003 - SELF CARE,self care,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,self,care,,
+3096,PARTIAL THROMBOPLASTIN TI,partial thromboplastin time,Laboratory,RETROSPECTIVE,13/07/2016,partial,thromboplastin,ti,
+3780,BAG PRESSURE INFUSOR EA.,bag pressure infusor each,Supply,RETROSPECTIVE,13/07/2016,bag,infusor,pressure,
+3390,*PTT PARTIAL THROMBOPLASTIN TIME,partial_prothrombaplastin_time partial thromboplastin time,Laboratory,RETROSPECTIVE,13/07/2016,partial,partial_prothrombaplastin_time,thromboplastin,time
+1290,ASPIRATOR NASAL BBG,aspirator nasal bag,Supply,RETROSPECTIVE,12/07/2016,aspirator,bag,nasal,
+2055,PROPOFOL PER 10MG/50ML INJ,propofol per 10_mg/50_ml injection,Pharmacy,RETROSPECTIVE,12/07/2016,inj,propofol,per,10_mg/50_ml
+5293,HC ENDO RECOVERY,endo recovery,OR / Anesthesia / Recovery Room,ONLINE,16/09/2016,recovery,endo,,
+4689,ALBUTEROL 90 MCG/PUFF HFAA 8 G CANISTER,albuterol 90 microgram/puff hfaa 8 gram canister,Pharmacy,ONLINE,16/09/2016,albuterol,microgram,,
+870,PULSE OXIMETRY CONT,pulse oximetry continuous,Monitoring,RETROSPECTIVE,12/07/2016,continuous,oximetry,pulse,
+2839,89155000 - MODIFIED BARIUM SWALLOW,modified barium swallow,Radiology,RETROSPECTIVE,13/07/2016,barium,swallow,modified,
+518,ASSAY SERUM POTASSIUM,assay serum potassium,Laboratory,RETROSPECTIVE,12/07/2016,potassium,assay,serum,
+2414,AMLODIPINE 10 MG TABS,amlodipine 10_mg tablets,Pharmacy,RETROSPECTIVE,12/07/2016,amlodipine,tabs,10_mg,
+4634,PM-DEXTROSE 10% W/HEPARIN 1UNIT/ML,between_noon_and_midnight dextrose 10% with heparin 1_unit/ml,Pharmacy,ONLINE,01/09/2016,heparin,dextrose,,
+3225,US PICC GUIDANCE,ultrasound peripherally_inserted_central_catheter guidance,Radiology,RETROSPECTIVE,13/07/2016,ultrasound,guidance,peripherally_inserted_central_catheter,
+2039,HC O2 PER DAY,oxygen per day,Respiratory Therapy,RETROSPECTIVE,12/07/2016,oxygen,day ,,
+2799,77000498 - SUTURE 4-0 CHROMIC U203H,suture 4 0 chromic,Supply,RETROSPECTIVE,13/07/2016,chromic,suture,u203h,
+4477,KNIFE MICRO # 00-0152,knife micro 00 0152,Supply,ONLINE,29/08/2016,micro,knife,,
+5625,MAGNESIUM BLOOD,magnesium blood,Laboratory,ONLINE,16/09/2016,magnesium,blood,,
+3594,63003201 - BUN URINE,blood_urea_nitrogen urine,Laboratory,RETROSPECTIVE,13/07/2016,blood_urea_nitrogen,urine,,
+2820,86404005 - CHANGING MAINT BODY POSITION,changing maintain body position,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,body,changing,maint,position
+1564,WATER NEBULIZER AQUA/INH,water nebulizer aqua/inhaled,Supply,RETROSPECTIVE,12/07/2016,water,aqua,inhalation,nebulizer
+5737,OR LEVEL 4 FIRST 30 MINUTE,operating_room level 4 first 30 minute,OR / Anesthesia / Recovery Room,ONLINE,16/09/2016,level,minute,first,or
+1878,PLEDGT BTTRS FIRM 3X7 111828,pledget bttrs firm 3x7 111828,Supply,RETROSPECTIVE,12/07/2016,firm,pledget,bttrs,3x7
+4907,COMPLETE CBC W AUTO DIFF WBC 2,complete complete_blood_count with automated differential white_blood_cells 2,Laboratory,ONLINE,16/09/2016,cbc,diff,complete,automated
+2488,INSULIN GLARGINE 100 UNI,insulin glargine 100_units,Pharmacy,RETROSPECTIVE,12/07/2016,100_units,insulin,glargine,
+1026,NEUPOGEN 480 MCG INJECTION,neupogen 480 microgram injection,Pharmacy,RETROSPECTIVE,12/07/2016,injection,microgram,neupogen,
+2778,64966000 - URINE CX W/PRESUMP ID,urine culture with presumptive id,Laboratory,RETROSPECTIVE,13/07/2016,presumptive,64966000_urine,id,cervix_or_complaint_of
+4393,PHYSICIAN FEE LEVEL IV,physician fee level 4,Professional Fee,ONLINE,24/08/2016,physician,fee,iv,level
+1629,GLUCOSE NEAR PATIENT TES,glucose near patient test,Monitoring,RETROSPECTIVE,12/07/2016,near,testing,patient,glucose
+4830,CANNULA OXYGEN,cannula oxygen,Supply,ONLINE,16/09/2016,cannula,oxygen,,
+5999,SPIRONOLACTONE 5 MG/ML SUSP 100 ML BOTTLE,spironolactone 5_mg/ml suspension 100_ml bottle,Pharmacy,ONLINE,16/09/2016,spironolactone,susp,bottle,100_ml
+1860,OXISENSOR,oxisensor,Supply,RETROSPECTIVE,12/07/2016,oxisensor,,,
+309,SODIUM CHLORIDE 0.9% INJ,sodium chloride 0.9% injection,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,0.90%,injection,chloride,sodium
+2860,ANAERO CULT ISO & PRESUMPT ID,anaerobic culture isolate and presumptive identification,Laboratory,RETROSPECTIVE,13/07/2016,&,anaerobic,presumptive,iso
+5241,HC BLOOD SPEC COLLECT CENT PERIP ACCESS,blood specimen collection central peripheral access,Nursing Services,ONLINE,16/09/2016,access,spec,blood,collect
+4735,ASSAY OF URINE CREATININE,assay of urine creatinine,Laboratory,ONLINE,16/09/2016,urine,creatinine,assay,
+6005,SPONGE DRAIN T'SORB,sponge drain tsorb,Supply,ONLINE,16/09/2016,sponge,drain,tsorb,
+6231,H CYTP CONCENTRATION SMEAR,cytoplasm concentration smear,Laboratory,ONLINE,19/09/2016,cytp,smear,concentration,
+4065,IV 0.9% NACL 100 ML,intravenous 0.9% sodium_chloride 100_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,13/07/2016,0.90%,100_ml,intravenous,sodium_chloride
+6090,TROPICAMIDE 0.5% DROP 15 M,tropicamide 0.5% drop 15_minutes,Pharmacy,ONLINE,16/09/2016,tropicamide,minutes,drop,0.50%
+2866,ANES ANALYS CHLORIDE (OCL),anesthesia analysis chloride occlu,Laboratory,RETROSPECTIVE,13/07/2016,chloride,anesthesia,analysis,occlu
+5284,HC DEBRIDEMENT OPEN WND EA ADDL 20 SQCM,debridement open wound each additional 20 sqcm,Nursing Services,ONLINE,16/09/2016,wnd,addl,,
+3058,MAGNESIUM 2 GM IN 50ML D5W,magnesium 2_gm individual 50_ml dextrose_5%_in_water,Pharmacy,RETROSPECTIVE,13/07/2016,50_ml,individual,magnesium,
+1782,HCHG R&B CICU,room_and_board cicu,Room and Board,RETROSPECTIVE,12/07/2016,cicu,b,rental,
+2693,13690412 - NATURAL TEARS LUBRICANT 15ML,natural tears lubricant 15_ml,Supply,RETROSPECTIVE,13/07/2016,lubricant,tears,natural,15_ml
+3687,83900000 - SPEECH TREATMENT ATTEMPT,speech treatment attempt,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,attempt,speech,treatment,
+3888,FELT BARD DEBAKEY 4*4,felt bard debakey 4 4,Supply,RETROSPECTIVE,13/07/2016,debakey,felt,bard,
+2962,DRILL BIT/BLADE LVL3,drill bit/blade level 3,Supply,RETROSPECTIVE,13/07/2016,lvl3,bit,blade,drill
+3968,HB FOLLICLE STIMULATING HORMONE/5,follicle stimulating hormone/5,Laboratory,RETROSPECTIVE,13/07/2016,follicle,hormone/5,stimulating,
+4713,ANESTHESIA LEVEL 3,anesthesia level 3,OR / Anesthesia / Recovery Room,ONLINE,16/09/2016,anesthesia,level,,
+2357,SODIUM CHLORIDE 0.9% 250ML,sodium chloride 0.9% 250_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,0.90%,250_ml,chloride,sodium
+467,SILDENAF,sildenafil,Plan Benefit,RETROSPECTIVE,12/07/2016,sildenafil,,,
+277,SODIUM CHLORIDE 0.45% FLUS,sodium chloride 0.45% flush,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,flush,chloride,0.45%,sodium
+899,ASPIRIN 81 MG CHEW,aspirin 81_mg chew,Pharmacy,RETROSPECTIVE,12/07/2016,chew,81_mg,aspirin,
+3308,HB MRI L-SPINE W/ CONTRAST,magnetic_resonance_imagery lumbar spine with contrast,Radiology,RETROSPECTIVE,13/07/2016,spine,mri,l,contrast
+4556,POLYETHYLENE GLYCOL 17GM PWD P,polyethylene glycol 17_gm powder p,Pharmacy,ONLINE,30/08/2016,polyethylene,panel,glycol,17_gm
+4582,VACUTAINER 21GA,vacutainer 21_gauge,Supply,ONLINE,30/08/2016,vacutainer,21ga,,
+805,I-STAT CALCIUM IONIZED,i stat calcium ionized,Monitoring,RETROSPECTIVE,12/07/2016,calcium,stat,ionized,
+2380,WARFARIN 3 MG TABS 1 EAC,warfarin 3_mg tablets 1 each,Pharmacy,RETROSPECTIVE,12/07/2016,tabs,warfarin,3_mg,
+3680,77078719 - CATHETER DIALYS 13FR 24CM CV,catheter dialysis 13fr 24cm cardiovascular,Supply,RETROSPECTIVE,13/07/2016,catheter,,,
+3825,CHEST PHYSIO SIMP 0-10MIN,chest physiotherapy simp 0 10min,Respiratory Therapy,RETROSPECTIVE,13/07/2016,chest,simp,10min,physiotherapy
+1553,TUBING PUMP PRIMARY SET DISP,tubing pump primary set disposable,Supply,RETROSPECTIVE,12/07/2016,tubing,pump,set,disposable
+629,POTASSIUM,potassium,Laboratory,RETROSPECTIVE,12/07/2016,potassium,,,
+1816,PT-THERAPEUTIC ACTIVITY 15 MIN,physical_therapy therapeutic activity 15 minutes,PT / OT / Speech Therapy,RETROSPECTIVE,12/07/2016,min,,,
+3913,GAIT TRAINING EA 15 MIN,gait training each 15_minutes,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,training,min,gait,
+2230,EPOETIN ALFA 10000 UNIT/,epoetin alpha 10000_unit/,Pharmacy,RETROSPECTIVE,12/07/2016,epoetin,alfa,10000_unit/,
+4194,PNEUMOCYSTIS FUNGAL STAIN,pneumocystis fungal stain,Laboratory,RETROSPECTIVE,13/07/2016,stain,fungal,pneumocystis,
+3879,EPHEDRINE 50MG,ephedrine 50_mg,Pharmacy,RETROSPECTIVE,13/07/2016,50_mg,ephedrine,,
+3554,27048600 - CT FACE/SINUS AXIAL W/O CONTRS,computed_tomography face/sinus axial without contrast,Radiology,RETROSPECTIVE,13/07/2016,computed_tomography,without,,
+3814,CBC W AUTOMATED DIFF (CBCD,complete_blood_count with automated differential cbcd,Laboratory,RETROSPECTIVE,13/07/2016,complete_blood_count,differential,cbcd,automated
+6077,TRANSPORT WARMER,transport warmer,Supply,ONLINE,16/09/2016,warmer,transport,,
+4544,EMERGENCY ROOM LEVEL 5 W/MOD,emergency_room level 5 with mod,Other,ONLINE,30/08/2016,module,room,emergency,level
+1293,BAND STRETCH KERLIX OR KLING,band stretch kerlix operation_room kling,Supply,RETROSPECTIVE,12/07/2016,stretch,band,OR,kerlix
+1886,PATIENT EDUC EA 15 MINUTES,patient education each 15 minutes,Education / Training,RETROSPECTIVE,12/07/2016,minutes,patient,educe,
+3498,14113252 - ONDANSETRON HCL  PER 1MG  INJ,ondansetron hcl per 1_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,1_mg,ondansetron,injection,per
+3287,HB GA NURSE RECOVERY 1ST 15 MIN,general_admission nurse recovery 1st 15_minutes,OR / Anesthesia / Recovery Room,RETROSPECTIVE,13/07/2016,min,1st,,
+5228,HC ANES SET UP ROUTINE,anesthesia set up routine,Supply,ONLINE,16/09/2016,set,anesthesia,routine,
+5749,OSTOMY ALLKARE WIPES DISP,ostomy allkare wipes disposable,Supply,ONLINE,16/09/2016,ostomy,disp,wipes,allkare
+1135,ROOM SEMI PVT REHAB,room semi private rehabilitation,Room and Board,RETROSPECTIVE,12/07/2016,rehab,private,room,semi
+5836,POTASSIUM CHLORIDE 10 % 1.33 MEQ/ML LIQD 10 MEQ,potassium chloride 10% 1.33_meq/ml liquid 10_meq,Pharmacy,ONLINE,16/09/2016,potassium,chloride,liqd,10_meq
+214,NORMAL SALINE 10 ML VIAL (NACL0,normal saline 10_ml vial sodium chloride,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,saline,10_ml,sodium,vial
+3601,63058001 - TOTAL IRON BINDING CAPACITY,total iron binding capacity,Laboratory,RETROSPECTIVE,13/07/2016,capacity,total,binding,iron
+1144,37799 ARTERIAL LINE DRAW,arterial line draw,Nursing Services,RETROSPECTIVE,12/07/2016,arterial,line,draw,
+1885,ALBUMIN HUMAN 25 % SOLN,albumin human 25% solution,Pharmacy,RETROSPECTIVE,12/07/2016,albumin,soln,human,25%
+2879,ANGIOGRAM EXTREMITY BILATERAL S/I,angiogram extremity bilateral surgical / Interpretation,Radiology,RETROSPECTIVE,13/07/2016,sigma,,,
+3087,OTH STER SUPP LVL,other sterile supply level,Supply,RETROSPECTIVE,13/07/2016,ster,suppository,level,
+6233,HEMOGLOBIN GLYCOSYLATED A1,hemoglobin glycosylated a1,Laboratory,ONLINE,19/09/2016,hemoglobin,a1,glycosylated,
+3171,SOL IRRIG SALINE 0.9% 1000ML BOTTLE 2F7124 - CS,solution irrigation saline 0.9% 1000_ml bottle 2f7124 central_supply,Diluent / Flush / Irrigant,RETROSPECTIVE,13/07/2016,saline,bottle,irrigation,solution
+3071,NM HEPATOBILIARY SYS,nuclear medicine hepatobiliary system,Radiology,RETROSPECTIVE,13/07/2016,hepatobiliary,nm,system,
+1276,VENIPUNCTURE ROUTINE,venipuncture routine,Nursing Services,RETROSPECTIVE,12/07/2016,venipuncture,routine,,
+3187,SURG PATH LEV 4 CELL BLOCK,surgical pathology level 4 cell block,Laboratory,RETROSPECTIVE,13/07/2016,surgical,level,,
+1702,NATRIURETIC PEPTIDE,natriuretic peptide,Laboratory,RETROSPECTIVE,12/07/2016,peptide,natriuretic,,
+4200,POTASSIUM CHLOR 20 MEQ/50,potassium chloride 20_meq/50,Pharmacy,RETROSPECTIVE,13/07/2016,20_meq/50,potassium,chloride,
+3375,TITANIUM MATRIX NEURO STRAIGHT PLATE 2 HOLE 9M,titanium matrix neurologic straight plate 2 hole 9m,Implant,RETROSPECTIVE,13/07/2016,plate,9m,matrix,straight
+1911,GABAPENTIN 300 MG CAPSULE,gabapentin 300_mg capsule,Pharmacy,RETROSPECTIVE,12/07/2016,capsule,300_mg,gabapentin,
+2532,XRAY CHEST SINGLE VIEW FRONTAL,x-ray chest single view front,Radiology,RETROSPECTIVE,12/07/2016,front,chest,single,
+4335,VITAMIN B12,vitamin b12,Pharmacy,RETROSPECTIVE,13/07/2016,b12,vitamin,,
+879,PULSE OXIMETRY/DAILY,pulse oximetry/daily,Monitoring,RETROSPECTIVE,12/07/2016,oximetry,daily,pulse,
+2027,MDI TREATMENT EACH,multi-dose_inhaler treatment each,Respiratory Therapy,RETROSPECTIVE,12/07/2016,mdi,treatment,,
+2715,27687001 - US SCROTUMCONTENTS PORT,ultrasound scrotum contents portable,Radiology,RETROSPECTIVE,13/07/2016,27687001_us,scrotumcontents,portable,
+3921,GLUCOSE BLOOD BY MONITORING DEV,glucose blood by monitoring device,Monitoring,RETROSPECTIVE,13/07/2016,device,monitoring,blood,glucose
+1350,HB END TIDAL CO2 MONITORING,end tidal carbon_dioxide monitoring,Monitoring,RETROSPECTIVE,12/07/2016,tidal,monitoring,end,CO2
+6131,VANCOMYCIN 5 MG/ML SOLN 1 000 ML,vancomycin 5_mg/ml solution 1 000_ml,Pharmacy,ONLINE,16/09/2016,000_ml,5_mg/ml,vancomycin,soln
+4344,BISACODYL 10MG SUPP (DULO; BISACODYL 10 MG SUPP.RECT,bisacodyl 10_mg suppository dulcolox bisacodyl 10_mg suppository rectal,Pharmacy,ONLINE,24/08/2016,supp,10_mg,,
+251,SOD CHLOR 0.9%,sodium chloride 0.9%,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,0.90%,chloride,sodium,
+5236,HC BASIC METABOLIC PANEL TOTAL CA,basic_metabolic_panel total calcium,Laboratory,ONLINE,16/09/2016,total,ca,metabolic,panel
+3633,70001001 - FREE T4,free t4,Laboratory,RETROSPECTIVE,13/07/2016,t4,free,,
+3345,HB TISSUE EXAM LEVEL V,tissue examination level 5,Laboratory,RETROSPECTIVE,13/07/2016,tissue,exam,v,level
+342,STERILE WATER QS BASE,sterile water quantity_sufficient base,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,water,sterile,qs,base
+1905,METRONIDAZOLE 500MG TABLET,metronidazole 500_mg tablet,Pharmacy,RETROSPECTIVE,12/07/2016,metronidazole,tablet,500_mg,
+2804,77071643 - KIT PERC INTRODUCER,kit percutaneous introducer,Supply,RETROSPECTIVE,13/07/2016,perc,introducer,kit,
+5872,PROTEIN C ACTIVIT,protein c activited,Laboratory,ONLINE,16/09/2016,protein,c,activity,
+1195,HC CAPILLARY BLOOD DRAW,capillary blood draw,Nursing Services,RETROSPECTIVE,12/07/2016,draw,capillary,blood,
+5541,INPT SURG MAJOR ADD 30 MIN,inpatient surgery major additional 30 minutes,OR / Anesthesia / Recovery Room,ONLINE,16/09/2016,inpatient,surg,min,
+6178,BLOOD GASES ANY COMBINATIO,blood gases any combination,Laboratory,ONLINE,19/09/2016,combination,blood,gases,
+4617,HB IOM MEP UPPER & LOWER E,intraoperative_monitoring motor_evoked_potential upper and lower extremity,Procedure,ONLINE,01/09/2016,lower,,,
+1655,ANTIBODY SCR,antibody screen,Laboratory,RETROSPECTIVE,12/07/2016,screen,antibody,,
+5306,HC HEPATITIS B SURFACE ANTIBODY,hepatitis b surface antibody,Laboratory,ONLINE,16/09/2016,b,antibody,surface,hepatitis
+4182,PERIDEX ORAL RINSE 15ML,peridex oral rinse 15_ml,Pharmacy,RETROSPECTIVE,13/07/2016,peridex,oral,rinse,15_ml
+5581,KIT FEED GASTROSTOMY 14FRX1.2CM,kit feed gastrostomy 14frx1.2cm,Supply,ONLINE,16/09/2016,14frx1.2cm,gastrostomy,fgerut4etfbvdgjlkjfsdgnsf,kit
+5926,SENSI-CARE LOTION,sensi-care lotion,Supply,ONLINE,16/09/2016,lotion,sensing,care,
+456,NITRIC OXIDE THERP PER 1/2 HR,nitric oxide therapy per 1/2 hour,Plan Benefit,RETROSPECTIVE,12/07/2016,oxide,therapy,hour,per
+3372,T4 FREE,Thyroxine T4 free,Laboratory,RETROSPECTIVE,13/07/2016,t4,free,,
+838,POC-GLUCOSE-GEM,point_of_care glucose glucagon_emergency_management,Monitoring,RETROSPECTIVE,12/07/2016,POC,GEM,glucose,
+703,GLUCOSE  BLD BY MONITOR DEVICE,glucose blood by monitor device,Monitoring,RETROSPECTIVE,12/07/2016,device,bay,monitor,blood
+5635,MAGNESIUM SULFATE IN WATER 2 GRAM/50 ML PGBK,magnesium sulfate in water 2 gram/50_ml pgbk,Pharmacy,ONLINE,16/09/2016,water,pgbk,magnesium,sulfate
+3018,IMMIDIATE SPIN,immidiate spin,Laboratory,RETROSPECTIVE,13/07/2016,immidiate,spin,,
+3019,INFLU DNA AMP PROBE,influenza deoxyribonucleic_acid amplification probe,Laboratory,RETROSPECTIVE,13/07/2016,probe,deoxyribonucleic_acid,ampule,influx
+2151,GABAPENTIN 100 MG CAP 1 EA,gabapentin 100_mg capillary 1 each,Pharmacy,RETROSPECTIVE,12/07/2016,100_mg,cap,gabapentin,
+2200,HC BILIRUBIN; TOTAL,bilirubin total,Laboratory,RETROSPECTIVE,12/07/2016,bilirubin,total,,
+953,GANCICLOVIR SODIUM  500 MG,ganciclovir sodium 500_mg,Pharmacy,RETROSPECTIVE,12/07/2016,ganciclovir,500_mg,sodium,
+419,HCHG DAILY NO PER HOUR,daily nitric_oxide per hour,Plan Benefit,RETROSPECTIVE,12/07/2016,hour,per,daily,nitric_oxide
+4301,TRAY SUT REMOVE,tray suture remove,Supply,RETROSPECTIVE,13/07/2016,suture,tray,remove,
+3843,COMPLETE URINALYSIS,complete urinalysis,Laboratory,RETROSPECTIVE,13/07/2016,urinalysis,complete,,
+1362,HB DRESSING IV BPTCH PU CHG OD 1.,dressing intravenous biopatch plus charge overdose 1,Supply,RETROSPECTIVE,12/07/2016,overdose,biopatch,intravenous,phu
+617,LACTATE (PNL),lactate panel,Laboratory,RETROSPECTIVE,12/07/2016,panel,lactate,,
+6037,TB ET CUF INMD HI LO 7.5MM 864,tube et cuff inmd hi lo 7.5mm 864,Supply,ONLINE,16/09/2016,tb,cuff,,
+1876,HB FUROSEMIDE 10MG/ML VIAL,furosemide 10_mg/ml vial,Pharmacy,RETROSPECTIVE,12/07/2016,vial,furosemide,10_mg/ml,
+170,HEPARIN FLUSH PER 10 U,heparin flush per 10_units,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,10_units,per,flush
+1874,FLTR REDUC MICAGG 40MIC 199134,filter reduced micagg 40mic 199134,Supply,RETROSPECTIVE,12/07/2016,flreduc,40mic,micagg,
+401,FACTOR VIIA 1IJ,factor viia 1ij,Plan Benefit,RETROSPECTIVE,12/07/2016,1ij,viia,factor,
+360,ANTITHROMBIN III 1750 UNITS SOLR 1 INT'L UNITS VIAL,antithrombin iii 1750_units solution 1 intl_units vial,Plan Benefit,RETROSPECTIVE,12/07/2016,int,solution,vial,1750_units
+1242,POS AIRWAY PRESSURE CPAP,postprandial airway pressure continuous_positive_airway_pressure,Respiratory Therapy,RETROSPECTIVE,12/07/2016,pressure,airway,CPAP,postprandial
+193,IV NS 100ML,intravenous normal_saline 100_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,100_ml,intravenous,NS,
+4877,CHLORIDE (BLOOD GAS),chloride blood_gas,Laboratory,ONLINE,16/09/2016,gas,chloride,blood,
+175,HEPARIN INJECTION  PER 10 UT,heparin injection per 10_units,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,injection,per,10_units
+842,POC-POTASSIUM (K) GEM,point_of_care potassium potassium glucagon_emergency_management,Monitoring,RETROSPECTIVE,12/07/2016,potassium,POC,GEM,
+5150,FOLATE SERUM,folate serum,Laboratory,ONLINE,16/09/2016,serum,folate,,
+5178,GENTAMICIN 40 MG/ML SOLN 20 ML VIAL,gentamicin 40_mg/ml solution 20_ml vial,Pharmacy,ONLINE,16/09/2016,vial,soln,20_ml,
+4833,CAPTOPRIL 25 MG TAB 1 000 EACH BOTTLE,captopril 25_mg tablet 1 000 each bottle,Pharmacy,ONLINE,16/09/2016,captopril,bottle,tab,25_mg
+3089,PACK  MINOR BASINSUT 22MNJMD,pack minor basin suture 22mnjmd,Supply,RETROSPECTIVE,13/07/2016,basinsut,22mnjmd,minor,pack
+1516,SUT SKN GLUE,suture skin glue,Supply,RETROSPECTIVE,12/07/2016,glue,suture,skin,
+5340,HC LACTIC ACID ISTAT,lactic acid istat,Monitoring,ONLINE,16/09/2016,acid,istat,lactic,
+5414,HC US ECHOCARDIOGRAPHY LIMITED,ultrasound echocardiography limited,Radiology,ONLINE,16/09/2016,echocardiography,us,limited,
+537,CHLORIDE BLOOD,chloride blood,Laboratory,RETROSPECTIVE,12/07/2016,chloride,blood,,
+5759,OXYBUTYNIN CR 5MG TAB,oxybutynin cr 5_mg tablet,Pharmacy,ONLINE,16/09/2016,5_mg,oxybutynin,tab,cream
+4733,ASSAY OF SODIUM,assay of sodium,Laboratory,ONLINE,16/09/2016,assay,sodium,,
+120,HB NORMAL SALINE 10ML VL (NACL0,normal saline 10_ml vial sodium chloride,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,saline,10_ml,sodium,normal
+5475,HCHG RADIOLOGY VENT SUPPLIES HCHG RADIOLOGY VENT SUPPLIES,radiology ventilator supplies,Supply,ONLINE,16/09/2016,ventilator,supplies,radiology,
+4324,VANCOMYCIN-RANDOM,vancomycin random,Laboratory,RETROSPECTIVE,13/07/2016,random,vancomycin,,
+1425,KANGAROO PUMP + SUPPLIES,kangaroo pump and supplies,Supply,RETROSPECTIVE,12/07/2016,supplies,kangaroo,pump,
+2930,CROSSMATCH IMMEDIATE SPIN,crossmatch immediate spin,Laboratory,RETROSPECTIVE,13/07/2016,crossmatch,spin,immediate,
+1701,METHEMOGLOBIN COOX,methemoglobin co-oximetry,Laboratory,RETROSPECTIVE,12/07/2016,methemoglobin,co-oximetry,,
+1421,IV SPONGE 2X2,intravenous sponge 2x2,Supply,RETROSPECTIVE,12/07/2016,sponge,2x2,intravenous,
+1730,HB DISTILLED WATER PO LIQD,distilled water by_mouth liquid,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,water,po,liquid,distilled
+1320,DRESSING  ABSORPTIVE COVER MD,dressing absorptive cover medium,Supply,RETROSPECTIVE,12/07/2016,medium,cover,absorptive,dressing
+2728,55551000 - OR GEN LEVEL 1 1ST HR,operation_room general level 1 1st hour,OR / Anesthesia / Recovery Room,RETROSPECTIVE,13/07/2016,1st,level,operation_room,hour
+362,ANTITHROMBIN III 50 IU,antithrombin iii 50 iu,Plan Benefit,RETROSPECTIVE,12/07/2016,iu,iii,antithrombin,
+5413,HC US DOP ECHO C FLOW,ultrasound doppler echocardiogram c flow,Radiology,ONLINE,16/09/2016,us,echocardiogram,drop,flow
+4625,HB US GUIDE NEEDLE PLCMT,ultrasound guide needle placement,Radiology,ONLINE,01/09/2016,us,needle,guide,plcmt
+718,GLUCOSE - POINT OF CARE,glucose point of care,Monitoring,RETROSPECTIVE,12/07/2016,point,care,glucose,
+1611,ABG LACT,arterial_blood_gas lactate,Monitoring,RETROSPECTIVE,12/07/2016,ABG,lactate,,
+557,GLUCOSE QUANTITATIVE BLOOD,glucose quantitative blood,Laboratory,RETROSPECTIVE,12/07/2016,quantitative,blood,glucose,
+2505,VENIPUNCTURE,venipuncture,Nursing Services,RETROSPECTIVE,12/07/2016,venipuncture,,,
+4245,SERTRALINE 60 MG TABS,sertraline 60_mg tablets,Pharmacy,RETROSPECTIVE,13/07/2016,60_mg,sertraline,tabs,
+649,RCH LAB-WHOLE BLOOD IONIZE,laboratory whole blood ionized,Laboratory,RETROSPECTIVE,12/07/2016,laboratory,ionized,whole,blood
+5042,DOCUSATE 50 MG/5 ML LIQD 2 ML SYRINGE,docusate 50_mg/5_ml liquid 2_ml syringe,Pharmacy,ONLINE,16/09/2016,syringe,2_ml,liqd,docusate
+2124,NICARDIPINE DRIP KIT,nicardipine drip kit,Pharmacy,RETROSPECTIVE,12/07/2016,drip,nicardipine,kit,
+4910,COMPREHENSIVE METABOLIC PANEL,comprehensive metabolic panel,Laboratory,ONLINE,16/09/2016,comprehensive,panel,metabolic,
+1761,TRAY ANGIO,tray angiography,Supply,RETROSPECTIVE,12/07/2016,angico,tray,,
+3365,PROTIME,protime,Laboratory,RETROSPECTIVE,13/07/2016,protime,,,
+4957,CYCLOBENZAPRINE 10 MG TABS,cyclobenzaprine 10_mg tablets,Pharmacy,ONLINE,16/09/2016,10_mg,tabs,cyclobenzaprine,
+752,HB ACCUCHECKS-RAPID GLUCOSE,accuchecks rapid glucose,Monitoring,RETROSPECTIVE,12/07/2016,rapid,accuchecks,glucose,
+5137,FFP W/L 24HRS,fresh_frozen_plasma w/l 24_hours,Blood Products,ONLINE,16/09/2016,ffp,line_leg,24hrs,
+5294,HC EPS W ARRYTH,eps with arrhythmia,Cardiology,ONLINE,16/09/2016,eps,arrhythmia,,
+5748,ORGANIC ACID SCREEN URINE,organic acid screen urine,Laboratory,ONLINE,16/09/2016,urine,screen,acid,organic
+3951,HB COMPLETE BLOOD COUNT ONLY,complete_blood_count only,Laboratory,RETROSPECTIVE,13/07/2016,count,complete,blood,
+780,HC GLUCOSE POC,glucose point_of_care,Monitoring,RETROSPECTIVE,12/07/2016,POC,glucose,,
+625,LIPID PROFILE,lipid profile,Laboratory,RETROSPECTIVE,12/07/2016,profile,lipid,,
+3927,HANDPIECE LIGASURE IMPACT,handpiece ligasure impact,Supply,RETROSPECTIVE,13/07/2016,impact,handpiece,ligasure,
+2274,HC RBCS LR EA UNIT,red_blood_cells leukocyte_reduced each unit,Blood Products,RETROSPECTIVE,12/07/2016,units,rbcs,lr,
+2375,SODIUM CHLORIDE 0.9% 0.9 % SOLP 1 000 ML BAG,sodium chloride 0.9% 0.9% solution 1 000_ml bag,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,bag,000_ml,chloride,
+6098,TUBE SALEM SUMP 18FR DISP,tube salem sump 18fr disposable,Supply,ONLINE,16/09/2016,tube,disp,,
+5289,HC ECHO TTE W DPLR COMPLT W CONTRST,echocardiogram transthoracic_echocardiogram with doppler complete with contrast,Cardiology,ONLINE,16/09/2016,echocardiogram,complete,tte,contrast
+1038,PRAVASTATIN TAB 20MG 20 MG TAB,pravastatin tablet 20_mg 20_mg tablet,Pharmacy,RETROSPECTIVE,12/07/2016,20_mg,pravastatin,tablet,
+4685,ALBUMIN HUMAN 5PCT 250ML,albumin human 5pct 250_ml,Pharmacy,ONLINE,16/09/2016,250_ml,5pct,albumin,human
+2388,HC POTASSIUM  SERUM,potassium serum,Laboratory,RETROSPECTIVE,12/07/2016,potassium,serum, ,
+1163,C MHOC-NON-CHEMO SUB Q O,mhoc non chemo sub q oxygen,Nursing Services,RETROSPECTIVE,12/07/2016,non,sub,oxygen,chemo
+1218,OXYGEN  PER HR,oxygen per hour,Respiratory Therapy,RETROSPECTIVE,12/07/2016,per,oxygen,hour,
+6308,TRIAMCINOLONE 0.1% CREA 15,triamcinolone 0.1% cream 15,Pharmacy,ONLINE,19/09/2016,0.10%,triamcinolone,cream,
+4743,BAG DISPOZ W/FLIP FLO 150719,bag dispoz with flip flo 150719,Supply,ONLINE,16/09/2016,bag,dispoz,flo,flip
+6195,CLTNG NHBTORS PROTEIN C AC,clotting inhibitors protein c ac,Laboratory,ONLINE,19/09/2016,protein,acid,,
+4202,POTASSIUM CHLORIDE 20 MEQ/15ML (10%),potassium chloride 20_meq/15_ml 10%,Pharmacy,RETROSPECTIVE,13/07/2016,potassium,20_meq/15_ml,chloride,10%
+1626,GLUCOSE BLOOD TEST,glucose blood test,Laboratory,RETROSPECTIVE,12/07/2016,test,blood,glucose,
+3559,46720000 - RB 6 EAST SEMI-PVT,room_and_board 6 east semi private,Room and Board,RETROSPECTIVE,13/07/2016,east,room_and_board,private,semi
+2953,DIPHENHYDRAMI25MG CP,diphenhydramine 25_mg capsule,Pharmacy,RETROSPECTIVE,13/07/2016,cpap,diphenhydrami25_mg,,
+2217,LANSOPRAZOLE 3MG/ML SUSPENSION,lansoprazole 3_mg/ml suspension,Pharmacy,RETROSPECTIVE,12/07/2016,3_mg_ml,lansoprazole,suspension,
+3483,13729012 - METOLAZONE TABLET 2.5MG,metolazone tablet 2.5_mg,Pharmacy,RETROSPECTIVE,13/07/2016,metolazone,2.5_mg,tablet,
+1480,SET EXT IV SYRNG 60IN,set extension intravenous syringe 60 inches,Supply,RETROSPECTIVE,12/07/2016,syringe,set,intravenous,extension
+3874,DRSG MEPILEX BORDER 9.2IN X 9.2IN,dressing mepilex border 9.2 inches x 9.2 inches,Supply,RETROSPECTIVE,13/07/2016,inches,dressing,,
+4159,NORM SALIN 1000ML IV,normal_saline 1000_ml intravenous,Diluent / Flush / Irrigant,RETROSPECTIVE,13/07/2016,saline,intravenous,1000_ml,normal
+5485,HCHG THIN LAYER ANALYTE HCHG THIN LAYER ANALYTE,thin layer analyte,Laboratory,ONLINE,16/09/2016,hchg,layer,thin,analyte
+3149,RINGERS LACTATE INFUSION UP TO 1 000 CC,ringers_lactate infusion up to 1000_cc,Pharmacy,RETROSPECTIVE,13/07/2016,ringers,cubic_centimeters,infusion,lactate
+3275,HB CYTOPATH CONCENTRATE,cytopathology concentrate,Laboratory,RETROSPECTIVE,13/07/2016,cytopathic,concentrate,,
+166,HEPARIN FLUSH 1UNIT/ML  3 ML,heparin flush 1_units/ml 3_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,1_units/ml,3_ml,flush
+1582,HB MARKER SKIN REG TIP 6IN RULE &,marker skin regular tip 6 inches rule &,Supply,RETROSPECTIVE,12/07/2016,6in,regular,tip,rule
+5417,HC VENT MGMT INPT/OBS SUESQ DAY,ventilator management inpatient/observation subsequent day,Respiratory Therapy,ONLINE,16/09/2016,ventilator,inpatient,mgmt,day
+5227,HC ANES PQRS PERIOP BODY WARMING,anesthesia physician_quality_reporting_system perioperative body warming,OR / Anesthesia / Recovery Room,ONLINE,16/09/2016,body,anesthesia,,
+3150,ROCURONIUM BROM 10 MG / ML,rocuronium bromide 10_mg/ml,Pharmacy,RETROSPECTIVE,13/07/2016,broom,rocuronium,10_mg/ml,
+5865,PROCAINAMIDE 100 MG/ML SOLN 10 ML VIAL,procainamide 100_mg/ml solution 10_ml vial,Pharmacy,ONLINE,16/09/2016,vial,10_ml,soln,
+5211,H CREAM SKIN SENSICARE 3 OZ,cream skin sensicare 3 ounce,Supply,ONLINE,16/09/2016,sensicare,oz,skin,cream
+1981,ONDANSETRON 4 MG TBDL,ondansetron 4_mg tbdl,Pharmacy,RETROSPECTIVE,12/07/2016,ondansetron,tbdl,4_mg,
+1820,ANIDULAFUNGIN 50 MG SOLR 1,anidulafungin 50_mg solution 1,Pharmacy,RETROSPECTIVE,12/07/2016,50_mg,anidulafungin,solution,
+3101,PICC LINE INSERT WO PORT >5YR,peripherally_inserted_central_catheter line insert without portable greater_than 5yr,Procedure,RETROSPECTIVE,13/07/2016,greater_than,insert,line,without
+608,ISTAT K,istat potassium,Laboratory,RETROSPECTIVE,12/07/2016,potassium,istat,,
+1502,"ST EXT AUTO SYRINGE 60""",set extension automated syringe 60,Supply,RETROSPECTIVE,12/07/2016,syringe,auto,set,extension
+5557,IPRATROPIUM-ALBUTEROL 0.5-2.5 (3) MG/3ML SOLN,ipratropium albuterol 0.5 2.5 3_mg/3_ml solution,Pharmacy,ONLINE,16/09/2016,albuterol,ipratropium,soln,
+3524,14668212 - PROPOFOL PER 10MG/ 5ML SYR INJ,propofol per 10_mg/5_ml syringe injection,Pharmacy,RETROSPECTIVE,13/07/2016,syringe,injection,propofol,per
+1618,EXP GAS COLLECTION,expiratory gas collection,Monitoring,RETROSPECTIVE,12/07/2016,gas,collection,expiratory,
+1339,EXT SET MICRO BORE 60 IN,extension set miscroscopic bore 60 injection,Supply,RETROSPECTIVE,12/07/2016,microbore,set,bore,extension
+4962,DARBEPOETIN ALFA 100 MCG/0.5ML SOSY,darbepoetin alpha 100 mcg/0.5_ml sosy,Pharmacy,ONLINE,16/09/2016,darbepoetin,alpha,sosy,mcg/0.5_ml
+6152,XR COLON WITH CONTRAST,x-ray colon with contrast,Radiology,ONLINE,16/09/2016,colon,contrast,xr,
+3244,CELL COUNTAND DIFF BODY FLUID,cell count and differential body fluid,Laboratory,RETROSPECTIVE,13/07/2016,cell,body,diff,fluid
+3503,14151192 - OXYCODONE HCL TABLET 5MG,oxycodone hcl tablet 5_mg,Pharmacy,RETROSPECTIVE,13/07/2016,tablet,5_mg,oxycodone,hcl
+850,POCT POTASSIUM,point_of_care_testing potassium,Monitoring,RETROSPECTIVE,12/07/2016,POCT,potassium,,
+6052,THYROXINE FR,thyroxine free,Laboratory,ONLINE,16/09/2016,fr,thyroxine,,
+3943,HB BUPIVACAINE 0.5% VIAL,bupivacaine 0.5% vial,Pharmacy,RETROSPECTIVE,13/07/2016,vial,0.50%,bupivacaine,
+5861,PREDNISOLONE 15 MG/5 ML SOLN 237 ML BOTTLE,prednisolone 15_mg/5_ml solution 237_ml bottle,Pharmacy,ONLINE,16/09/2016,soln,bottle,,
+4070,IV D5W 100 ML,intravenous dextrose_5%_in_water 100_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,13/07/2016,100_ml,intravenous,dextrose_5%_in_water,
+22,EQ-KANGAROO PUMP,equipment kangaroo pump,Capital Equipment,RETROSPECTIVE,12/07/2016,equipment,kangaroo,pump,
+3645,77001117 - TUBE  TRACH CUFFLESS #8,tube tracheotomy cuffless 8,Supply,RETROSPECTIVE,13/07/2016,tracheotomy,tube,cuffless,
+4822,CALCIUM GLUCONATE IN 0.9% SODIUM CHLORIDE 2 GRAM/120 ML SOLN,calcium gluconate in 0.9% sodium_chloride 2 gram/120_ml solution,Pharmacy,ONLINE,16/09/2016,calcium,sodium,chloride,soln
+3854,CULTURE BLOOD BACTERIAL,culture blood bacterial,Laboratory,RETROSPECTIVE,13/07/2016,culture,bacterial,blood,
+3183,SURG LEVEL II 1ST HR,surgery level ii 1st hour,OR / Anesthesia / Recovery Room,RETROSPECTIVE,13/07/2016,ii,surgical,1st,hour
+5151,FOLEY URINARY CATHETER,foley urinary catheter,Supply,ONLINE,16/09/2016,foley,urinary,catheter,
+5382,HC SMEAR FLUORESCENT ACID FAST,smear fluorescent acid fast,Laboratory,ONLINE,16/09/2016,smear,acid,fast,fluorescent
+5808,PHLEBOTOMY CHARGE,phlebotomy charge,Nursing Services,ONLINE,16/09/2016,charge,phlebotomy,,
+2093,DXTRSE 10% W/0.9% NACL 500ML,dextrose 10% with 0.9% sodium_chloride 500_ml,Pharmacy,RETROSPECTIVE,12/07/2016,dextrose,500_ml,nacl,
+1928,THERAPEUT ACTIVITIES EA 15,therapeutic activities each 15,PT / OT / Speech Therapy,RETROSPECTIVE,12/07/2016,therapeutae,activities,,
+5216,H XR FLUORO VEN ACC PROC INTRAOP,x-ray fluoroscopy venous access procedure intraoperative,Radiology,ONLINE,16/09/2016,procedure,,,
+484,SILDENAFIL 2.5 MG/ML SUSP 1 ML CUP,sildenafil 2.5_mg/ml suspension 1_ml cup,Plan Benefit,RETROSPECTIVE,12/07/2016,suspension,1_ml,sildenafil,cup
+2277,HB INHALATION TREATMENT-ME,inhalation treatment me,Respiratory Therapy,RETROSPECTIVE,12/07/2016,inhalation,treatment,,
+835,POC-GLUCOSE,point_of_care glucose,Monitoring,RETROSPECTIVE,12/07/2016,POC,glucose,,
+6230,GUIDEWIRE STIFF,guidewire stiff,Supply,ONLINE,19/09/2016,guidewire,stiff,,
+1346,GAUZE  KERLIX 4.5,gauze kerlix 4.5,Supply,RETROSPECTIVE,12/07/2016,4.5,gauze,kerlix,
+1146,ABG DRAW,arterial_blood_gas draw,Nursing Services,RETROSPECTIVE,12/07/2016,draw,ABG,,
+952,FUROSEMIDE INJ 40MG 4ML,furosemide injection 40_mg 4_ml,Pharmacy,RETROSPECTIVE,12/07/2016,injection,furosemide,4_ml,40_mg
+2041,MECHANICAL VENT SUBSEQ DAY,mechanical ventilation subsequent day,Respiratory Therapy,RETROSPECTIVE,12/07/2016,Ventilation,subsequent,day,
+1344,FILTER PALL,filter pall,Supply,RETROSPECTIVE,12/07/2016,filter,pall,,
+1891,ASPRIN 81MG CHEW TAB,aspirin 81_mg chew tablet,Pharmacy,RETROSPECTIVE,12/07/2016,chew,81_mg,tab,aspirin
+5627,MAGNESIUM HYDROXIDE 400 MG/5ML SUSP,magnesium hydroxide 400_mg/5_ml suspension,Pharmacy,ONLINE,16/09/2016,susp,hydroxide,magnesium,400_mg/5_ml
+3514,14530592 - POTASSIUM CHLORIDE  PER 2 MEQ,potassium chloride per 2_meq,Pharmacy,RETROSPECTIVE,13/07/2016,2_meq,potassium,chloride,per
+746,GLUCOSE-BLD BY MONITOR DEVICE,glucose blood by monitor device,Monitoring,RETROSPECTIVE,12/07/2016,device,bay,monitor,blood
+2419,ASPIRIN 325 MG TABS,aspirin 325_mg tablets,Pharmacy,RETROSPECTIVE,12/07/2016,tabs,325_mg,aspirin,
+1442,O2 SENSOR,oxygen sensor,Supply,RETROSPECTIVE,12/07/2016,sensor,oxygen,,
+2721,30559000 - AWAY FROM LAB,away from laboratory,Laboratory,RETROSPECTIVE,13/07/2016,laboratory,away,,
+887,20800280-CALCIUM GLUCONATE 100 MG/ML (10%) SOLN 10 ML VIAL,calcium gluconate 100_mg/ml 10% solution 10_ml vial,Pharmacy,RETROSPECTIVE,12/07/2016,vial,calcium,10_ml,solution
+4388,PH PC02 P02 SIMUL,acidity partial_pressure_of_carbon_dioxide partial_pressure_of_oxygen simultaneous,Laboratory,ONLINE,24/08/2016,stimulus,p02,ph,pc02
+3573,58859000 - VENTILATOR-ADULT FIRST DAY,ventilator adult first day,Respiratory Therapy,RETROSPECTIVE,13/07/2016,ventilator,adult,day,first
+3576,58867000 - MASK CPAP CONTINUOUS*,mask continuous_positive_airway_pressure continuous,Respiratory Therapy,RETROSPECTIVE,13/07/2016,continuous,mask,continuous_positive_airway_pressure,
+6032,SYS 5 LEAD CABLE & WIRE DUAL,system 5 lead cable and wire dual,Supply,ONLINE,16/09/2016,dual,system,lead,
+1875,PEDIATRIC - ISOLATION,pediatric isolation,Room and Board,RETROSPECTIVE,12/07/2016,isolation,pediatric,,
+6221,FLUCONAZOLE 2 MG/ML PGBK,fluconazole 2_mg/ml pgbk,Pharmacy,ONLINE,19/09/2016,fluconazole,pgbk,2_mg/ml,
+4808,C-BOOT/HEEL PROTECTOR,boot/heel protector,Supply,ONLINE,16/09/2016,protector,boot,heel,
+5404,HC TRANSESOPHAGEAL ECHO ENDO,transesophageal_echocardiogram endo,Cardiology,ONLINE,16/09/2016,echocardiogram,endo,transesophageal,
+3364,PROCALCITONIN,procalcitonin,Laboratory,RETROSPECTIVE,13/07/2016,procalcitonin,,,
+3893,FENTANYL CITRATE 0.1 MG INJ,fentanyl citrate 0.1_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,injection,fentanyl,0.1_mg,citrate
+4672,ACETAMINOPHEN 80 MG SUPP 6 EACH BLIST PACK,acetaminophen 80_mg suppository 6 each blister pack,Pharmacy,ONLINE,16/09/2016,supp,80_mg,pack,acetaminophen
+4086,LAB BLOOD TYPING RH,laboratory blood typing rhesus,Laboratory,RETROSPECTIVE,13/07/2016,rhesus,laboratory,blood,typing
+4740,BACITRACIN 500 UNIT/GRAM OINT 14 G TUBE,bacitracin 500_units/gram ointment 14 g tube,Pharmacy,ONLINE,16/09/2016,bacitracin,oint,tube,
+3960,HB DOTAREM (GADOTERATE MEGLUMINE),dotarem gadoterate meglumine,Pharmacy,RETROSPECTIVE,13/07/2016,meglumine,gadoterate,dotarem,
+5592,LACTULOSE 10 GM/15ML SOLN,lactulose 10_gm/15_ml solution,Pharmacy,ONLINE,16/09/2016,10_gm/15_ml,soln,lactulose,
+1130,ROOM RNB2,room room_and_board,Room and Board,RETROSPECTIVE,12/07/2016,rnb2,room,,
+3527,14755062 - QUETIAPINE FUMARATE TAB 200 MG,quetiapine fumarate tablet 200_mg,Pharmacy,RETROSPECTIVE,13/07/2016,quetiapine,fumarate,tablet,200_mg
+4162,OCTREOTIDE ACET (SANDOSTAT,octreotide acet sandostatin,Pharmacy,RETROSPECTIVE,13/07/2016,sandostatin,octreotide,acet,
+4530,VITAMIN D 25 HYDROX,vitamin d 25 hydroxy,Laboratory,ONLINE,29/08/2016,hydroxide,vitamin,,
+2670,VENT SUPPORT INITIAL DAY,ventilator support initial day,Respiratory Therapy,RETROSPECTIVE,12/07/2016,vent,initial,support,
+6292,RECOVERY ROOM 1ST 30MIN,recovery_room 1st 30min,OR / Anesthesia / Recovery Room,ONLINE,19/09/2016,30min,1st,recovery,room
+1511,SUCTION ARTIFICIAL AIRWAY,suction artificial airway,Supply,RETROSPECTIVE,12/07/2016,suction,artificial,airway,
+5686,MRI PELVIS NON CONTRAST,magnetic_resonance_imaging pelvis non contrast,Radiology,ONLINE,16/09/2016,pelvis,mri,non,contrast
+3969,HB FOUND ONE SEQUENCING,found one sequencing,Laboratory,RETROSPECTIVE,13/07/2016,sequencing,found,one,
+5230,HC ANES US GUIDE VASCULAR ACCESS,anesthesia ultrasound guide vascular access,Radiology,ONLINE,16/09/2016,access,us,anesthesia,vascular
+3617,64272000 - KIRBY BAUER SUSCEPTIBILITIES,kirby bauer susceptibilities,Laboratory,RETROSPECTIVE,13/07/2016,kirby,bauer,susceptibilities,
+3352,HCHRG ROOM AND BOARD INTENSIVE,room_and_board intensive,Room and Board,RETROSPECTIVE,13/07/2016,intensive,hchrg,room,board
+1466,SENSOR ADHESIVE NEONATAL 51050,sensor adhesive neonatal 51050,Supply,RETROSPECTIVE,12/07/2016,neonatal,adhesive,sensor,
+4042,HYDROMORPHONE UP TO 4 MG INJ,hydromorphone up to 4_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,hydromorphone,injection,4_mg,
+5620,LORAZEPAM 2 MG/ML SOLN 10 ML VIAL,lorazepam 2_mg/ml solution 10_ml vial,Pharmacy,ONLINE,16/09/2016,vial,lorazepam,10_ml,soln
+1010,METOCLOPRAMIDE HCL 5 MG/ML IJ SOLN,metoclopramide hcl 5_mg/ml injection solution,Pharmacy,RETROSPECTIVE,12/07/2016,injection,solution,hcl,
+1387,HB TUBE WASSERMAN,tube wasserman,Supply,RETROSPECTIVE,12/07/2016,tube,wasserman,,
+828,OXIMETRY CONTINUOUS MONITORING,oximetry continuous monitoring,Monitoring,RETROSPECTIVE,12/07/2016,continuous,oximetry,monitoring,
+609,LAB-IONIZED CA (WHOLE BLOOD),laboratory ionized calcium whole blood,Laboratory,RETROSPECTIVE,12/07/2016,laboratory,ionized,whole,blood
+3917,GLIPIZIDE 5 MG TAB,glipizide 5_mg tablet,Pharmacy,RETROSPECTIVE,13/07/2016,glipizide,5_mg,tablet,
+2775,64944000 - YEAST ID,yeast identification,Laboratory,RETROSPECTIVE,13/07/2016,id,yeast,,
+705,GLUCOSE  BLOOD BY MONITORING D,glucose blood by monitoring device,Monitoring,RETROSPECTIVE,12/07/2016,dipped,bay,monitoring,blood
+6121,US DPLR CMPL ABD PELVIS SCROTAL,ultrasound doppler complex abdomen pelvis scrotal,Radiology,ONLINE,16/09/2016,us,abd,pelvis,
+2396,MORPHINE 2MG/ML INJ,morphine 2_mg/ml injection,Pharmacy,RETROSPECTIVE,12/07/2016,2_mg/ml,inj,morphine,
+2191,DIAZEPAM 1MG/ML 5ML,diazepam 1_mg/ml 5_ml,Pharmacy,RETROSPECTIVE,12/07/2016,diazepam,1_mg_ml,5_ml,
+4748,BANDAGE SCISSORS,bandage scissors,Supply,ONLINE,16/09/2016,scissors,bandage,,
+2806,77072669 - SYRINGE HYPO 10ML DISP,syringe hypodermic_ 10_ml disposable,Supply,RETROSPECTIVE,13/07/2016,syringe,disposable,hypodermic_injection,10_ml
+4551,LEGION PNEUMOPHILIA AG IF 1,legion pneumophila antigen if 1,Laboratory,ONLINE,30/08/2016,legion,pneumophilia,antigen,
+187,HEPARIN/1000UN (5000/ML)1 1 DOSE,heparin/1000un 5000/ml 1 1 dose,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,dose,,,
+4711,ANESTHESIA,anesthesia,OR / Anesthesia / Recovery Room,ONLINE,16/09/2016,anesthesia,,,
+543,CULTURE OTHER SOURCE,culture other source,Laboratory,RETROSPECTIVE,12/07/2016,culture,source,,
+140,HEPARIN 100 U INJ,heparin 100_units injection,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,100_units,injection,
+5422,HC XR CHEST 2V,x-ray chest 2_views,Radiology,ONLINE,16/09/2016,chest,2v,xr,
+2931,CRYOPRECIPITATE EA (%CRY),cryoprecipitate each %cry,Blood Products,RETROSPECTIVE,13/07/2016,cryoprecipitate,%cry,,
+1956,HC ROUTINE VENIPUNCTURE,routine venipuncture,Nursing Services,RETROSPECTIVE,12/07/2016,venipuncture,routine,,
+1606,TRANSITIONAL CARE,transitional care,Room and Board,RETROSPECTIVE,12/07/2016,transitional,care,,
+5521,HYDROCORTISONE 1% CREA 30 G TUBE,hydrocortisone 1% cream 30 gram tube,Pharmacy,ONLINE,16/09/2016,tube,cream,,
+6171,ALPHA-1-ANTITRYPSIN FECES,alpha 1 antitrypsin feces,Laboratory,ONLINE,19/09/2016,alpha,feces,antitrypsin,
+5039,DISP: 5.000 ML; 10 MG/ML; USED NDC QTY: 5.000 PCK OF 5.000 ML VIAL ROCURONIUM 10 MG/ML INTRAVENOUS SOLUTION,dispensed 5.000_ml 10_mg/ml used ndc quantity 5 pack of 5.000_ml vial rocuronium 10_mg/ml intravenous solution,Pharmacy,ONLINE,16/09/2016,rocuronium,vial,ndc,disposable
+4432,ASPIRIN TAB EC 81MG,aspirin tablet_enteric_coated 81_mg,Pharmacy,ONLINE,29/08/2016,81_mg,each,tab,aspirin
+5667,MILRINONE 1 MG/ML SOLN 20 ML,milrinone 1_mg/ml solution 20_ml,Pharmacy,ONLINE,16/09/2016,20_ml,soln,milrinone,1_mg/ml
+1865,NICOTINE 21 MG/24 HR PT24,nicotine 21_mg/24 hour pt24,Plan Benefit,RETROSPECTIVE,12/07/2016,pt24,nicotine,21_mg/24,hour
+5841,POTASSIUM CHLORIDE 2 MEQ/M,potassium chloride 2_meq/ml,Pharmacy,ONLINE,16/09/2016,potassium,2_meq/m,chloride,
+6068,TRANSDUCER,transducer,Supply,ONLINE,16/09/2016,transducer,,,
+4506,RBC LEUKOREDUCED,red_blood_cell leukoreduced,Blood Products,ONLINE,29/08/2016,rbc,leukoreduced,,
+3006,HCHG DRSG GZE PETRO XERO 4INX3YD (AKA 43967),dressing gauze petroleum xeroform 4_inches_x_3_yards 43967,Supply,RETROSPECTIVE,13/07/2016,dressing,,,
+3984,HB KIT IV ABV 5 YR PREOP,kit intravenous abv 5 yr preoperative,Supply,RETROSPECTIVE,13/07/2016,iv,kit,,
+1501,ST - TX SWALLOW/FEEDING FN,set treatment swallow/feeding fn,Supply,RETROSPECTIVE,12/07/2016,set,swallow,feeding,treatment
+2164,GABAPENTIN 300 MG CAP 100,gabapentin 300_mg capillary 100,Pharmacy,RETROSPECTIVE,12/07/2016,cap,300_mg,gabapentin,
+1826,POTASSIUM CL 20MEQ SA TAB,potassium chloride 20_meq slow_action tablet,Pharmacy,RETROSPECTIVE,12/07/2016,potassium,cl,tab,
+3305,HB MICROARRAY: SNP ONCOLOGY,microarray single_nucleotide_polymorphism oncology,Laboratory,RETROSPECTIVE,13/07/2016,microarray,oncology,snp,
+4564,SCISSORS S/B 5 DISP,scissors sharp/blunt 5 disposable,Supply,ONLINE,30/08/2016,steel,scissors,b,disp
+2604,BASIC ANES SERVICES,basic anesthesia services,OR / Anesthesia / Recovery Room,RETROSPECTIVE,12/07/2016,services,anesthesia,basic,
+4156,NEW EVAL 15 MIN PT,new evaluation 15_minutes physical_therapy,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,new,evaluation,minutes,physical_therapy
+389,DORNASE ALFA 2.5ML SOLUTION,dornase alpha 2.5_ml solution,Plan Benefit,RETROSPECTIVE,12/07/2016,solution,alfa,2.5_ml,dornase
+6104,UNIPOLAR JSN HES SUPREME 6FR,unipolar jsn hes supreme 6fr,Supply,ONLINE,16/09/2016,6fr,unipolar,jsn,supreme
+1426,KIT  ARTERIAL LINE (CUSTOM),kit arterial line custom,Supply,RETROSPECTIVE,12/07/2016,arterial,line,custom,kit
+2633,AUDIT EVOKED POTENTIAL LIMITED,auditory evoked potential limited,PT / OT / Speech Therapy,RETROSPECTIVE,12/07/2016,audit,limited,evoked,
+2139,MORPHINE 2 MG/ML SYRG,morphine 2_mg/ml syringe,Pharmacy,RETROSPECTIVE,12/07/2016,2_mg/ml,syrg,morphine,
+6100,TY CATH FOLEY SURESTEP DR BG LTX-F 16FR,tray catheter foley surestep drainage bag latex-free 16_french,Supply,ONLINE,16/09/2016,foley,cath,tray,bg
+1652,TELEMETRY,telemetry,Monitoring,RETROSPECTIVE,12/07/2016,telemetry,,,
+2587,SPIROMETER VOL 4 LTR BA,spirometer volume 4 liter bag,Supply,RETROSPECTIVE,12/07/2016,vol,ba, ,
+499,SILDENAFIL ORAL,sildenafil oral,Plan Benefit,RETROSPECTIVE,12/07/2016,oral,sildenafil,,
+3403,11001212 - ACETAZOLAMIDE SOD UP TO 500MG,acetazolamide sodium up to 500_mg,Pharmacy,RETROSPECTIVE,13/07/2016,500_mg,acetazolamide,sodium,
+3231,VECURONIUM BR 10MG INJ,vecuronium bromide 10_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,injection,vecuronium,br,10_mg
+3186,SURG LEVEL IV-ADD 30 MIN,surgery level IV additional 30 minutes,OR / Anesthesia / Recovery Room,RETROSPECTIVE,13/07/2016,additional,surgical,minutes,intravenous
+5323,HC INTERM STEPDOWN ICU ROOM AND CARE,intermediate stepdown intensive_care_unit room and care,Room and Board,ONLINE,16/09/2016,icu,room,stepdown,care
+4258,SODIUM CHLORIDE 0.9% PARENTERAL SOLUTION,sodium_chloride 0.9% parenteral solution,Diluent / Flush / Irrigant,RETROSPECTIVE,13/07/2016,parenteral,chloride,solution,sodium
+2669,CYSTEINE (L-CYSTEINE) 50 MG/ML SOLN 50 ML EXTEMP,cysteine l cysteine 50_mg/ml solution 50_ml extemp,Pharmacy,RETROSPECTIVE,12/07/2016,50_ml,soln, ,
+1454,PK HOT THRPTC SM 11X4.25,pack hot therapeutic same 11x4.25,Supply,RETROSPECTIVE,12/07/2016,11x4.25,hot,thrpsm,pack
+3571,58857000 - ALVEOLAR LAVAGE PROCEDURE,alveolar lavage procedure,Respiratory Therapy,RETROSPECTIVE,13/07/2016,alveolar,lavage,procedure,
+930,DEXMEDETOMIDINE 200 MCG/2ML 0409-1638-02,dexmedetomidine 200 mcg/2_ml 409 1638 2,Pharmacy,RETROSPECTIVE,12/07/2016,dexmedetomidine,,,
+1027,NIACIN 100 MG TAB,niacin 100_mg tablet,Pharmacy,RETROSPECTIVE,12/07/2016,niacin,100_mg,tablet,
+5103,FAT EMULSION 20% EMUL 100 ML BAG,fat emulsion 20% emulsion 100_ml bag,Pharmacy,ONLINE,16/09/2016,100_ml,emul,bag,
+4591,CYCLOPENTOLATE 0.2%/PHENYLEPHRINE 1% OPHTH SOLN 2M,cyclopentolate 0.2%/phenylephrine 1% ophthalmic solution 2m,Pharmacy,ONLINE,01/09/2016,soln,,,
+1011,METRONIDAZOLE 500 MG PO TABS,metronidazole 500_mg by_mouth tablets,Pharmacy,RETROSPECTIVE,12/07/2016,metronidazole,po,tablets,500_mg
+5232,HC ANESTH PROCEDURE ROOM FEE,anesthesia procedure room fee,OR / Anesthesia / Recovery Room,ONLINE,16/09/2016,fee,anesthesia,procedure,room
+5726,OMEPRAZOLE 20 MG CPDR 1 000 EACH BOTTLE,omeprazole 20_mg cpdr 1 000 each bottle,Pharmacy,ONLINE,16/09/2016,cpdr,20_mg,bottle,omeprazole
+1420,IV SET PRIMARY SET,intravenous set primary set,Supply,RETROSPECTIVE,12/07/2016,set,intravenous,primary,
+1920,HEPARIN (PORCINE) PF 5 000UNITS/0.5ML SYRG,heparin porcine partial_fill 5 000_units/0.5_ml syringe,Pharmacy,RETROSPECTIVE,12/07/2016,heparin,pf,syrg,porcine
+822,O2 SATURATION DIRECT,oxygen saturation direct,Monitoring,RETROSPECTIVE,12/07/2016,saturation,direct,oxygen,
+2166,HC PHOSPHORUS INORGANIC (PHOSPHATE);,phosphorus inorganic phosphate,Laboratory,RETROSPECTIVE,12/07/2016,inorganic,phosphate,phosphorus,
+5981,SODIUM CL 0.9% IRRIG 500 CC,sodium_chloride 0.9% irrigation 500 cubic_centimeters,Diluent / Flush / Irrigant,ONLINE,16/09/2016,irrig,cl,sodium,
+1417,IV SET 30 SECONDARY,intravenous set 30 secondary,Supply,RETROSPECTIVE,12/07/2016,set,intravenous,secondary,
+3307,HB MRI C-SPINE W/ CONTRAST,magnetic_resonance_imagery cervical spine with contrast,Radiology,RETROSPECTIVE,13/07/2016,spine,cap,mri,contrast
+694,ETCO2 SPOT CHECK-EACH >3 C,end_tidal_carbon_di_oxide spot check each greater_than 3 cap,Monitoring,RETROSPECTIVE,12/07/2016,spot,check,,
+6186,CATHETER PICC DOUBLE LUMEN,catheter peripherally_inserted_central_catheter double_lumen,Supply,ONLINE,19/09/2016,double,catheter,picc,lumen
+236,NS 50ML IV,normal_saline 50_ml intravenous,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,50_ml,intravenous,NS,
+1958,MULTIVITAMIN DROP,multivitamin drop,Pharmacy,RETROSPECTIVE,12/07/2016,drop,multivitamin,,
+2252,NOREPINEPHRINE 1 MG/ML SOLN 4 ML VIAL,norepinephrine 1_mg/ml solution 4_ml vial,Pharmacy,RETROSPECTIVE,12/07/2016,vial,4_ml,soln,
+662,SODIUM WB ASSAY,sodium whole_blood assay,Laboratory,RETROSPECTIVE,12/07/2016,WB,assay,sodium,
+172,HEPARIN INF 25000UN,heparin infusion 25000 units,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,units,infusion,
+2551,ELECTROLYTE PANEL (CHEM 4),electrolyte panel chemistry 4,Laboratory,RETROSPECTIVE,12/07/2016,chemistry,electrolyte,panel,
+6295,SEDIMENTATION RATE RBC AUT,sedimentation rate red_blood_cell automated,Laboratory,ONLINE,19/09/2016,sedimentation,rate,aut,rbc
+3312,HB NORMAL SALINE IRRIG 500ML BOTT,normal_saline irrigation 500_ml bottle,Diluent / Flush / Irrigant,RETROSPECTIVE,13/07/2016,saline,irrig,500_ml,normal
+876,PULSE OXIMETRY-CONTINUOUS,pulse oximetry continuous,Monitoring,RETROSPECTIVE,12/07/2016,continuous,oximetry,pulse,
+349,WATER FOR IRRIGATION  STERILE SOLUTION,water for irrigation sterile solution,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,water,irrigation,sterile,solution
+2730,58119000 - BIPAP/CPAP SET UP,bipap/continuous_positive_airway_pressure set up,Respiratory Therapy,RETROSPECTIVE,13/07/2016,set,continuous_positive_airway_pressure,bipap,
+4944,CULTURE BACTERIA OTHER 1,culture bacteria other 1,Laboratory,ONLINE,16/09/2016,culture,bacteria,,
+332,SOL NORMAL SALINE 0.9% SC 5,solution normal saline 0.9% subcutaneous 5,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,saline,subcutaneous,solution,normal
+21,EQ-JOBST ATHROMBIC PUMP,equipment jobst athrombic pump,Capital Equipment,RETROSPECTIVE,12/07/2016,jobst,equipment,pump,antithrombic
+3887,FAMOTIDINE 20MG/2ML,famotidine 20_mg/2_ml,Pharmacy,RETROSPECTIVE,13/07/2016,20_mg/2_ml,famotidine,,
+1386,HB TRAY  URETH  CATH  RED,tray urethral catheter red,Supply,RETROSPECTIVE,12/07/2016,catheter,tray,red,urethral
+1561,WARMER HEEL INFANT,warmer heel infant,Supply,RETROSPECTIVE,12/07/2016,infant,warmer,heel,
+3970,HB GENTAMICIN 40MG/ML VIAL,gentamicin 40_mg/ml vial,Pharmacy,RETROSPECTIVE,13/07/2016,vial,40_mg/ml,gentamicin,
+483,SILDENAFIL 2.5 MG/ML SUSP,sildenafil 2.5_mg/ml suspension,Plan Benefit,RETROSPECTIVE,12/07/2016,suspension,sildenafil,2.5mg/ml,
+4894,CLIP APPLIER LG MCL20 DISP,clip applier large mcl20 disposable,Supply,ONLINE,16/09/2016,large,disp,applier,clip
+118,HB 5% DEXTROSE/WATER 250ML,5% dextrose/water 250_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,5%,250_ml,dextrose,water
+1760,LEVOCARNITINE 100 MG/ML SOLUTION,levocarnitine 100_mg/ml solution,Pharmacy,RETROSPECTIVE,12/07/2016,100_mg/ml,solution,levocarnitine,
+5728,ONDANSETRON 4 MG/2 ML INJ,ondansetron 4_mg/2_ml injection,Pharmacy,ONLINE,16/09/2016,ondansetron,inj,4_mg/2_ml,
+5890,REACHER REGULAR DISP,reacher regular disposable,Supply,ONLINE,16/09/2016,regular,disp,reacher,
+2678,06500001 - POC BS GLUCOSE 4E TELE (GS),point_of_care blood_sugar glucose 4e telemetry,Monitoring,RETROSPECTIVE,13/07/2016,point_of_care,telemetry,glucose,
+5161,FORMULA: NEOCATE INFANT 15 KCAL/OUNCE,formula neocate infant 15 kcal/ounce,Supply,ONLINE,16/09/2016,infant,ounce,,
+5597,LEAD SPRINT QUATTRO SECURE S 62CM,lead sprint quattro secure s 62cm,Supply,ONLINE,16/09/2016,lead,,,
+3907,FUROSEMIDE 20 MG INJ,furosemide 20_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,injection,furosemide,20_mg,
+4132,METRONIDAZOLE 500 MG TABLET,metronidazole 500_mg tablet,Pharmacy,RETROSPECTIVE,13/07/2016,metronidazole,tablet,500_mg,
+4525,TERUMO CATH GW 25-101,terumo catheter guide_wire 25 101,Supply,ONLINE,29/08/2016,gw,cath,terumo,
+648,RCH LAB-WHOLE BLOOD GLUCOS,laboratory whole blood glucose,Laboratory,RETROSPECTIVE,12/07/2016,laboratory,whole,blood,glucose
+408,HB NITRIC OXIDE-1 HOUR,nitric oxide 1 hour,Plan Benefit,RETROSPECTIVE,12/07/2016,oxide,hour,nitric,
+330,SODIUM CL C,sodium chloride cap,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,c,chloride,sodium,
+78,20800462-D5W SOLP 100 ML BAG,dextrose_5%_in_water solution 100_ml bag,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,100_ml,solution,bag,
+1134,ROOM RNB6,room room_and_board,Room and Board,RETROSPECTIVE,12/07/2016,rnb6,room,,
+1046,PROMETHAZINE 25 MG/1,promethazine 25_mg/1,Pharmacy,RETROSPECTIVE,12/07/2016,promethazine,25_mg/1,,
+2061,FENTANYL CITRATE 0.1MG INJ,fentanyl citrate 0.1_mg injection,Pharmacy,RETROSPECTIVE,12/07/2016,inj,fentanyl,0.1_mg,citrate
+1151,AIRWAY CARE,airway care,Respiratory Therapy,RETROSPECTIVE,12/07/2016,care,airway,,
+2685,11791262 - CODLIVEROIL/ZINC OXD OINT113GM,cod_liver_oil/zinc_oxide ointment 113_grams,Pharmacy,RETROSPECTIVE,13/07/2016,codliveroil,oxide,oint113_gm,zinc
+4035,HSV 1 2 IGM,hsv 1 2 igm,Laboratory,RETROSPECTIVE,13/07/2016,igm,hsv,,
+2487,HC ED VISIT CRITICAL CARE M25,emergency_department visit critical care m25,Other,RETROSPECTIVE,12/07/2016,critical,care, ,
+3540,15600242 - VANCOMYCIN HCL 500MG INJ,vancomycin hcl 500_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,injection,500_mg,vancomycin,hcl
+212,NACL 0.9% MINI BAG P,sodium_chloride 0.9% mini bag powder,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,mini,bag,NaCl,
+2896,C-PEPTIDE,C-peptide,Laboratory,RETROSPECTIVE,13/07/2016,peptide,,,
+1436,MICROBORE Y-SET,microbore y set,Supply,RETROSPECTIVE,12/07/2016,microbore,set,,
+2152,OMEPRAZOLE 20 MG CPDR,omeprazole 20_mg cpdr,Pharmacy,RETROSPECTIVE,12/07/2016,cpdr,20_mg,omeprazole,
+2088,SODIUM CHLORIDE 0.45 % SOLN 1 000 ML FLEX CONT,sodium chloride 0.45% solution 1 000_ml flex control,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,flex,000_ml,chloride,soln
+1678,CROSS MATCH RESULT,cross match result,Laboratory,RETROSPECTIVE,12/07/2016,cross,match,result,
+1695,HCHG COOMBS INDIRECT,coombs indirect,Laboratory,RETROSPECTIVE,12/07/2016,coombs,indirect,,
+131,HEPARIN (PORCINE) 10 UNI,heparin porcine 10_units,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,10_units,porcine,
+4969,DEXAMETHASONE 0.1% DROP 5 ML DROP BTL,dexamethasone 0.1% drop 5_ml drop bottle,Pharmacy,ONLINE,16/09/2016,5_ml,drop,bottle,dexamethasone
+3271,HB CNSLT SURGERY W/ FRZN SECT,consult surgery with frozen section,Laboratory,RETROSPECTIVE,13/07/2016,surgery,cnslt,frzn,sect
+4654,0.9% NACL 0.9 % SOLN 50 ML FLEX CONT,0.9% sodium_chloride 0.9% solution 50_ml flex cont,Diluent / Flush / Irrigant,ONLINE,16/09/2016,50_ml,flex,continuous,soln
+363,ANTITHROMBIN III 500 UN,antithrombin iii 500_units,Plan Benefit,RETROSPECTIVE,12/07/2016,500_units,iii,antithrombin,
+1324,DRESSING PETRO 9X3 IN,dressing petrolium 9x3 injection,Supply,RETROSPECTIVE,12/07/2016,petrolium,9x3,dressing,
+2900,CALCIUM GLUCON.10ML-100MG/ML,calcium gluconate 10_ml 100_mg/ml,Pharmacy,RETROSPECTIVE,13/07/2016,calcium,glucon.10_ml,100_mg/ml,
+347,WATER 250ML (IRRIG),water 250_ml irrigation,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,water,250_ml,irrigation,
+2272,CALCIUM CARBONATE CHEWABLE,calcium carbonate chewable,Pharmacy,RETROSPECTIVE,12/07/2016,calcium,carbonate,chewable,
+4026,HB VANCOMYCIN 5GM VIAL LEDERLE,vancomycin 5_gm vial lederle,Pharmacy,RETROSPECTIVE,13/07/2016,vial,lederle,5_gm,vancomycin
+3181,STMETHICONE-80MG U/D,simethicone 80_mg unit dose,Pharmacy,RETROSPECTIVE,13/07/2016,device,80_mg,u,stmethicone
+30,HB EPUMP FEED ST 1000ML,enteral_feeding_pump feed sterile 1000_ml,Capital Equipment,RETROSPECTIVE,12/07/2016,feed,epump,1000_ml,st
+2160,METRONIDAZOLE 500 MG/100 ML PGBK,metronidazole 500_mg/100_ml pgbk,Pharmacy,RETROSPECTIVE,12/07/2016,metronidazole,500_mg/100_ml,pgbk,
+5687,MRSA SCREEN PCR NASAL,mrsa screen pcr nasal,Laboratory,ONLINE,16/09/2016,pcr,mrsa,screen,nasal
+920,CHROMIUM CHLORIDE 10ML 4MCG/ML,chromium chloride 10_ml 4_mcg/ml,Pharmacy,RETROSPECTIVE,12/07/2016,10_ml,chloride,chromium,4_mcg/ml
+1082,DAILY BED & SERVICE,daily bed & service,Room and Board,RETROSPECTIVE,12/07/2016,service,bed,daily,
+579,HC CALCIUM IONIZED,calcium ionized,Laboratory,RETROSPECTIVE,12/07/2016,calcium,ionized,,
+2705,27102000 - XR CHEST 2 VWS PA LATERAL,x-ray chest 2 views posterior_anterior lateral,Radiology,RETROSPECTIVE,13/07/2016,chest,,,
+2149,DEXTROSE 10% IN WATER (D10W) 10 % SOLP 250 ML BAG,dextrose 10% in water d10w 10% solution 250_ml bag,Pharmacy,RETROSPECTIVE,12/07/2016,water,250_ml,dextrose,solution
+2043,O2 THERAPY DAILY,oxygen therapy daily,Respiratory Therapy,RETROSPECTIVE,12/07/2016,Oxygen,Daily,,
+4517,SODIUM PHOS INJ 4MEQ/,sodium phosphate injection 4_milliequivalents,Pharmacy,ONLINE,29/08/2016,inj,phos,4_meq/,sodium
+6084,TRIAMCINOLONE ACETONIDE 0.1 % OINT 15 G TUBE,triamcinolone acetonide 0.1% ointment 15 gram tube,Pharmacy,ONLINE,16/09/2016,oint,tube,,
+5373,HC RENAL FUNCTION PANEL,renal function panel,Laboratory,ONLINE,16/09/2016,function,renal,panel,
+1542,TUBE  FEEDING  5 FR  PHARM,tube feeding 5 fr pharmacy,Supply,RETROSPECTIVE,12/07/2016,tube,feeding,pharmacy,
+5217,HAEMOPHILUS B CONJUGATE VA,haemophilus b conjugate vaccine,Pharmacy,ONLINE,16/09/2016,va,haemophilus,b,conjugate
+6133,VANCOMYCIN 50 MG/ML SOLR 1 EACH VIAL,vancomycin 50_mg/ml solution 1 each vial,Pharmacy,ONLINE,16/09/2016,vial,50_mg/ml,vancomycin,solution
+6264,NUCLEAR MITOCHONDRIAL 100,nuclear mitochondrial 100,Laboratory,ONLINE,19/09/2016,nuclear,mitochondrial,,
+4382,METHYLPREDNIS (SOLU-MEDRO; SOLU-MEDROL 125 MG/2ML VIAL,methylprednisolone solu-medrol solu medrol 125_mg/2_ml vial,Pharmacy,ONLINE,24/08/2016,vial,,,
+6153,XR FOREARM 2 VIEWS,x-ray forearm 2 views,Radiology,ONLINE,16/09/2016,views,xr,forearm,
+1767,FLUDROCORTISONE 0.1 MG TAB,fludrocortisone 0.1_mg tablet,Pharmacy,RETROSPECTIVE,12/07/2016,fludrocortisone,0.1_mg,tab,
+1258,TRACH CARE 15 MIN BY RESP THER,tracheostomy care 15 minutes by respiratory therapist,Respiratory Therapy,RETROSPECTIVE,12/07/2016,tracheostomy,respiratory,bay,minimum
+2104,CBC WITH DIFERENTIAL,complete_blood_count with differential,Laboratory,RETROSPECTIVE,12/07/2016,cbc,differential,,
+3418,11332962 - IOHEXOL 240MG/ML ORAL 50ML,iohexol 240_mg/ml oral 50_ml,Pharmacy,RETROSPECTIVE,13/07/2016,50_ml,iohexol,oral,240_mg/ml
+5135,FERUMOXYTOL 510 MG/17ML SOLN 17 ML VIAL,ferumoxytol 510_mg/17_ml solution 17_ml vial,Pharmacy,ONLINE,16/09/2016,vial,soln,,
+3920,GLUCOSE  QUANTITATIVE (GLU,glucose quantitative glucose,Laboratory,RETROSPECTIVE,13/07/2016,quantitative,glucose,,
+2519,COMPREH METABOLIC PANEL,comprehend metabolic panel,Laboratory,RETROSPECTIVE,12/07/2016,metabolic,panel,comprehend,
+2143,HC SENSOR ADULT DISP,sensor adult disposable,Supply,RETROSPECTIVE,12/07/2016,disp,sensor,adult,
+5522,HYDROGEN PEROXIDE 4OZ.,hydrogen peroxide 4oz,Pharmacy,ONLINE,16/09/2016,peroxide,4oz,hydrogen,
+2097,PREDNISOLONE PER 5MG LIQ (3MG),prednisolone per 5_mg liquid 3_mg,Pharmacy,RETROSPECTIVE,12/07/2016,5_mg,prednisolone,liquid,per
+2282,DOPP ECHO LTD,doppler echocardiogram ltd,Cardiology,RETROSPECTIVE,12/07/2016,ltd,echo,dopp,
+415,HC-(EACH ADDTL MINUTE) NITRIC OXIDE THERAPY & GAS,each additional minute nitric oxide therapy & gas,Plan Benefit,RETROSPECTIVE,12/07/2016,additional,gas,oxide,therapy
+1306,CATH IV 24G X 9/16 IN,catheter intravenous 24_gm x 9/16 injection,Supply,RETROSPECTIVE,12/07/2016,catheter,intravenous,24g,
+3801,CALCIUM CHLORIDE 10%,calcium chloride 10%,Pharmacy,RETROSPECTIVE,13/07/2016,calcium,chloride,10%,
+706,GLUCOSE  BLOOD GLUCOSE MONITORING,glucose blood glucose monitoring,Monitoring,RETROSPECTIVE,12/07/2016,monitoring,blood,glucose,
+2954,DOCUSATE NA 100MG CP,docusate sodium 100_mg capsule,Pharmacy,RETROSPECTIVE,13/07/2016,100_mg,cpap,docusate,sodium
+2216,VANCOMYCIN 1 000 MG SOLR 1 EACH VIAL,vancomycin 1 000_mg solution 1 each vial,Pharmacy,RETROSPECTIVE,12/07/2016,vial,vancomycin,solution,
+5824,PORPHOBILINOGEN U,porphobilinogen u,Laboratory,ONLINE,16/09/2016,u,porphobilinogen,,
+1518,SYRINGE CATHETER TIP 60CC DISP,syringe catheter tip 60_cc disposable,Supply,RETROSPECTIVE,12/07/2016,syringe,disposable,catheter,tip
+2461,CATH BALLOON HYPERFORM 7X4,catheter balloon hyperform 7x4,Supply,RETROSPECTIVE,12/07/2016,7x4,cath,balloon,
+2085,POTASSIUM PHOSPHATE INJ 15ML,potassium phosphate injection 15_ml,Pharmacy,RETROSPECTIVE,12/07/2016,potassium,phosphate,inj,15_ml
+1925,AMINOCAPROIC ACID 5000MG/,aminocaproic acid 5000_mg/,Pharmacy,RETROSPECTIVE,12/07/2016,acid,5000mg/,aminocaproic,
+5884,RANITIDINE 25 MG/ML SOLN,ranitidine 25_mg/ml solution,Pharmacy,ONLINE,16/09/2016,ranitidine,25_mg/ml,soln,
+4023,HB TOT PROTEIN; CSF,total protein cerebrospinal_fluid,Laboratory,RETROSPECTIVE,13/07/2016,protein,total,csf,
+1664,BLOOD TYPING SEROLOGIC RH,blood typing serologic rhesus,Laboratory,RETROSPECTIVE,12/07/2016,serologic,rhesus,blood,typing
+2677,04500010 - EMER GSH CRIT CARE 30-74MIN,emergency gsh critical care 30-74min,Other,RETROSPECTIVE,13/07/2016,critical,emergency,care,
+3589,62011000 - ATYPICAL ANTIBODY SCREEN,atypical antibody screen,Laboratory,RETROSPECTIVE,13/07/2016,screen,atypical,antibody,
+86,D5W 250ML,dextrose_5%_in_water 250_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,250_ml,D5W,,
+1959,CEFAZOLIN 500MG/5ML INJ,cefazolin 500_mg/5_ml injection,Pharmacy,RETROSPECTIVE,12/07/2016,cefazolin,inj,500_mg/5_ml,
+5554,INTUBATION STYLET 14FR,intubation stylet 14_french,Supply,ONLINE,16/09/2016,14fr,intubation,stylet,
+3113,POT CL20MEQ MIC CRTB,potassium chloride 20_milliequivalents mic cr tablet,Pharmacy,RETROSPECTIVE,13/07/2016,crtb,pot,cl20_meq,microclave
+813,K ISTAT,potassium istat,Monitoring,RETROSPECTIVE,12/07/2016,potassium,istat,,
+3962,HB ELECTRODE 3FR X 105CM BUZZBY,electrode 3fr x 105cm buzzby,Supply,RETROSPECTIVE,13/07/2016,electrode,,,
+2044,CRRT DLY,continuous_renal_replacement_therapy daily,Dialysis,RETROSPECTIVE,12/07/2016,crrt,daily,,
+3963,HB ELECTRONIC CROSSMATCH C16,electronic crossmatch c16,Laboratory,RETROSPECTIVE,13/07/2016,crossmatch,electronic,c16,
+3409,11041282 - ALTEPLASE 1MG  INJ,alteplase 1_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,1_mg,injection,alteplase,
+3227,VANCOMYCIN HCL. 500 MG-INJ,vancomycin hydrochloride 500_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,injection,500_mg,vancomycin,hcl
+6140,VECURONIUM HA 1MG/ ML 10MG SYR,vecuronium ha 1_mg/ml 10_mg syringe,Pharmacy,ONLINE,16/09/2016,syr,10_mg,,
+5344,HC MOBILITY D/C STATUS,mobility discontinue status,PT / OT / Speech Therapy,ONLINE,16/09/2016,status,d/c,mobility,
+4918,CR ABDOMEN SINGLE AP VIEW,cr abdomen single anterior_posterior view,Radiology,ONLINE,16/09/2016,ap,cr,single,abdomen
+4841,CATH IV 22GX1 4252519-02,catheter intravenous 22gaugex1 4252519 02,Supply,ONLINE,16/09/2016,cath,iv,22gx1,
+2062,DRESSING TEGADERM 4X4 3/4,dressing tegaderm 4x4 3/4,Supply,RETROSPECTIVE,12/07/2016,tegaderm,4x4,dressing,
+3626,65009001 - HEMOGRAM W/O DIFFERENTIAL,hemogram without differential,Laboratory,RETROSPECTIVE,13/07/2016,without,hemogram,differential,
+6291,RAD S&I FOR LONG GI TUBE,radiology s&i for long gastrointestinal tube,Radiology,ONLINE,19/09/2016,tube,radiology,,
+5826,POSITIONER BODY ALIGN FOAM,positioner body align foam,Supply,ONLINE,16/09/2016,body,positioner,foam,align
+82,D5W,dextrose_5%_in_water,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,D5W,,,
+528,CALCIUM IONIZED BLOOD,calcium ionized blood,Laboratory,RETROSPECTIVE,12/07/2016,calcium,ionized,blood,
+5028,DISP: 1.660 ML; 10 %; USED NDC QTY: 1.000 PCK OF 10.000 ML VIAL CALCIUM GLUCONATE 1 GRAM IV SOLUTION CALCIUM GLUCONATE 100 MG/ML (10 %) INTRAVENOUS SOLUTION,dispensed 1.660_ml 10% used ndc quantity 1 pack of 10.000_ml vial calcium gluconate 1 gram intravenous solution calcium gluconate 100_mg/ml 10% intravenous solution,Pharmacy,ONLINE,16/09/2016,vial,ndc,disposable,solution
+5899,RESVR DRN BULB EVC 100ML 00707,reservoir drain bulb evc 100_ml 00707,Supply,ONLINE,16/09/2016,100_ml,drain,,
+3752,AMLODIPINE 5MG TAB,amlodipine 5_mg tablet,Pharmacy,RETROSPECTIVE,13/07/2016,amlodipine,5_mg,tablet,
+916,CEFTRIAXONE 2 GRAM/50 ML PGBK,ceftriaxone 2 gram/50_ml pgbk,Pharmacy,RETROSPECTIVE,12/07/2016,ceftriaxone,pgbk,gram/50_ml,
+614,LACTATE (LAC,lactate lactate,Laboratory,RETROSPECTIVE,12/07/2016,lactate,,,
+1999,SM VOL NEBULIZER TX SUBSEQUENT,same volume nebulizer treatment subsequent,Respiratory Therapy,RETROSPECTIVE,12/07/2016,subsequent,nebulizer,tx,
+667,UREA NITROGEN QUANTITATIVE,urea nitrogen quantitative,Laboratory,RETROSPECTIVE,12/07/2016,quantitative,urea,nitrogen,
+4108,LODIXANOL 320 MG IODINE/ML SOLUTION,lodixanol 320_mg iodine/ml solution,Pharmacy,RETROSPECTIVE,13/07/2016,ml,solution,,
+1908,AMOXICILLIN SUSPENSION 50 M WCH00-0004-28,amoxicillin suspension 50 m wch00 4 28,Pharmacy,RETROSPECTIVE,12/07/2016,suspension,wch00,,
+968,INJECTION  VORICONAZOLE  1,injection voriconazole 1,Pharmacy,RETROSPECTIVE,12/07/2016,injection,voriconazole,,
+5351,HC PACU CLASS 2 NPR 1:1,post_anesthesia_care_unit class 2 npr 1 1,OR / Anesthesia / Recovery Room,ONLINE,16/09/2016,class,pacu,npr,
+5835,POTASSIUM CHLORIDE 10 % 1.33 MEQ/ML LIQD,potassium chloride 10% 1.33_meq/ml liquid,Pharmacy,ONLINE,16/09/2016,potassium,chloride,liqd,
+882,TC HEMATOCRIT (EPOC),hematocrit enterprise_point_of_care,Monitoring,RETROSPECTIVE,12/07/2016,hematocrit,epoc,,
+5821,POLYETHYLENE GLYCOL 17 GRAM PWPK 8.5 G CUP,polyethylene glycol 17 gram powder_pack 8.5 g cup,Pharmacy,ONLINE,16/09/2016,polyethylene,cup,glycol,gram
+5349,HC OT EVAL 15-30MIN,occupational_therapy evaluation 15 30min,PT / OT / Speech Therapy,ONLINE,16/09/2016,evaluation,30min,ot,
+2312,EPHEDRINE 10ML INJ PRE-FILLED,ephedrine 10_ml injection pre filled,Pharmacy,RETROSPECTIVE,12/07/2016,inj,10_ml,,
+2223,LISINOPRIL 2.5MG/TAB UDT,lisinopril 2.5_mg/tablet udt,Pharmacy,RETROSPECTIVE,12/07/2016,udt,2.5_mg/tablet,lisinopril,
+344,CALCIUM IONIZED,calcium ionized,Laboratory,RETROSPECTIVE,12/07/2016,calcium,ionized,,
+647,QLAB=SODIUM,qlab sodium,Laboratory,RETROSPECTIVE,12/07/2016,qlab,sodium,,
+3197,SWALLOW / FEED THERAPY 15,swallow/feeding therapy 15,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,swallow,feed,therapy,
+1020,MS CONTIN 100MG SR TABLET,med_surg continuous 100_mg slow_release tablet,Pharmacy,RETROSPECTIVE,12/07/2016,sar,continuous,MS,100_mg
+4726,ARM RESTRAINT,arm restraint,Supply,ONLINE,16/09/2016,restraint,arm,,
+2106,LABETALOL 5MG/ML 4ML INJ SYR,labetalol 5_mg/ml 4_ml injection syringe,Pharmacy,RETROSPECTIVE,12/07/2016,syr,labetalol,inj,4_ml
+4321,VANCOMYCIN 1G/D5W 200ML,vancomycin 1_gm/dextrose_5%_in_water 200_ml,Pharmacy,RETROSPECTIVE,13/07/2016,200_ml,1_gm/dextrose_5%_in_water,vancomycin,
+4310,UA  AUTO W SCOPE,urinalysis automated with scope,Laboratory,RETROSPECTIVE,13/07/2016,urinalysis,scope,automated,
+5916,ROPIVACAINE 05% INJ 30ML,ropivacaine 05% injection 30_ml,Pharmacy,ONLINE,16/09/2016,ropivacaine,5%,inj,30_ml
+581,HC GLUCOSE QUANTATIVE BLOOD,glucose quantitative blood,Laboratory,RETROSPECTIVE,12/07/2016,quantitative,blood,glucose,
+6188,CHEMILUMINESCENT ASSAY IGF,chemiluminescent assay igf,Laboratory,ONLINE,19/09/2016,igf,assay,chemiluminescent,
+2193,HC PHOSPHATASE ALKALINE;,phosphatase alkaline,Laboratory,RETROSPECTIVE,12/07/2016,alkaline,phosphatase,,
+238,NS FLUSH 10ML IJ,normal_saline flush 10_ml injection,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,injection,flush,10_ml,NS
+768,HB-GLUCOSE  POC,glucose point_of_care,Monitoring,RETROSPECTIVE,12/07/2016,POC,glucose,,
+2262,VENTILATOR-PEDS SUBSEQ DAY,ventilator pediatrics subsequent day,Respiratory Therapy,RETROSPECTIVE,12/07/2016,ventilator,subseq,pediatrics,day
+2360,ACETAMINOPHEN 325MG TAB,acetaminophen 325_mg tablet,Pharmacy,RETROSPECTIVE,12/07/2016,325_mg,tab,acetaminophen,
+3864,DEXAMETH NA 1MG INJ,dexamethasone sodium 1_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,1_mg,injection,sodium,dexamethasone
+3293,HB HYDROXYZINE HCL 25MG TAB UD U,hydroxyzine hydrochloride 25_mg tablet unit_dose u,Pharmacy,RETROSPECTIVE,13/07/2016,25_mg,tab,hydrochloride,
+4844,CATH PULMONARY WEDGE PRESS MONITOR 7FR,catheter pulmonary wedge pressure monitor 7fr,Supply,ONLINE,16/09/2016,cath,monitor,,
+4054,INSULIN 5 UNITS INJ,insulin 5_units injection,Pharmacy,RETROSPECTIVE,13/07/2016,5_units,injection,insulin,
+228,NS 100ML INJ,normal_saline 100_ml injection,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,100_ml,injection,NS,
+1799,ALBUTEROL SULFATE 0.083% INTERMITTENT I,albuterol sulfate 0.083% intermittent i,Pharmacy,RETROSPECTIVE,12/07/2016,0.08%,albuterol,sulfate,intermittent
+2397,MIDAZOLAM 2 MG INJ,midazolam 2_mg injection,Pharmacy,RETROSPECTIVE,12/07/2016,2_mg,inj,midazolam,
+818,MONITORING CARDIO/RESP/OXIM,monitoring cardio/respiratory/oximetry,Monitoring,RETROSPECTIVE,12/07/2016,cardio,respiratory,oximetry,monitoring
+1520,SYRINGE-NEONATAL,syringe neonatal,Supply,RETROSPECTIVE,12/07/2016,syringe,neonatal,,
+1434,LINER SUCTION 1500ML,liner suction 1500_ml,Supply,RETROSPECTIVE,12/07/2016,suction,liner,1500_ml,
+5139,FIBRN ACTV,fibrinogin activity,Laboratory,ONLINE,16/09/2016,fibrin,activity,,
+3497,14105002 - OCEAN NASAL 45ML,ocean nasal 45_ml,Supply,RETROSPECTIVE,13/07/2016,45_ml,nasal,ocean,
+4209,PREDNISONE 20 MG TAB,prednisone 20_mg tablet,Pharmacy,RETROSPECTIVE,13/07/2016,20_mg,prednisone,tablet,
+1756,HC VANCOMYCIN,vancomycin,Pharmacy,RETROSPECTIVE,12/07/2016,vancomycin,,,
+5585,KIT PICC DOUBLE LUMEN,kit peripherally_inserted_central_catheter double_lumen,Supply,ONLINE,16/09/2016,double,picc,lumen,kit
+4738,B-TYPE NATRIURETIC PEPTIDE PLASMA,b type natriuretic peptide plasma,Laboratory,ONLINE,16/09/2016,peptide,type,plasma,
+1842,GABAPENTIN 400 MG CAP,gabapentin 400_mg capillary,Pharmacy,RETROSPECTIVE,12/07/2016,cap,400_mg,gabapentin,
+3845,CONC FOR INFECTIOUS AGENT,concentrate for infectious agent,Laboratory,RETROSPECTIVE,13/07/2016,concentrate,infectious,agent,
+3195,SUT SLK 3-0 SH 8 X18  CR (C013D),suture silk 3 0 sh 8 x18 cr c013d,Supply,RETROSPECTIVE,13/07/2016,suture,,,
+384,DORNASE ALFA 1 MG/ML SOLN 2 50242-100-40,dornase alpha 1_mg/ml solution 2 50242 100 40,Plan Benefit,RETROSPECTIVE,12/07/2016,alfa,solution,dornase,
+3009,HEMOGLOBIN ALC,hemoglobin a1c,Laboratory,RETROSPECTIVE,13/07/2016,hemoglobin,alc,,
+2810,83294000 - TTE COMP 2D W/DOPCOLOR FLOW,transesophageal_echocardiogram compressors 2 with dopcolor flow,Radiology,RETROSPECTIVE,13/07/2016,??? DESCRIPTION,flow,dopcolor,transesophageal_echocardiogram
+4641,SET SCREWS,set screws,Implant,ONLINE,01/09/2016,screws,set,,
+790,HC SODIUM  POC,sodium point_of_care,Monitoring,RETROSPECTIVE,12/07/2016,POC,sodium,,
+1937,COMPREHENSIV,comprehensive,Laboratory,RETROSPECTIVE,12/07/2016,comprehensive,,,
+3242,BRONCHOSCOPY,bronchoscopy,Procedure,RETROSPECTIVE,13/07/2016,bronchoscopy,,,
+3343,HB SYSTEM EVD BECKER EXTERNAL NE,system external_ventricular_Drains becker external ne,Supply,RETROSPECTIVE,13/07/2016,system,,,
+1379,HB PROBE PULSE OX NEO/ADULT,probe pulse oximetry neonatal/adult,Supply,RETROSPECTIVE,12/07/2016,oximetry,probe,neo,adult
+3477,13509012 - MAGNESIUM GLUCONATE TAB 400MG,magnesium gluconate tablet 400_mg,Pharmacy,RETROSPECTIVE,13/07/2016,400_mg,magnesium,tablet,gluconate
+3620,64830000 - PARATHYROID HORMONE UK,parathyroid hormone uk,Laboratory,RETROSPECTIVE,13/07/2016,hormone,uk,parathyroid,
+3775,B-TYPE NATRIURETIC PEPTIDE (BN,b type natriuretic peptide bone,Laboratory,RETROSPECTIVE,13/07/2016,type,,,
+663,SODIUM WHOLE BLOOD (BC),sodium whole blood blood_cells,Laboratory,RETROSPECTIVE,12/07/2016,BC,whole,blood,sodium
+764,HB POC GLUCOSE - METER M,point_of_care glucose meter m,Monitoring,RETROSPECTIVE,12/07/2016,POC,meter,glucose,
+1719,INHALED ILOPROST/VENTAVIS,inhaled iloprost/ventavis,Plan Benefit,RETROSPECTIVE,12/07/2016,iloprost,ventavis,inhaled,
+447,NITRIC OXIDE GAS-EACH HOUR,nitric oxide gas each hour,Plan Benefit,RETROSPECTIVE,12/07/2016,oxide,gas,hour,nitric
+831,P-OX SINGLE CHK,powder oximetry single check,Monitoring,RETROSPECTIVE,12/07/2016,p,single,oximetry,check
+4033,HIGH FLOW THERAPY,high flow therapy,Respiratory Therapy,RETROSPECTIVE,13/07/2016,high,therapy,flow,
+925,DAPTOMYCIN INJ 1MG,daptomycin injection 1_mg,Pharmacy,RETROSPECTIVE,12/07/2016,1_mg,injection,daptomycin,
+2475,RH TYPE,rhesus type,Laboratory,RETROSPECTIVE,12/07/2016,rh,type, ,
+3569,58836000 - RESPIRATORY ASSESSMENT FOLLOW,respiratory assessment follow,Respiratory Therapy,RETROSPECTIVE,13/07/2016,follow,respiratory,assessment,
+3495,13986222 - PHOS-NAK ORAL PACKET,phosphate nak oral packet,Pharmacy,RETROSPECTIVE,13/07/2016,nak,phosphate,oral,packet
+3236,VITAL CAPACITY (FC),vital capacity fc,Respiratory Therapy,RETROSPECTIVE,13/07/2016,vital,capacity,fc,
+3002,GROSS/MICRO II,gross/miscroscopic ii,Laboratory,RETROSPECTIVE,13/07/2016,ii,gross,miscroscopic,
+3543,15610212 - VASOPRESSIN 20U/ML 1ML,vasopressin 20_units/ml 1_ml,Pharmacy,RETROSPECTIVE,13/07/2016,20_units/ml,1_ml,vasopressin,
+2054,POC BS GLUCOSE CVICU/STEPDOWN,point_of_care blood_sugar glucose carviovascular_intensive_care_unit/stepdown,Monitoring,RETROSPECTIVE,12/07/2016,bs,cvicu,steepdown,poc
+4280,SYPHILUS TEST QUAL,syphilus test qual,Laboratory,RETROSPECTIVE,13/07/2016,test,qual,syphilus,
+3256,HB 5%DEXTROSE/ NORMAL SALINE 1000,5%dextrose/normal saline 1000,Pharmacy,RETROSPECTIVE,13/07/2016,saline,5%dextrose/normal,,
+3557,46110000 - RB 5 SOUTH ROUTINE,room_and_board 5 south routine,Room and Board,RETROSPECTIVE,13/07/2016,room_and_board,south,routine,
+5875,PROTHROMBIN TIME 1,prothrombin_time 1,Laboratory,ONLINE,16/09/2016,time,prothrombin,,
+5029,DISP: 10.000 ML; 0.25 %; USED NDC QTY: 1.000 PCK OF 10.000 ML VIAL BUPIVACAINE (PF) 0.25 % (2.5 MG/ML) INJECTION SOLUTION,dispensed 10.000_ml 0.25% used ndc quantity 1 pack of 10.000_ml vial bupivacaine preservative_free 0.25% 2.5_mg/ml injection solution,Pharmacy,ONLINE,16/09/2016,vial,ndc,disposable,solution
+3692,86410000 - INDIVIDUAL EXERCISE PER 15 MIN,individual exercise per 15_minutes,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,individual,minutes,per,exercise
+5476,HCHG RESPIRATORY VIRUS PANEL BY PCR HCHG RESPIRATORY VIRUS PANEL BY PCR,respiratory virus panel by pcr,Laboratory,ONLINE,16/09/2016,virus,respiratory,panel,
+3694,86454000 - OT MISSED TREATMENT MED REASON,occupational_therapy missed treatment medical reason,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,medical,occupational_therapy,treatment,
+1354,GLYCERIN SUPP,glycerin suppository,Supply,RETROSPECTIVE,12/07/2016,suppository,glycerin,,
+4527,TRACH C-PTIS-100-HC-G,tracheostomy c ptis 100 hc g,Supply,ONLINE,29/08/2016,trach,gram,,
+3725,ACETAMINOPHEN 325 MG TABLET,acetaminophen 325_mg tablet,Pharmacy,RETROSPECTIVE,13/07/2016,325_mg,tablet,acetaminophen,
+1794,TPN ADULT,total_parenteral_nutrition adult,Pharmacy,RETROSPECTIVE,12/07/2016,tpn,adult,,
+4050,INFLUENZA A  AG  IF,influenza a ag if,Laboratory,RETROSPECTIVE,13/07/2016,influenza,ag,,
+494,SILDENAFIL CIT 100MG/4,sildenafil citrate 100_mg/4,Plan Benefit,RETROSPECTIVE,12/07/2016,100_mg/4,sildenafil,citrate,
+3348,HB TYLENOL 325MG TAB UD (ACETAM,tylenol 325_mg tablet unit_dose acetaminophen,Pharmacy,RETROSPECTIVE,13/07/2016,325_mg,tab,,
+5640,MASS SPECT&TANDEM MASS SPE,mass spectrometry and tandem mass spectromety,Laboratory,ONLINE,16/09/2016,mass,spe,spect&tandem,
+3117,POTAS CHL  2 MEQ-40MEQ/ML 100ML,potassium chloride 2_meq 40_meq/ml 100_ml,Pharmacy,RETROSPECTIVE,13/07/2016,2_meq,chloride,100_ml,
+3632,66063000 - EOSINOPHIL URINE,eosinophil urine,Laboratory,RETROSPECTIVE,13/07/2016,urine,eosinophil,,
+3474,13301222 - LINEZOLID PER 200MG  INJ,linezolid per 200_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,injection,linezolid,per,200_mg
+2361,ACETAMINOPHEN 325 MG TAB,acetaminophen 325_mg tablet,Pharmacy,RETROSPECTIVE,12/07/2016,325_mg,tab,acetaminophen,
+5138,FIBRIN DGRADJ PRODUXS D-DIMER QUAL/SEMIQUAN,fibrin dgradj produxs d dimer qualitative/semiquantitative,Laboratory,ONLINE,16/09/2016,dgradj,fibrin,qual,produxs
+3228,VANCOMYCIN LEVEL,vancomycin level,Laboratory,RETROSPECTIVE,13/07/2016,vancomycin,level,,
+3978,HB IMMUNOHISTOCHEMISTRY 1ST,immunohistochemistry 1st,Laboratory,RETROSPECTIVE,13/07/2016,immunohistochemistry,1st,,
+6265,OLIGOSACCHARIDES/SIALIC,oligosaccharides/sialic,Laboratory,ONLINE,19/09/2016,sialic,oligosaccharides,,
+1333,ELECTRODE KITTYCAT PED,electrode kittycat pediatric,Supply,RETROSPECTIVE,12/07/2016,electrode,pediatric,kittycat,
+4850,CATH TRAY (NO CATH),catheter tray no catheter,Supply,ONLINE,16/09/2016,cath,tray,nitric_oxide,
+4479,LACTULOSE SYR 20 GRAM,lactulose syrup 20 gram,Pharmacy,ONLINE,29/08/2016,syr,gram,lactulose,
+4505,PVR/DOPPLER MULT LEVE,pvr/doppler multiple level,Cardiology,ONLINE,29/08/2016,pvr,mult,leve,doppler
+1313,CHLORHEXIDINE 0.12% MWSH,chlorhexidine 0.12% mouthwash,Supply,RETROSPECTIVE,12/07/2016,0.12%,chlorhexidine,mouthwash,
+4327,VENT ADULT MGMT INITIAL 0-,ventilator adult management initial 0,Respiratory Therapy,RETROSPECTIVE,13/07/2016,ventilator,initial,management,adult
+1662,BILIRUBIN UNCONJUGATED,bilirubin unconjugated,Laboratory,RETROSPECTIVE,12/07/2016,bilirubin,unconjugated,,
+1589,HEART B/P MONITOR,heart blood_pressure monitor,Capital Equipment,RETROSPECTIVE,12/07/2016,b,p,heart,monitor
+3062,MICROALBUMIN (MALB  MALBCR,microalbumin malb malbcr,Laboratory,RETROSPECTIVE,13/07/2016,malb,microalbumin,malbcr,
+2366,EZETIMIBE 10MG TAB,ezetimibe 10_mg tablet,Pharmacy,RETROSPECTIVE,12/07/2016,10_mg,tab,ezetimibe,
+4760,BILE ACIDS TOT,bile acids total,Laboratory,ONLINE,16/09/2016,total,bile,acids,
+4508,RETRACT-O-TAPE # 1041,retract o tape 1041,Supply,ONLINE,29/08/2016,retract,tape,oxygen,
+3306,HB MRI BRAIN W/WO CONTRAST,magnetic_resonance_imagery brain with or without contrast,Radiology,RETROSPECTIVE,13/07/2016,brain,without,mri,contrast
+4004,HB RAD EXAM NECK SOFT TISSUE,radiology examination neck soft tissue,Radiology,RETROSPECTIVE,13/07/2016,tissue,soft,,
+5676,MORPHINE 2 MG/ML SOLN,morphine 2_mg/ml solution,Pharmacy,ONLINE,16/09/2016,2_mg/ml,morphine,soln,
+1683,GLUCOSE BEDSIDE,glucose bedside,Monitoring,RETROSPECTIVE,12/07/2016,bedside,glucose,,
+4728,ARTIFICIAL TEARS OINT 3.5 G TUBE,artificial tears ointment 3.5 g tube,Supply,ONLINE,16/09/2016,oint,tube,,
+4426,ABDOMINAL SONOGRAM CO,abdominal sonogram co,Radiology,ONLINE,29/08/2016,co,abdominal,sonogram,
+4419,URETHRA CATH SIMPLE,urethra catheter simple,Supply,ONLINE,24/08/2016,simple,cath,urethra,
+4655,0.9% NACL 0.9% SOLN,0.9% sodium_chloride 0.9% solution,Diluent / Flush / Irrigant,ONLINE,16/09/2016,0.90%,soln,nacl,
+5261,HC CHEST 1 VIEW,chest 1 view,Radiology,ONLINE,16/09/2016,chest,view,,
+1349,GLUCOMETER SUPPLIES,glucometer supplies,Supply,RETROSPECTIVE,12/07/2016,supplies,glucometer,,
+129,HEP FLUSH 300UNIT; HEPARIN FLUSH 100 UNITS/ML 3ML SYR,heparin flush 300unit heparin flush 100_units/ml 3_ml syringe,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,syringe,3_ml,flush
+3235,VENT NON-INV MGMT SUBSQ DA,ventilator non-invasive management subsequent daily,Respiratory Therapy,RETROSPECTIVE,13/07/2016,ventilator,subsequent,non,management
+5260,HC CENTRAL LINE PAC FLUSH,central line pulmonary_artery_catheter flush,Nursing Services,ONLINE,16/09/2016,pac,line,central,flush
+311,SODIUM CHLORIDE 0.9% IV,sodium chloride 0.9% intravenous,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,0.90%,chloride,intravenous,sodium
+5235,HC ARTERIAL BLOOD GAS I STAT,arterial blood_gas i stat,Monitoring,ONLINE,16/09/2016,arterial,stat,gas,blood
+2435,OXYCODONE 20MG SR TAB,oxycodone 20_mg slow_release tablet,Pharmacy,RETROSPECTIVE,12/07/2016,sara,20_mg,oxycodone,
+2412,SHEATH ENGAGE 6FR 12CM 0.035,sheath engage 6fr 12cm 0.035,Supply,RETROSPECTIVE,12/07/2016,sheath,0.035,engage,
+5735,OR LEVEL 4 ADD'L 15 MINUTE,operating_room level 4 additional 15 minute,OR / Anesthesia / Recovery Room,ONLINE,16/09/2016,level,additional,minute,or
+4658,65 PK KYONE MAJOR SET UP 12706,65 pack kyone major set up 12706,Supply,ONLINE,16/09/2016,kyone,major,set,pk
+866,PULSE OX SPOT CHECK EACH,pulse oximetry spot check each,Monitoring,RETROSPECTIVE,12/07/2016,oximetry,spot,check,pulse
+1422,IV START KIT,intravenous start kit,Supply,RETROSPECTIVE,12/07/2016,start,intravenous,kit,
+2035,EKG 12 - LEAD - ALL LOYOLA L,electrocardiogram 12 lead alle loyola l,Cardiology,RETROSPECTIVE,12/07/2016,electrocardiogram,,,
+6062,TPN ADULT INJECTION,total_parenteral_nutrition adult injection,Pharmacy,ONLINE,16/09/2016,tpn,injection,adult,
+3678,77075640 - KIT WILDCAT BUNDLE,kit wildcat bundle,Supply,RETROSPECTIVE,13/07/2016,wildcat,bundle,kit,
+4082,KIT MULTI LUMEN 4 FR,kit multiple lumen 4 fr,Supply,RETROSPECTIVE,13/07/2016,fr,multiple,lumen,kit
+500,SILDENAFIL SUS,sildenafil sustainability,Plan Benefit,RETROSPECTIVE,12/07/2016,sustainability,sildenafil,,
+2527,HC CBC,complete_blood_count,Laboratory,RETROSPECTIVE,12/07/2016,cbc, , ,
+4199,POTASSIUM CHLOR 20 MEQ/100,potassium chloride 20_meq/100,Pharmacy,RETROSPECTIVE,13/07/2016,potassium,chloride,20_meq/100,
+458,NITRIC THERAPY EACH HR,nitric therapy each hour,Plan Benefit,RETROSPECTIVE,12/07/2016,therapy,hour,nitric,
+4509,SENNA SYR 176MG/5ML 2,senna syrup 176_mg/5_ml 2,Pharmacy,ONLINE,29/08/2016,syr,176_mg/5_ml,senna,
+1140,36415 VENIPUNCTURE,36415 venipuncture,Nursing Services,RETROSPECTIVE,12/07/2016,venipuncture,,,
+5540,INPT SURG MAJOR 1ST 60 MIN,inpatient surgery major 1st 60 minutes,OR / Anesthesia / Recovery Room,ONLINE,16/09/2016,inpatient,surg,min,1st
+4458,EKG ADULT,electrocardiogram adult,Cardiology,ONLINE,29/08/2016,adult,ekg,,
+3695,86613006 - OTHER PT/OT THERAPY FUNC LIMIT,other physical_therapy/occupational_therapy therapy func limit,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,therapy,occupational_therapy,physical_therapy,
+2862,ANCHOR/SCRW LEVEL 1,anchor/screw level 1,Implant,RETROSPECTIVE,13/07/2016,level,anchor,scrw,
+3813,CBC W AUTO DIFF,complete_blood_count with automated differential,Laboratory,RETROSPECTIVE,13/07/2016,complete_blood_count,differential,automated,
+2935,CT ABDOMEN+PELVIS W/O CONTRAST,computed_tomography abdomen and pelvis without contrast,Radiology,RETROSPECTIVE,13/07/2016,computed_tomography,without,abdomen,
+4563,ROOM 0779 I,room 0779 i,Room and Board,ONLINE,30/08/2016,room,,,
+852,POTASSIUM  POC,potassium point_of_care,Monitoring,RETROSPECTIVE,12/07/2016,potassium,POC,,
+3191,SUSCEPT MIC MULTI ANTIMICROBIAL,susceptibility microscopic multi antimicrobial,Laboratory,RETROSPECTIVE,13/07/2016,multiple,suscept,antimicrobial,microclave
+3790,BLANKET BAIR HUGGER UPPER BODY,blanket bair hugger upper body,Supply,RETROSPECTIVE,13/07/2016,body,,,
+2476,DOCUSATE 100MG CAP,docusate 100_mg capillary,Pharmacy,RETROSPECTIVE,12/07/2016,100_mg,capillary,docusate,
+4656,10FR DILATOR,10fr dilator,Supply,ONLINE,16/09/2016,10fr,dilator,,
+5005,DIAZEPAM 5 MG/ML SYRG 2 ML SYRINGE,diazepam 5_mg/ml syringe 2_ml syringe,Pharmacy,ONLINE,16/09/2016,syrg,diazepam,2_ml,
+1226,OXYGEN HOURS,oxygen hours,Respiratory Therapy,RETROSPECTIVE,12/07/2016,hours,oxygen,,
+1400,HC SUPPLY PER DIEM (NS 42),supply per diem normal_saline 42,Supply,RETROSPECTIVE,12/07/2016,NS,per,supply,
+3414,11142212 - AMIKACIN SULFATE 100MG INJ,amikacin sulfate 100_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,100_mg,injection,sulfate,amikacin
+4331,VENT SUBSQ WEAN MGMT-LEVL 2,ventilator subsequent wean management level 2,Respiratory Therapy,RETROSPECTIVE,13/07/2016,ventilator,subsequent,management,level
+1455,PLT &PLASMA ADMINISTRATION SET,platelet &plasma administration set,Supply,RETROSPECTIVE,12/07/2016,administration,set,platelet,plasma
+1467,SENSOR MASIMO LCNS NEONATE,sensor masimo lcns neonatal ,Supply,RETROSPECTIVE,12/07/2016,masimo,neonatal,sensor,lcns
+3267,HB CATH PICC SGL VASC 3FR 60CM,catheter peripherally_inserted_central_catheter single vascular 3fr 60cm,Supply,RETROSPECTIVE,13/07/2016,cath,picc,single,
+5001,DEXTROSE PER 500 ML,dextrose per 500_ml,Diluent / Flush / Irrigant,ONLINE,16/09/2016,dextrose,500_ml,per,
+1859,DEXTROSE 5 % IN WATER (D5W) INTRAVENOUS SOLUTION,dextrose 5% in water dextrose_5%_in_water intravenous solution,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,water,dextrose,intravenous,solution
+525,CALCIUM  TOTAL IONIZED,calcium total ionized,Laboratory,RETROSPECTIVE,12/07/2016,calcium,ionized,total,
+74,0.9% NACL 250ML,0.9% sodium_chloride 250_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,0.90%,250_ml,NaCl,
+4768,BLD TYPING RH D,blood typing rhesus d,Laboratory,ONLINE,16/09/2016,rh,bld,typing,
+6250,LEVEL IV - SURG PATH (GROS,level 4 surgical pathology gross,Laboratory,ONLINE,19/09/2016,surg,iv,pathology,level
+5517,HYALURONIDASE 150 UNIT/ML SOLN 1 ML VIAL,hyaluronidase 150_units/ml solution 1_ml vial,Pharmacy,ONLINE,16/09/2016,vial,1_ml,soln,
+6072,TRANSFERASE ASPARTATE AMINO,transferase aspartate amino,Laboratory,ONLINE,16/09/2016,transferase,aspartate,amino,
+2516,PHYTONADIONE 1 MG/0.5ML SOLN 0.5 ML SYRINGE,phytonadione 1_mg/0.5_ml solution 0.5_ml syringe,Pharmacy,RETROSPECTIVE,12/07/2016,syringe,soln, ,
+3280,HB DRILL BIT LEGEND 5MM M-35 ROUN,drill bit legend 5mm m 35 round,Supply,RETROSPECTIVE,13/07/2016,minutes,,,
+4965,DEODORIZER M9 DROPS 1 OZ,deodorizer m9 drops 1 ounce,Supply,ONLINE,16/09/2016,drops,m9,deodorizer,oz
+4764,BINDER ABDIOIN SOLID PANELDESU,binder abdomin solid panel_desu,Supply,ONLINE,16/09/2016,solid,abdioin,binder,paneldesu
+783,HC HEMATOCRIT POC,hematocrit point_of_care,Monitoring,RETROSPECTIVE,12/07/2016,hematocrit,POC,,
+3423,11482222 - BUMETANIDE 0.25MG/ML 10ML,bumetanide 0.25_mg/ml 10_ml,Pharmacy,RETROSPECTIVE,13/07/2016,10_ml,bumetanide,0.25_mg/ml,
+4919,CR CHEST SINGLE VIEW PORTABLE,cr chest single view portable,Radiology,ONLINE,16/09/2016,portable,cr,chest,single
+329,SODIUM CL 0.9% IVS; NACL 0.9%,sodium chloride 0.9% intravenous sodium_chloride 0.9%,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,NaCl,chloride,intravenous,sodium
+6263,NEONATE FFP THAWED,neonatal  fresh_frozen_plasma thawed,Blood Products,ONLINE,19/09/2016,neonatal,ffp,thawed,
+4950,CULTURE TYPING NUCLEIC ACI,culture typing nucleic acid,Laboratory,ONLINE,16/09/2016,nucleic,culture,aci,typing
+5964,SODIUM CHLORIDE 0.9% SOLP 1 000 ML FLEX CONT,sodium_chloride 0.9% solution 1 000_ml flex cont,Diluent / Flush / Irrigant,ONLINE,16/09/2016,flex,sodium,000_ml,continuous
+5011,DIPHTHERIA-TETANUS TOXOID-,diphtheria tetanus toxoid,Pharmacy,ONLINE,16/09/2016,diphtheria,tetanus,toxoid,
+5968,SODIUM CHLORIDE 0.9% SOLP 500 ML FLEX CONT,sodium_chloride 0.9% solution 500_ml flex cont,Diluent / Flush / Irrigant,ONLINE,16/09/2016,flex,sodium,continuous,solution
+3773,ASPIRIN 81 MG CHEW TAB,aspirin 81_mg chew tablet,Pharmacy,RETROSPECTIVE,13/07/2016,chew,81_mg,tablet,aspirin
+1445,OXISENSOR NEONATAL,oxisensor neonatal,Supply,RETROSPECTIVE,12/07/2016,neonatal,oxisensor,,
+3838,CLOSTRIDIUM DIFFICILE BY RT PCR,clostridium difficile by respiratory_therapy pcr,Laboratory,RETROSPECTIVE,13/07/2016,pcr,rt,clostridium,difficile
+2690,12882012 - HYDROPHOR OINTMENT 454GM,hydrophor ointment 454_gm,Pharmacy,RETROSPECTIVE,13/07/2016,hydrophor,454_gm,ointment,
+1169,CAPILLARY STICK,capillary stick,Nursing Services,RETROSPECTIVE,12/07/2016,capillary,stick,,
+5471,HCHG POC STICK GLUCOSE HCHG POC STICK GLUCOSE,point_of_care stick glucose,Monitoring,ONLINE,16/09/2016,poc,glucose,,
+2294,OT BASE CHARGE,occupational_therapy base charge,PT / OT / Speech Therapy,RETROSPECTIVE,12/07/2016,charge,base,ot,
+837,POC-GLUCOSE BLOOD MONITOR,point_of_care glucose blood monitor,Monitoring,RETROSPECTIVE,12/07/2016,POC,monitor,blood,glucose
+5371,HC RADIOLOGY PORTABLE EQUIPMENT,radiology portable equipment,Capital Equipment,ONLINE,16/09/2016,equipment,radiology,portable,
+4692,ALOE VESTA OINTMENT 2 OZ,aloe vesta ointment 2 ounce,Supply,ONLINE,16/09/2016,ointment,oz,vesta,aloe
+4292,THERAP EXERCS-15 MIN,therapy exercise 15_minutes,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,minutes,therapy,exercise,
+2192,COLACE CLEAR 50 MG SOFTGEL,colace clear 50_mg softgel,Pharmacy,RETROSPECTIVE,12/07/2016,clear,50_mg,colace,softgel
+2683,11435002 - BISACODYL SUPP.RECT 10MG,bisacodyl suppository rectal 10_mg,Pharmacy,RETROSPECTIVE,13/07/2016,suppository,bisacodyl,rect,10_mg
+2215,PRESSURE TRANSDUCER,pressure transducer,Supply,RETROSPECTIVE,12/07/2016,pressure,transducer,,
+2632,HC CARD REHAB EVALUATION INPT,cardiac rehabilitation evaluation inpatient,Cardiology,RETROSPECTIVE,12/07/2016,rehab,evaluation,card,
+5546,INSULIN ASPART 100 UNIT/ML SOLN,insulin aspart 100_units/ml solution,Pharmacy,ONLINE,16/09/2016,aspart,100_units/ml,insulin,soln
+6028,SUTR CHROMIC GUT 4 0 RBI HCHG SUTR CHROMIC GUT 4 0 RBI,suture chromic gut 4 0 rbi i,Supply,ONLINE,16/09/2016,sutur,hchg,chromic,rbi
+3946,HB CEFAZOLIN NA 1GM VIAL,cefazolin sodium 1_gm vial,Pharmacy,RETROSPECTIVE,13/07/2016,1_gm,vial,cefazolin,na
+3459,12737042 - GUAIFENESIN DM 10ML,guaifenesin demo 10_ml,Pharmacy,RETROSPECTIVE,13/07/2016,demo,guaifenesin,10_ml,
+2052,SENNA-DOCUSATE 8.6-50 MG TABS,senna docusate 8.6 50_mg tablets,Pharmacy,RETROSPECTIVE,12/07/2016,tabs,50_mg,senna,docusate
+5010,DIPHENHYDRAMINE-ZINC ACETATE 2-0.1 % CREA 28 G TUBE,diphenhydramine zinc acetate 2 0.1% cream 28 g tube,Pharmacy,ONLINE,16/09/2016,diphenhydramine,tube,zinc,cream
+4175,PACK ICE 4 TIES STAY DRY LG,pack ice 4 ties stay dry large,Supply,RETROSPECTIVE,13/07/2016,pack,,,
+1970,JANTOVEN 2 MG TABLET,jantoven 2_mg tablet,Pharmacy,RETROSPECTIVE,12/07/2016,2_mg,jantoven,tablet,
+2759,63801001 - LIPASE,lipase,Laboratory,RETROSPECTIVE,13/07/2016,lipase,,,
+1031,OXYCODONE - ACETAMINOPHEN,oxycodone acetaminophen,Pharmacy,RETROSPECTIVE,12/07/2016,oxycodone,acetaminophen,,
+4221,PROTHROMBIN TIME (PT),prothrombin_time patient,Laboratory,RETROSPECTIVE,13/07/2016,time,patient,prothrombin,
+1013,MGSO4/500MG (4% PREMIX),mgso_4/500_mg 4% premix,Pharmacy,RETROSPECTIVE,12/07/2016,premix,mgso_4/500_mg,4%,
+4653,(CONTRAST) IOTHALAMATE MEGLUMINE 17.2% SOLN 250,contrast iothalamate meglumine 17.2% solution 250,Pharmacy,ONLINE,16/09/2016,soln,contrast,,
+4490,NOREPINEPHRINE I 1MG/,norepinephrine  1_mg/,Pharmacy,ONLINE,29/08/2016,norepinephrine,1_mg/,,
+3367,QUANTIFERON GOLD TB,quantiferon gold tube,Laboratory,RETROSPECTIVE,13/07/2016,tb,quantiferon,gold,
+2440,LISINOPRIL 15.25 2.5 MG TAB 100 EACH BOTTLE,lisinopril 15.25 2.5_mg tablet 100 each bottle,Pharmacy,RETROSPECTIVE,12/07/2016,bottle,tab,lisinopril,
+5550,INTRODUCER OR SHEATH NON GUIDE NON LASER,introducer or sheath non guide non laser,Supply,ONLINE,16/09/2016,sheath,non,introducer,or
+2558,MAGNESIUM CITRATE SOLN 300ML,magnesium citrate solution 300_ml,Pharmacy,RETROSPECTIVE,12/07/2016,300_ml,soln,magnesium,
+4449,CONT VENTILATION 1ST,continuous ventilation 1st,Respiratory Therapy,ONLINE,29/08/2016,control,ventilation,1st,
+4791,BLOOD TYPING RH D,blood typing rhesus d,Laboratory,ONLINE,16/09/2016,rh,blood,typing,
+6078,TRAY ANGIOGRAPHY EP THROW STD LF - DUH,tray angiography ep throw std lf duh,Supply,ONLINE,16/09/2016,angiography,tray,std,
+4943,CULT BACT QUANT A,culture bacteria quantitative a,Laboratory,ONLINE,16/09/2016,culture,bacterial,quant,
+6172,ALPHA-FETOPROTEIN SERUM,alpha fetoprotein serum,Laboratory,ONLINE,19/09/2016,alpha,fetoprotein,serum,
+4991,DEXTROSE 5% SOLP 100 ML BA,dextrose_5% solution 100_ml bag,Diluent / Flush / Irrigant,ONLINE,16/09/2016,100_ml,dextrose,solution,ba
+1565,YANKAUER  SUCT BULBTIP,yankauer suction bulbtip,Supply,RETROSPECTIVE,12/07/2016,suction,yankauer,bulbtip,
+5547,INSULIN DETEMIR 100 UNIT/ML SOLN,insulin detemir 100_units/ml solution,Pharmacy,ONLINE,16/09/2016,100_units/ml,soln,insulin,detemir
+6238,IMAGE GUIDED FLUID COLL PE,image guided fluid collection pe,Radiology,ONLINE,19/09/2016,fluid,coll,,
+2469,UA W MICRO AUTO,urinalysis with miscroscopic automated,Laboratory,RETROSPECTIVE,12/07/2016,ua,micro,auto,
+2691,13255012 - LACTINEX-ACIDOPHILUS,lactinex acidophilus,Pharmacy,RETROSPECTIVE,13/07/2016,acidophilus,lactinex,,
+3357,INS NON-TUN CV CATH 5YR OR OLDER,insert non tun cardiovascular catheter 5yr operation_room older,Procedure,RETROSPECTIVE,13/07/2016,insert,non,cath,or
+439,NITRIC OXIDE  EACH HOUR,nitric oxide each hour,Plan Benefit,RETROSPECTIVE,12/07/2016,oxide,hour,nitric,
+4498,PERFUSION CUSTOM TERU,perfusion custom terumo,Supply,ONLINE,29/08/2016,teru,perfusion,custom,
+4823,CALCIUM IONIZED (BLOOD GAS,calcium ionized blood_gas,Laboratory,ONLINE,16/09/2016,calcium,ionized,gas,blood
+5693,NACL 0.9% INJ 50 ML,sodium_chloride 0.9% injection 50_ml,Diluent / Flush / Irrigant,ONLINE,16/09/2016,0.90%,50_ml,inj,nacl
+428,INHALED NITRIC,inhaled nitric,Plan Benefit,RETROSPECTIVE,12/07/2016,inhaled,nitric,,
+4104,LIPASE (LIPAS),lipase lipas,Laboratory,RETROSPECTIVE,13/07/2016,lipas,lipase,,
+2008,CEFTAROLINE INJ 10MG,ceftaroline injection 10_mg,Pharmacy,RETROSPECTIVE,12/07/2016,inj,10_mg,ceftaroline,
+651,RCH LAB-WHOLE BLOOD LACTIC ACID,laboratory whole blood lactic acid,Laboratory,RETROSPECTIVE,12/07/2016,laboratory,acid,whole,blood
+4066,IV 0.9% NACL 1000 ML,intravenous 0.9% sodium_chloride 1000_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,13/07/2016,0.90%,intravenous,1000_ml,sodium_chloride
+4590,CHLORHEXIDINE 0.12 % MWSH,chlorhexidine 0.12% mouthwash,Pharmacy,ONLINE,01/09/2016,0.12%,chlorhexidine,mwsh,
+463,REVATIO 20MG TABLET,revatio 20_mg tablet,Plan Benefit,RETROSPECTIVE,12/07/2016,revatio,20_mg,tablet,
+6083,TRIAMCINOLONE 0.5% CREA 15 G TUBE,triamcinolone 0.5% cream 15 gram tube,Pharmacy,ONLINE,16/09/2016,tube,cream,,
+2825,86612005 - SELF CARE,self care,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,self,care,,
+4206,PRAMIPEXOLE 0.25 MG TABLET,pramipexole 0.25_mg tablet,Pharmacy,RETROSPECTIVE,13/07/2016,pramipexole,tablet,0.25_mg,
+2635,EVALUATION PT,evaluation physical_therapy,PT / OT / Speech Therapy,RETROSPECTIVE,12/07/2016,evaluation,pt, ,
+1095,NEONATAL INTENSIVE CARE UNIT,neonatal intensive care unit,Room and Board,RETROSPECTIVE,12/07/2016,neonatal,intensive,units,care
+2321,TX SWAL/ORAL FUNCTION,treatment swallow/oral function,PT / OT / Speech Therapy,RETROSPECTIVE,12/07/2016,function,swal,oral,tx
+924,COLCHICINE 0.6 MG TABS,colchicine 0.6_mg tablets,Pharmacy,RETROSPECTIVE,12/07/2016,tablets,colchicine,0.6_mg,
+1892,OXYGEN PER DAY,oxygen per day,Respiratory Therapy,RETROSPECTIVE,12/07/2016,per,oxygen,day,
+2780,64994000 - INFLUENZA A  B AND RSV BY PCR,influenza a b and respiratory syncytial virus by polymerase chain reaction,Laboratory,RETROSPECTIVE,13/07/2016,pcr,resv,influenza,b
+5316,HC INS ARTERY LINE PERC,insert artery line percutaneous,Procedure,ONLINE,16/09/2016,perc,insert,line,artery
+5244,HC BLOOD TYPING RH(D),blood typing rhesus d,Laboratory,ONLINE,16/09/2016,rhesus,d,blood,typing
+12,ENT FEED PUMP,enternal feed pump,Capital Equipment,RETROSPECTIVE,12/07/2016,feed,pump,enternal,
+4359,EKG PRO FEE; EKG PROFESSIONAL FEE,electrocardiogram professional fee electrocardiogram professional fee,Professional Fee,ONLINE,24/08/2016,fee,ekg,,
+3142,RENAL CRRT TREATMENT,renal continuous_renal_replacement therapy treatment,Dialysis,RETROSPECTIVE,13/07/2016,continuous_renal_replacement_therapy,renal,treatment,
+5442,HCHG EKG ROUTINE TRACING ONLY HCHG EKG ROUTINE TRACING ONLY,electrocardiogram routine tracing only,Cardiology,ONLINE,16/09/2016,ekg,routine,,
+5095,EXHALED CO2 SING,exhaled carbon_dioxide single,Monitoring,ONLINE,16/09/2016,sing,co2,exhaled,
+4466,FLUTICASONE INH 1,fluticasone inhaler 1,Pharmacy,ONLINE,29/08/2016,fluticasone,inh,,
+2065,CEFTOLZN/TAZBCTM PER 75MG INJ,ceftolzn/tazbctm per 75_mg injection,Pharmacy,RETROSPECTIVE,12/07/2016,75_mg,ceftolzn,tazbctm,inj
+1199,HC VENIPUNCTURE,venipuncture,Nursing Services,RETROSPECTIVE,12/07/2016,venipuncture,,,
+3438,12386212 - ENOXAPARIN SODIUM  10 MG  INJ,enoxaparin sodium 10_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,injection,10_mg,enoxaparin,sodium
+2537,NITROGLYCERIN 200 MCG/ML 10 ML SYRINGE,nitroglycerin 200 mcg/ml 10_ml syringe,Pharmacy,RETROSPECTIVE,12/07/2016,mcg,ml,10_ml,
+2422,MELATONIN 3MG TAB,melatonin 3_mg tablet,Pharmacy,RETROSPECTIVE,12/07/2016,melatonin,tab,3_mg,
+3041,LAB ABSCN,laboratory antibody screen,Laboratory,RETROSPECTIVE,13/07/2016,laboratory,abscn,,
+791,HC SODIUM POC,sodium point_of_care,Monitoring,RETROSPECTIVE,12/07/2016,POC,sodium,,
+2241,WALKING MOVING AROUND,walking moving around,PT / OT / Speech Therapy,RETROSPECTIVE,12/07/2016,walking,moving,around,
+5868,PROPOFOL 10 MG/ML EMUL,propofol 10_mg/ml emulsion,Pharmacy,ONLINE,16/09/2016,emul,propofol,10_mg/ml,
+2772,64884000 - TB CULTURE ACID FAST,tube culture acid fast,Laboratory,RETROSPECTIVE,13/07/2016,culture,tube,acid,fast
+2617,POLYETHENE GLYC 17GM P,polyethylene glycol 17_gm powder,Pharmacy,RETROSPECTIVE,12/07/2016,glyc,polyethylene,17_gm,
+1512,SUCTION HDL XAN,suction high-density_lipoprotein xanax,Supply,RETROSPECTIVE,12/07/2016,suction,high-density_lipoprotein,xan,
+875,PULSE OXIMETRY SPOT CHEC,pulse oximetry spot check,Monitoring,RETROSPECTIVE,12/07/2016,oximetry,spot,check,pulse
+2468,CEMENT BN ENDRN 40GM,cement bone endrn 40_gm,Implant,RETROSPECTIVE,12/07/2016,40_gm,bain,cement,
+551,GLUCOSE QUAN B,glucose quantitative b,Laboratory,RETROSPECTIVE,12/07/2016,quantitative,b,glucose,
+1751,11111132 - NON-CHARGEABLE MEDICATION,non chargeable medication,Pharmacy,RETROSPECTIVE,12/07/2016,non,medication,chargeable,
+1374,HB LINE-EXTENSION SET 60 INCH,line extension set 60 inches,Supply,RETROSPECTIVE,12/07/2016,line,set,inches,extension
+5506,HEPARIN LOCK FLUSH (IN 0.9% SODIUM CHLORIDE) 1,heparin lock flush in 0.9% sodium_chloride 1,Diluent / Flush / Irrigant,ONLINE,16/09/2016,heparin,lock,sodium,chloride
+717,GLUCOSE (ACCUCHECK),glucose accucheck,Monitoring,RETROSPECTIVE,12/07/2016,accucheck,glucose,,
+460,POS REVATIO 2.5M/ML ORAL,postprandial revatio 2.5m/ml oral,Plan Benefit,RETROSPECTIVE,12/07/2016,2.5m/ml,revatio,oral,postprandial
+6125,US HEAD,ultrasound head,Radiology,ONLINE,16/09/2016,us,head,,
+6266,ONDANSETRON 4 MG/2 ML SOLN,ondansetron 4_mg/2_ml solution,Pharmacy,ONLINE,19/09/2016,ondansetron,4_mg/2_ml,soln,
+5079,ELECTROCARDIOGRAM,electrocardiogram,Cardiology,ONLINE,16/09/2016,electrocardiogram,,,
+2657,HC ANESTHESIA C 4 1/4 HR,anesthesia cap 4 1/4 hour,OR / Anesthesia / Recovery Room,RETROSPECTIVE,12/07/2016,anesthesia,hr, ,
+3175,SPUTUM INDUCTION INITIAL,sputum induction initial,Respiratory Therapy,RETROSPECTIVE,13/07/2016,initial,induction,sputum,
+2544,POLYETHYLENE GLYCOL 3350-NF POWDER 17G,polyethylene glucol 3350 non_formulary powder 17_gm,Pharmacy,RETROSPECTIVE,12/07/2016,polyethylene, , ,
+2655,HC CT ANGIOGRAPHY HEAD W/CONTRAST/NONCONTRAST,computed_tomography angiography head with contrast/noncontrast,Radiology,RETROSPECTIVE,12/07/2016,angiography,ct,noncontrast,
+1714,EXTENSIVE GAS DELIVERY INITIAL,extensive gas delivery initial,Plan Benefit,RETROSPECTIVE,12/07/2016,delivery,extensive,initial,gas
+5222,HC AMYLASE,amylase,Laboratory,ONLINE,16/09/2016,amylase,,,
+2729,55551015 - OR GEN LEVEL 1 EA ADD 15MIN,operation_room general level 1 each additional 15_minutes,OR / Anesthesia / Recovery Room,RETROSPECTIVE,13/07/2016,additional,level,operation_room,general
+5942,SHEATH INTRO PINNACLE PERIPH GW7FRX10,sheath intro pinnacle peripheral gw7frx10,Supply,ONLINE,16/09/2016,sheath,periph,,
+3996,HB OT STANDARD EVAL,occupational_therapy standard evaluation,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,evaluation,ot,standard,
+5140,FLEX ADAPTER 101047,flex adapter 101047,Supply,ONLINE,16/09/2016,flex,adapter,,
+2287,US RENAL SONOGRAM CMP,ultrasound renal sonogram complete,Radiology,RETROSPECTIVE,12/07/2016,cmp,renal,us,sonogram
+3410,11065262 - INFUSION  ALBUMIN 25% 50 ML,infusion albumin 25% 50_ml,Pharmacy,RETROSPECTIVE,13/07/2016,50_ml,albumin,infusion,25%
+4595,HAEMOPHILUS B/TETANUS VACCINE (PRP-T) VL W/DIL,haemophilus b/tetanus vaccine prp t vial with dil,Pharmacy,ONLINE,01/09/2016,vial,vaccine,,
+5996,SPEECH THERAPY,speech therapy,PT / OT / Speech Therapy,ONLINE,16/09/2016,therapy,speech,,
+1555,UNDERPAD  SMALL CHUX,underpad small chux,Supply,RETROSPECTIVE,12/07/2016,small,underpad,chux,
+4046,ICU INTERMEDIATE,intensive_care_unit intermediate,Room and Board,RETROSPECTIVE,13/07/2016,intermediate,intensive_care_unit,,
+5440,HCHG CULTURE BLOOD HCHG CULTURE BLOOD,culture blood,Laboratory,ONLINE,16/09/2016,culture,blood,,
+1725,VIAGRA ORAL SUSP,viagra oral suspension,Plan Benefit,RETROSPECTIVE,12/07/2016,suspension,viagra,oral,
+3151,SELF CARE/HOME MGMT 15 MIN,self care/home management 15_minutes,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,home,management,minutes,care
+1250,SPECIMEN COLLECTION - CHG ON,specimen collection charge on,Nursing Services,RETROSPECTIVE,12/07/2016,specimen,collection,,
+3661,77033462 - SET  ADMIN 10 DROP 2C6537,set administration 10 drop 2c6537,Supply,RETROSPECTIVE,13/07/2016,drop,set,administration,2c6537
+3281,HB EEG-NONINTRACRANIAL,electroencephalogram nonintracranial,Procedure,RETROSPECTIVE,13/07/2016,electroencephalogram,nonintracranial,,
+3651,77012904 - KIT  ARTERIAL LINE (CUSTOM),kit arterial line custom,Supply,RETROSPECTIVE,13/07/2016,arterial,line,custom,kit
+6012,STAY SHARP 5MM LONESTAR RETRAC,stay sharp 5mm lonestar retract,Supply,ONLINE,16/09/2016,5mm,sharp,lonestar,retract
+2288,PROTECTOR ULNAR NERVE,protector ulnar nerve,Supply,RETROSPECTIVE,12/07/2016,nerve,protector,ulnar,
+3867,DEXTROSE-50ML 50%,dextrose 50_ml 50%,Pharmacy,RETROSPECTIVE,13/07/2016,50_ml,50%,dextrose,
+4286,TBO-FILGRASTIM 480 MCG/0.8,tbo filgrastim 480 microgram/0.8,Pharmacy,RETROSPECTIVE,13/07/2016,filgrastim,tbo,microgram/0.8,
+4040,HYDROMORPHONE 1MG/ML 1ML,hydromorphone 1_mg/ml 1_ml,Pharmacy,RETROSPECTIVE,13/07/2016,hydromorphone,1_ml,1_mg/ml,
+4529,VANCOMYCIN HCL 500 M,vancomycin hydrochloride 500 mg,Pharmacy,ONLINE,29/08/2016,m,vancomycin,hydrochloride,
+2245,PANTOPRAZOLE 40 MG SOLR,pantoprazole 40_mg solution,Pharmacy,RETROSPECTIVE,12/07/2016,pantoprazole,40_mg,solution,
+326,SODIUM CHLORIDE INJ SODIUM CHLORIDE 0.9%,sodium chloride injection sodium chloride 0.9%,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,injection,chloride,sodium,
+2510,EPHEDRINE 25MG/5ML INJ (PREFILL SYR),ephedrine 25_mg/5_ml injection prefill syringe,Pharmacy,RETROSPECTIVE,12/07/2016,syringe,inj, ,
+296,SODIUM CHLORIDE 0.9% 100ML,sodium chloride 0.9% 100_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,0.90%,100_ml,chloride,sodium
+110,DEXTROSE 5% SOLN,dextrose 5% solution,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,5%,dextrose,solution,
+3034,IV INFUSION  TX  PROPH  DX INIT UP TO,intravenous_infusion treatment prophylactic diagnostic initial up to,Nursing Services,RETROSPECTIVE,13/07/2016,prophylactic,initial,infusion,diagnostic
+3379,VANCOMYCIN HCI 500 MG,vancomycin hcl 500_mg,Pharmacy,RETROSPECTIVE,13/07/2016,hci,vancomycin,500_mg,
+1138,SPC - NEONATE ICU,spc neonatal  intensive_care_unit,Room and Board,RETROSPECTIVE,12/07/2016,neonatal,spc,ICU,
+183,HEPARIN PER 10U-30 SYRNG,heparin per 10_units 30 syringe,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,syringe,per,
+1577,HB HICKMAN LINE,hickman line,Supply,RETROSPECTIVE,12/07/2016,line,hickman,,
+1535,TRAY  TRACH CARE/EA,tray tracheostomy care/each,Supply,RETROSPECTIVE,12/07/2016,tracheostomy,care,each,tray
+2186,VASOPRESSIN 20 UNIT/ML SOLN 1 ML VIAL,vasopressin 20_units/ml solution 1_ml vial,Pharmacy,RETROSPECTIVE,12/07/2016,vial,1_ml,soln,
+3028,INVASIVE MONIT ANES 3 SITE,invasive monitoring anesthesia 3 site,OR / Anesthesia / Recovery Room,RETROSPECTIVE,13/07/2016,invasive,monitoring,anesthesia,site
+3121,POTASSIUM CHLORIDE 20MEQ TAB S,potassium chloride 20_meq tablet s,Pharmacy,RETROSPECTIVE,13/07/2016,sigma,potassium,chloride,tablet
+100,DEXTROSE 5% 100ML,dextrose 5% 100_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,5%,100_ml,dextrose,
+1043,PREMASOL 10% 1L BY ML,premasol 10% 1l by ml,Pharmacy,RETROSPECTIVE,12/07/2016,ml,bay,premasol,1l
+2526,HC LIPID PANEL,lipid panel,Laboratory,RETROSPECTIVE,12/07/2016,lipid,panel, ,
+1236,OXYGEN/HOUR,oxygen/hour,Respiratory Therapy,RETROSPECTIVE,12/07/2016,oxygen,hour,,
+3837,CLOPIDOGREL 75 MG TABLET,clopidogrel 75_mg tablet,Pharmacy,RETROSPECTIVE,13/07/2016,75_mg,clopidogrel,tablet,
+1806,HC ARTERIAL BLOOD GAS,arterial blood gas,Monitoring,RETROSPECTIVE,12/07/2016,arterial,gas,blood,
+1358,HB ADHESIVE LIQ MASTSL 2-3ML BNDG,adhesive liquid mastisol 2 3_ml bandage,Supply,RETROSPECTIVE,12/07/2016,adhesive,bonding,3_ml,liquid
+135,HEPARIN 10 UNIT/ML INJ,heparin 10_units/ml injection,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,injection,10_units/ml,
+5097,FAMOTIDINE 10 MG/ML SOLN,famotidine 10_mg/ml solution,Pharmacy,ONLINE,16/09/2016,famotidine,soln,10_mg/ml,
+143,HEPARIN 100 UNIT/ML SOLN,heparin 100_units/ml solution,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,100_units/ml,solution,
+5886,RB ICU MEDICAL,room_and_board intensive_care_unit medical,Room and Board,ONLINE,16/09/2016,medical,icu,rb,
+382,DORNASE 1 MG/ML I,dornase 1_mg/ml i,Plan Benefit,RETROSPECTIVE,12/07/2016,1_mg/ml,dornase,,
+3220,U/A MICROSCOPIC ONLY (UAMI,urinalysis microscopic only uami,Laboratory,RETROSPECTIVE,13/07/2016,a,microscopic,u,uami
+4874,CHLORAPREP 25 ML,chloraprep 25_ml,Pharmacy,ONLINE,16/09/2016,chloraprep,25_ml,,
+2431,ROOM & BOARD - NICU LEVEL III,room & board neonatal_intensive_care_unit level iii,Room and Board,RETROSPECTIVE,12/07/2016,level,nicu,iii,
+5250,HC CARD MRI VELOCITY FLOW,cardiac magnetic_resonance_imaging velocity flow,Radiology,ONLINE,16/09/2016,cardiac,velocity,mri,flow
+652,RCH LAB-WHOLE BLOOD POTASS,laboratory whole blood potassium,Laboratory,RETROSPECTIVE,12/07/2016,laboratory,potassium,whole,blood
+4937,CUL BACT QUAN COLONY CNT URINE,cult bacterial quantitative colony count urine,Laboratory,ONLINE,16/09/2016,quan,urine,,
+2116,ROOM CHRG INTERMEDIATE NURSERY 173,room charge intermediate nursery 173,Room and Board,RETROSPECTIVE,12/07/2016,chrg,nursery,room,
+5565,IV TUBING EXT SET W/.22 MICRON,intravenous tubing extension set with 0.22 micron,Supply,ONLINE,16/09/2016,tubing,set,iv,ext
+4363,FUNCTIONAL ACTIVITIES (15,functional activities 15,PT / OT / Speech Therapy,ONLINE,24/08/2016,activities,functional,,
+4637,PNEUMOCOCCAL (13-VAL) CONJ,pneumococcal 13_VALENT CONJUGATE,Laboratory,ONLINE,01/09/2016,conj,pneumococcal,val,
+4751,BARRIER SKIN 1 OZ 7906,barrier skin 1 ounce 7906,Supply,ONLINE,16/09/2016,oz,barrier,skin,
+6139,VECURONIUM 10MG SOLR 1 EACH,vecuronium 10_mg solution 1 each,Pharmacy,ONLINE,16/09/2016,solution,vecuronium,10_mg,
+538,CHLORIDE PLASMA,chloride plasma,Laboratory,RETROSPECTIVE,12/07/2016,plasma,chloride,,
+3672,77072676 - FORCEP INSTRU 5 1/2IN CRV,forcep instrument 5 1/2 inches crv,Supply,RETROSPECTIVE,13/07/2016,inches,,,
+2904,CATH ART EMBL SGL 3FRX80CM 1801-38,catheter arterial embolization single 3frx80cm 1801 38,Supply,RETROSPECTIVE,13/07/2016,catheter,single,,
+6321,VITAMIN K SERUM,vitamin potassium serum,Laboratory,ONLINE,19/09/2016,k,vitamin,serum,
+1951,HC PIPERACILLIN/TAZO 4 5 GM,piperacillin/tazo 4 5_gm,Pharmacy,RETROSPECTIVE,12/07/2016,gm,piperacillin,tazo,
+2891,BLD SAW SAG/OSC 70X25X1MM BR2108-100,blade saw sagital/oscillating 70x25x1mm br2108 100,Supply,RETROSPECTIVE,13/07/2016,blood,,,
+1190,HB VENIPUNCTURE,venipuncture,Nursing Services,RETROSPECTIVE,12/07/2016,venipuncture,,,
+2329,675,675,Other,RETROSPECTIVE,12/07/2016,,,,
+5006,DIGOXIN QUANT,digoxin quantitative,Laboratory,ONLINE,16/09/2016,quant,digoxin,,
+5124,FENTANYL 50 MCG/HR PATCH,fentanyl 50 microgram/hour patch,Pharmacy,ONLINE,16/09/2016,fentanyl,microgram,hour,patch
+4297,TRAY MONITOR ARTERIAL,tray monitor arterial,Supply,RETROSPECTIVE,13/07/2016,arterial,tray,monitor,
+6126,US PREG UTERUS FOLLOW UP,ultrasound pregnant uterus follow up,Radiology,ONLINE,16/09/2016,uterus,us,preg,follow
+250,SOD CHLOR .9% 10ML,sodium chloride 0.9% 10_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,10_ml,0.90%,chloride,sodium
+2495,HAEMOPHB-TET TOX 0.5ML VACC,haemophilus tetnus tox 0.5_ml vacc,Pharmacy,RETROSPECTIVE,12/07/2016,tet,tox,0.5_ml,
+6180,BUMETANIDE 0.25 MG/ML SOLN,bumetanide 0.25_mg/ml solution,Pharmacy,ONLINE,19/09/2016,bumetanide,soln,0.25_mg/ml,
+1660,BILIRUBIN TOT BLD,bilirubin total blood,Laboratory,RETROSPECTIVE,12/07/2016,bilirubin,total,blood,
+5642,MECHANICAL CHEST WALL OSCILLATION PER SESSION,mechanical chest wall oscillation per session,Respiratory Therapy,ONLINE,16/09/2016,wall,chest,per,
+4662,ABR COMPREHENSIVE,auditory_brainstem_response comprehensive,PT / OT / Speech Therapy,ONLINE,16/09/2016,comprehensive,abr,,
+3131,PT GAIT TRAIN 1 OR > AREAS EA 15M,patient gait training 1 or more areas each 15_minutes,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,patient,operation_room,,
+6058,TOTAL PROTEIN SERUM,total protein serum,Laboratory,ONLINE,16/09/2016,protein,total,serum,
+3759,AMYLASE/LIPASE/PROTEASE 12000U,amylase/lipase/protease 12000u,Laboratory,RETROSPECTIVE,13/07/2016,amylase,12000u,protease,lipase
+2720,2D ECHO W/DOPPLER + COLOR FW,2D echocardiogram with doppler and color flow,Radiology,RETROSPECTIVE,13/07/2016,color,echocardiogram,doppler,fw
+5486,HCHG THYROID STIMULATING HORM (TSH) HCHG THYROID STIMULATING HORM (TSH),thyroid stimulating hormone (TSH),Laboratory,ONLINE,16/09/2016,thyroid,stimulating,,
+5509,HEPATC FUNC PANEL,hepatic function panel,Laboratory,ONLINE,16/09/2016,panel,func,hepatic,
+2920,CO-TRIMOXAZOLE TAB D/S U/D,co trimoxazole tablet D/S unit dose,Pharmacy,RETROSPECTIVE,13/07/2016,device,co,tablet,
+861,PULSE OX HOURLY,pulse oximetry hourly,Monitoring,RETROSPECTIVE,12/07/2016,hourly,oximetry,pulse,
+4785,BLOOD GASES POC,blood gases point_of_care,Monitoring,ONLINE,16/09/2016,poc,blood,gases,
+191,IV D5W 250ML,intravenous dextrose_5%_in_water 250_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,250_ml,intravenous,D5W,
+4152,NASAL CANNULA,nasal_cannula,Supply,RETROSPECTIVE,13/07/2016,cannula,nasal,,
+3649,77001266 - BED MAXXAIR ETS RENTAL,bed maxxair ets rental,Capital Equipment,RETROSPECTIVE,13/07/2016,ets,rental,maxxair,bed
+3506,14269002 - PANTOPRAZOLE SODIUM 40MG,pantoprazole sodium 40_mg,Pharmacy,RETROSPECTIVE,13/07/2016,pantoprazole,40_mg,sodium,
+2682,11395212 - BENGAY GREASELESS CREAM,bengay greaseless cream,Pharmacy,RETROSPECTIVE,13/07/2016,bengay,greaseless,cream,
+5063,DRS AQUACEL 5X5/420619,dressing aquacel 5x5/420619,Supply,ONLINE,16/09/2016,aquacel,5x5/420619,drs,
+2905,CATH ART EMBL SGL 4FRX80CM 1801-48,catheter arterial embolization single 4frx80cm 1801 48,Supply,RETROSPECTIVE,13/07/2016,catheter,single,,
+5176,GENTAMICIN 4 MG/ML SOLN,gentamicin 4_mg/ml solution,Pharmacy,ONLINE,16/09/2016,gentamicin,soln,4_mg/ml,
+4154,NEOSTIGMINE 5MG INJ,neostigmine 5_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,neostigmine,injection,5_mg,
+5065,DRSG KERLEX HEADROLL,dressing kerlix headroll,Supply,ONLINE,16/09/2016,kerlix,headroll,drsg,
+2696,14382121 - PHARMACY TDM COMP CONSULT,pharmacy tdm compounding consult,Pharmacy,RETROSPECTIVE,13/07/2016,compressors,consult,tdm,pharmacy
+734,GLUCOSE GLUCOMET,glucose glucometer,Monitoring,RETROSPECTIVE,12/07/2016,glucometer,glucose,,
+2573,HC TELEMETRY MONITOR DAY,telemetry monitor day,Monitoring,RETROSPECTIVE,12/07/2016,telemetry,monitor,day,
+3899,FIBRINOGEN LEVEL,fibrinogen level,Laboratory,RETROSPECTIVE,13/07/2016,fibrinogen,level,,
+5186,GLYCERIN PEDIATRIC 1.2 G,glycerin pediatric 1.2 gram,Supply,ONLINE,16/09/2016,glycerin,g,1.2,pediatric
+5912,ROOM 8105,room 8105,Room and Board,ONLINE,16/09/2016,room,,,
+5490,HCHG URINALYSIS AUTO W/MICRO HCHG URINALYSIS AUTO W/MICRO,urinalysis automated with micro,Laboratory,ONLINE,16/09/2016,urinalysis,automated,,
+3565,58183000 - PERCUSSION AND POSTURAL DRAIN,percussion and postural drain,Supply,RETROSPECTIVE,13/07/2016,postural,percussion,drain,
+180,HEPARIN LOCK FLUSH 10 UNIT/ML SOLN 1 ML SYRINGE,heparin lock flush 10_units/ml solution 1_ml syringe,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,lock,solution,1_ml
+4778,BLOOD ADMINISTRATION,blood administration,Nursing Services,ONLINE,16/09/2016,administration,blood,,
+871,PULSE OXIMETRY CONTINUOUS,pulse oximetry continuous,Monitoring,RETROSPECTIVE,12/07/2016,continuous,oximetry,pulse,
+3319,HB PENTAFLUOROPROP-TETRAFLUOROETH EX AERO- DUP,pentafluoropropane-tetrafluoroethane ex aerosol dup,Pharmacy,RETROSPECTIVE,13/07/2016,duplex,,,
+5670,MORPHINE (PF) IN 0.9 % NACL 2 MG/2 ML (1 MG/ML),morphine preservative_free in 0.9% sodium_chloride 2_mg/2_ml 1_mg/ml,Pharmacy,ONLINE,16/09/2016,morphine,nacl,,
+3832,CIPROFLOXACIN FOR IV INFUSION 200 MG INJ,ciprofloxacin for intravenous_infusion 200_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,injection,200_mg,intravenous,infusion
+190,INJ IV SOLN PIGGY BACK; SOD CHLORIDE,injection intravenous solution piggy back sodium chloride,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,sodium,back,solution,piggy
+3485,13730462 - MICAFUNGIN SODIUM/1MG (100MG),micafungin units/1_mg 100_mg,Pharmacy,RETROSPECTIVE,13/07/2016,100_mg,micafungin,units/1_mg,
+5185,GLYCERIN (CHILD) RECTAL SUPPOSITORY,glycerin child rectal suppository,Supply,ONLINE,16/09/2016,suppository,glycerin,rectal,child
+5205,H BIOTINIDASE SERUM,biotinidase serum,Laboratory,ONLINE,16/09/2016,biotinidase,serum,,
+1285,ADAPTER HEPLOCK MAXPLUS,adapter heplock maxplus,Supply,RETROSPECTIVE,12/07/2016,heplock,adapter,maxplus,
+1881,EMERG NIV SUBSEQUENT DAY,emergent noninvasive_ventilator subsequent day,Respiratory Therapy,RETROSPECTIVE,12/07/2016,subsequent,niv,emergent,day
+4755,BELL PLASTIC 1.2 CM HCHG BELL PLASTIC 1.2 CM,bell plastic 1.2 cm,Supply,ONLINE,16/09/2016,plastic,,,
+1078,NICOTINE PATCH LEGEND,nicotine patch legend,Plan Benefit,RETROSPECTIVE,12/07/2016,nicotine,legend,patch,
+3949,HB CISATRACURIUM 2MG/ML 10ML VL,cisatracurium 2_mg/ml 10_ml vial,Pharmacy,RETROSPECTIVE,13/07/2016,vial,10_ml,2_mg/ml,cisatracurium
+2434,QUETIAPINE 300MG TAB,quetiapine 300_mg tablet,Pharmacy,RETROSPECTIVE,12/07/2016,quetiapine,300_mg,tab,
+3346,HB TOOL DISSECT MRCS L8CM OD2.3MM,tool dissection mrcs l8cm od2.3mm,Supply,RETROSPECTIVE,13/07/2016,od2.3mm,tool,mrcs,l8cm
+1496,SODIUM CHLORIDE (PF) 3% NEBU 4 ML PLAS CONT,sodium chloride partial_fill 3% nebulizer 4_ml plastic container,Supply,RETROSPECTIVE,12/07/2016,4_ml,sodium,PF,plastic
+1572,ELECTRODE ECG,electrode electrocardiogram,Supply,RETROSPECTIVE,12/07/2016,electrode,electrocardiogram,,
+3681,77078733 - TUBE TRACH 8.0 XLT CUFF DIS,tube tracheotomy 8 xlt cuff dis,Supply,RETROSPECTIVE,13/07/2016,tube,,,
+996,LORAZEPAM O/S 2MG/ML UD,lorazepam oxygen/sigma 2_mg/ml ud,Pharmacy,RETROSPECTIVE,12/07/2016,lorazepam,udi,2_mg/ml,oxygen
+1079,NICOTINE PATCH NONLEGE,nicotine patch nonlege,Plan Benefit,RETROSPECTIVE,12/07/2016,nicotine,nonlegume,patch,
+5027,DISP: 1.000 ML; 2 MG/ML; USED NDC QTY: 1.000 PCK OF 1.000 ML VIAL LORAZEPAM 2 MG INJECTION LORAZEPAM 2 MG/ML INJECTION SOLUTION,dispensed 1.000_ml 2_mg/ml used ndc quantity 1 pack of 1.000_ml vial lorazepam 2_mg injection lorazepam 2_mg/ml injection solution,Pharmacy,ONLINE,16/09/2016,2_mg,vial,ndc,disposable
+3821,CELL COUNT CSF WITHOUT DIFF,cell count cerebrospinal_fluid without differential,Laboratory,RETROSPECTIVE,13/07/2016,cell,count,without,diff
+599,HCT-AUTO,hematocrit automated,Laboratory,RETROSPECTIVE,12/07/2016,auto,hematocrit,,
+2642,632A,632a,Room and Board,RETROSPECTIVE,12/07/2016,632a, , ,
+2301,HC ADMIN PNEUMONIA VACCINE,administration pneumonia vaccine,Nursing Services,RETROSPECTIVE,12/07/2016,pneumonia,administration,vaccine,
+1193,HC BLADDER SCAN US,bladder scan ultrasound,Nursing Services,RETROSPECTIVE,12/07/2016,bladder,us,scan,
+5335,HC IV INFUSION W SAME MED SEQUENTIAL ED,intravenous_infusion with same medication sequential emergency_department,Nursing Services,ONLINE,16/09/2016,ed,med,sequential,iv
+5101,FAT EMULSION 20% EMUL,fat emulsion 20% emulsion,Pharmacy,ONLINE,16/09/2016,20%,emul,fat,
+4300,TRAY STAPLE REMOVE,tray staple remove,Supply,RETROSPECTIVE,13/07/2016,tray,staple,remove,
+399,FACTOR VIIA  1 MCG,factor viia 1 microgram,Plan Benefit,RETROSPECTIVE,12/07/2016,microgram,viia,factor,
+1508,SUCROSE 24% 24% 1 ML VIAL,sucrose 24% 24% 1_ml vial,Supply,RETROSPECTIVE,12/07/2016,vial,1_ml,sucrose,
+1224,OXYGEN HEATED PER HOUR,oxygen heated per hour,Respiratory Therapy,RETROSPECTIVE,12/07/2016,hour,per,oxygen,heated
+1086,HC LEVEL-3 NEWBORN INTERMEDIAT,level 3 newborn intermediate,Room and Board,RETROSPECTIVE,12/07/2016,newborn,intermediate,level,
+2346,CSF/BODY FLUID CELL CTDIFF,cerebrospinal_fluid/body fluid cell count_differential,Laboratory,RETROSPECTIVE,12/07/2016,cell,ctdiff,cerebrospinal_fluid,body
+1526,TIP SUCTION YANKAUER,tip suction yankauer,Supply,RETROSPECTIVE,12/07/2016,yankauer,suction,tip,
+5454,HCHG METABOLIC ORGANIC HCHG METABOLIC ORGANIC,metabolic organic,Laboratory,ONLINE,16/09/2016,metabolic,,,
+2835,86961500 - MT- BEH HLTH ASSESS/15 MIN,behavioral health assessment/15 minutes,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,minutes,,,
+5143,FLUCONAZOLE 2 MG/ML PGBK 100 ML FLEX CONT,fluconazole 2_mg/ml pgbk 100_ml flex cont,Pharmacy,ONLINE,16/09/2016,100_ml,pgbk,continuous,flex
+158,HEPARIN FLUSH 10 UNITS ,heparin flush 10_units,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,10_units,flush,
+685,CEREBRAL OXIMETER  D,cerebral oximeter daily,Monitoring,RETROSPECTIVE,12/07/2016,cerebral,oximeter,dipped,
+2637,HC EKG ROUTINE,electrocardiogram routine,Cardiology,ONLINE,16/09/2016,ekg,routine,,
+5571,KETAMINE 50MG/5ML 0.9% NACL BD,ketamine 50_mg/5_ml 0.9% sodium_chloride bd,Pharmacy,ONLINE,16/09/2016,ketamine,nacl,,
+2503,STERILE WATER TPN SOLN 1 000 ML EXTEMP,sterile water total_parenteral_nutrition solution 1 000_ml extemp,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,water,tpn,000_ml,
+2853,AEROBIC CULT ISO & PRESUMPT ID,aerobic culture isolate and presumptive identification,Laboratory,RETROSPECTIVE,13/07/2016,&,aerobic,presumptive,iso
+6048,THROMBOPLASTIN TIME PARTIAL,thromboplastin time partial,Laboratory,ONLINE,16/09/2016,partial,thromboplastin,time,
+6007,SPS SET PWRLOC 20GX.75 0652034,sps set power_loc 20gx.75 0652034,Supply,ONLINE,16/09/2016,20gx.75,pwrloc,spgs,set
+2568,POTASSIUM CHLORIDE 2MEQ/ML INJ (ADDITIVE),potassium chloride 2_meq/ml injection additive,Pharmacy,RETROSPECTIVE,12/07/2016,potassium,chloride,inj,
+4659,AB SCREEN RBC EA,antibody screen red_blood_cell each,Laboratory,ONLINE,16/09/2016,rbc,screen,antibody,
+1566,25000001-COMPOUNDING VEHICLE SF NO.9 LIQD,compounding vehicle sulf no.9 liquid,Pharmacy,RETROSPECTIVE,12/07/2016,compounding,safe,liquid,vehicle
+1896,CHEST 1 VW,chest 1 view,Radiology,RETROSPECTIVE,12/07/2016,chest,vw,,
+966,IBUPROFEN 20 MG/ML ORAL,ibuprofen 20_mg/ml oral,Pharmacy,RETROSPECTIVE,12/07/2016,20_mg/ml,oral,ibuprofen,
+5730,ONDANSETRON 4 MG/2ML SOLN,ondansetron 4_mg/2_ml solution,Pharmacy,ONLINE,16/09/2016,ondansetron,4_mg/2_ml,soln,
+1993,ROXICODONE 5MG TABLET,roxicodone 5_mg tablet,Pharmacy,RETROSPECTIVE,12/07/2016,5_mg,roxicodone,tablet,
+630,POTASSIUM  SERUM  PLASMA  WHOLE BL,potassium serum plasma whole blood,Laboratory,RETROSPECTIVE,12/07/2016,whole,potassium,plasma,serum
+4593,FER-IN-SOL 15MG/ML ORAL SOLN,iron_sulfate 15_mg/ml oral solution,Pharmacy,ONLINE,01/09/2016,injection,oral,soln,
+5376,HC SELF CARE HOME MGMNT OT,self care home management occupational_therapy,PT / OT / Speech Therapy,ONLINE,16/09/2016,home,self,ot,care
+4006,HB REMIFENTANIL 5MG VIAL,remifentanil 5_mg vial,Pharmacy,RETROSPECTIVE,13/07/2016,vial,remifentanil,5_mg,
+5484,HCHG THERAPY FUNCTIONAL 15 MIN HCHG THERAPY FUNCTIONAL 15 MIN,therapy functional 15_minutes,PT / OT / Speech Therapy,ONLINE,16/09/2016,min,therapy,,
+4557,PRISMASOL BGK 2/3.5 INJ 5 000,prismasol bgk 2/3.5 injection 5 000,Pharmacy,ONLINE,30/08/2016,2/3.5,prismasol,inj,bgk
+6070,TRANSFERASE ALANINE AMINO,transferase alanine amino,Laboratory,ONLINE,16/09/2016,transferase,alanine,amino,
+1158,BLOOD GAS SAMPLING ARTERIAL,blood gas sampling arterial,Nursing Services,RETROSPECTIVE,12/07/2016,arterial,gas,blood,sampling
+978,ISOTRETINOIN (,isotretinoin,Pharmacy,RETROSPECTIVE,12/07/2016,isotretinoin,,,
+1112,RB 3BMC STEP DOWN ONC ICU,room_and_board 3bmc step down oncology intensive_care_unit,Room and Board,RETROSPECTIVE,12/07/2016,step,onca,rab,ICU
+6267,OSTOMY POUCH NEWBORN/BOX,ostomy pouch newborn/box,Supply,ONLINE,19/09/2016,newborn,ostomy,pouch,box
+5403,HC THYROID STIMULATING HORMONE,thyroid stimulating hormone,Laboratory,ONLINE,16/09/2016,thyroid,hormone,stimulating,
+5653,METRONIDAZOLE BENZOATE (BULK) POWD 500 G JAR,metronidazole benzoate bulk powder 500 g jar,Pharmacy,ONLINE,16/09/2016,metronidazole,powder,,
+5843,POTASSIUM CHLORIDE 2 MEQ/ML SOLP,potassium chloride 2_meq/ml solution,Pharmacy,ONLINE,16/09/2016,2_meq/ml,potassium,chloride,solution
+2618,TETRACAINE 0.5 % SOLN 15 ML BOTTLE,tetracaine 0.5% solution 15_ml bottle,Pharmacy,RETROSPECTIVE,12/07/2016,soln,bottle,15_ml,
+3929,HB 5% DEXTROSE/WATER 1000ML,5% dextrose/water 1000_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,13/07/2016,5%,water,dextrose,1000_ml
+947,GLUCOMETER-POC,glucometer point_of_care,Monitoring,RETROSPECTIVE,12/07/2016,POC,glucometer,,
+3073,NORM SAL STER500MLIV,normal_saline sterile 500_ml intravenous,Diluent / Flush / Irrigant,RETROSPECTIVE,13/07/2016,sal,ster500_mliv,normal,
+3613,64053000 - BLOOD CULTURE,blood culture,Laboratory,RETROSPECTIVE,13/07/2016,culture,blood,,
+2894,BNDG ROLL 4.5X4.1YD 8P ST,bandage roll 4.5x4.1yard 8p strip,Supply,RETROSPECTIVE,13/07/2016,bandage,strip,,
+531,CARBON MONOXIDE COOX,carbon monoxide co-oximetry,Monitoring,RETROSPECTIVE,12/07/2016,carbon,monoxide,co-oximetry,
+576,HBOL LACTATE,lactate,Laboratory,RETROSPECTIVE,12/07/2016,lactate,,,
+5978,SODIUM CHLORIDE PER 500 ML,sodium_chloride per 500_ml,Pharmacy,ONLINE,16/09/2016,chloride,500_ml,per,sodium
+1105,NURSERY/LEVEL IV,nursery/level intravenous,Room and Board,RETROSPECTIVE,12/07/2016,intravenous,nursery,level,
+1474,SET  IV Y-EXT,set intravenous y extension,Supply,RETROSPECTIVE,12/07/2016,set,intravenous,extension,
+62,PUMP INFUSION (GLBL),pump infusion glbl,Capital Equipment,RETROSPECTIVE,12/07/2016,pump,glbl,infusion,
+5437,HCHG CMA-INTERPRETATION AND REPORT HCHG CMA-INTERPRETATION AND REPORT,cma interpretation and report,Professional Fee,ONLINE,16/09/2016,report,hchg,interpretation,cma
+2467,OXYGEN 1 - 12 HR,oxygen 1 12 hour,Respiratory Therapy,RETROSPECTIVE,12/07/2016,hr,oxygen, ,
+2692,13295252 - LIDOCAINE 1% W/EPI 1:100000 30,lidocaine 1% with epinephrine 1:100000,Pharmacy,RETROSPECTIVE,13/07/2016,epic,1%,lidocaine,
+744,GLUCOSE POINT OF CARE.,glucose point of care,Monitoring,RETROSPECTIVE,12/07/2016,care.,point,glucose,
+1594,LANCET INFANT 1.0MM QUIKH,lancet infant 1.0mm quikheel,Supply,RETROSPECTIVE,12/07/2016,1.0mm,infant,quikheel,lancet
+2345,PRO-STAT 101 15GM LIQUID,products stat 101 15_gm liquid,Supply,RETROSPECTIVE,12/07/2016,stat,liquid,,
+4741,BACITRACIN ZINC 500 UN/G OINT,bacitracin zinc 500_units/g ointment,Pharmacy,ONLINE,16/09/2016,bacitracin,500_units/g,oint,zinc
+4253,SOCK STUMP 18X8X6,sock stump 18x8x6,Supply,RETROSPECTIVE,13/07/2016,stump,18x8x6,sock,
+990,LEVETIRACETAM PER 10MG(100 MG),levetiracetam per 10_mg 100_mg,Pharmacy,RETROSPECTIVE,12/07/2016,100_mg,10_mg,per,levetiracetam
+4226,QUETIAPINE 25 MG TABS,quetiapine 25_mg tablets,Pharmacy,RETROSPECTIVE,13/07/2016,quetiapine,tabs,25_mg,
+4495,PACK CELL SAVER # ATL,pack cell saver atl,Supply,ONLINE,29/08/2016,cell,atlas,saver,pack
+5770,PACK GYN ONCOLOGY OPEN,pack gynecology oncology open,Supply,ONLINE,16/09/2016,gyn,oncology,open,pack
+1667,C GLUCOSE ADD-ON,glucose additional on,Laboratory,RETROSPECTIVE,12/07/2016,add,glucose,,
+3611,63719001 - TSH,63719001 thyroid-stimulating_hormone,Laboratory,RETROSPECTIVE,13/07/2016,thyroid-stimulating_hormone,,,
+4649,(CONTRAST) IODIXANOL 320 MG IODINE/ML SOLN 50 M,contrast iodixanol 320_mg iodine/ml solution 50 m,Pharmacy,ONLINE,16/09/2016,ml,soln,contrast,
+1852,HCHG HEPARIN ASSAY,heparin assay,Laboratory,RETROSPECTIVE,12/07/2016,heparin,assay,,
+2520,CHOLECALCIFEROL 1000 UNI,cholecalciferol 1000_units,Pharmacy,RETROSPECTIVE,12/07/2016,cholecalciferol,1000_units, ,
+5141,FLOSEAL 110ML,floseal 110_ml,Supply,ONLINE,16/09/2016,110_ml,floseal,,
+2118,CATHETER URETH 14FR RED RUB,catheter urethral 14fr red rub,Supply,RETROSPECTIVE,12/07/2016,catheter,red,,
+5146,FLUCONAZOLE 200MG/NS 100ML INJ,fluconazole 200_mg/normal_saline 100_ml injection,Pharmacy,ONLINE,16/09/2016,fluconazole,inj,200_mg/normal_saline,100_ml
+4092,LDH (LDH),lactic_dehydrogenase lactic_dehydrogenase,Laboratory,RETROSPECTIVE,13/07/2016,lactic_dehydrogenase,,,
+6034,SYSTEM INTRO SS VALVED 9.0FRX13CM,system intro ss valved 9.0frx13cm,Supply,ONLINE,16/09/2016,system,,,
+6049,THROMBOPLASTIN TIME PARTIAL PLASMA/WHOLE BLOOD,thromboplastin time partial plasma/whole blood,Laboratory,ONLINE,16/09/2016,whole,plasma,blood,thromboplastin
+1049,PROPOFOL 10 MG/ML EMULSI,propofol 10_mg/ml emulsion,Pharmacy,RETROSPECTIVE,12/07/2016,emulsin,propofol,10_mg/ml,
+4559,PROCALCITONIN (PCT),procalcitonin procalcitonin,Laboratory,ONLINE,30/08/2016,procalcitonin,point_of_care_test,,
+3648,77001261 - TRANSDUCER SAFE SET,transducer safe set,Supply,RETROSPECTIVE,13/07/2016,safe,set,transducer,
+3605,63104001 - PROTEIN TOTAL URINE,protein total urine,Laboratory,RETROSPECTIVE,13/07/2016,protein,total,urine,
+482,SILDENAFIL 2.5 MG/ML SU,sildenafil 2.5_mg/ml supply,Plan Benefit,RETROSPECTIVE,12/07/2016,supply,sildenafil,2.5mg/ml,
+2952,DEXTROSE 5% - SODIUM CHLORIDE 0.45% PARENTERAL,dextrose_5% sodium_chloride 0.45% parenteral,Pharmacy,RETROSPECTIVE,13/07/2016,chloride,parenteral,dextrose,sodium
+1341,EXTENSION SET ENTERAL 60 INCH,extension set enteral 60 inches,Supply,RETROSPECTIVE,12/07/2016,set,inches,enteral,extension
+274,SODIUM CHLORIDE 0,sodium chloride 0,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,sodium,,,
+2743,59250015 - GEN ANES OR ADD 15MIN,general anesthesia operation_room additional 15_minutes,OR / Anesthesia / Recovery Room,RETROSPECTIVE,13/07/2016,additional,anesthesia,operation_room,general
+3850,CPK TOTAL,creatine_phosphokinase total,Laboratory,RETROSPECTIVE,13/07/2016,total,creatine_phosphokinase,,
+479,SILDENAFIL 2.5 MG/ML 2.5 MG/ML,sildenafil 2.5_mg/ml 2.5_mg/ml,Plan Benefit,RETROSPECTIVE,12/07/2016,sildenafil,2.5mg/ml,,
+422,HCHG FACTOR THROMBATE 100,factor thrombate 100,Plan Benefit,RETROSPECTIVE,12/07/2016,thrombate,factor,,
+1850,LACTATED RINGERS SOLN,lactated ringers solution,Pharmacy,RETROSPECTIVE,12/07/2016,ringers,lactated,soln,
+1415,IV FILTER,intravenous filter,Supply,RETROSPECTIVE,12/07/2016,filter,intravenous,,
+20,EQ SEQ COMPRESSOR,equipment sequence compressor,Capital Equipment,RETROSPECTIVE,12/07/2016,equipment,compressor,sequence,
+1246,RT EVALUATION DAILY,respiratory_therapy evaluation daily,Respiratory Therapy,RETROSPECTIVE,12/07/2016,RT,evaluation,daily,
+4314,URSODIOL 60 MG/ML PO SUSP,ursodiol 60_mg/ml by_mouth suspension,Pharmacy,RETROSPECTIVE,13/07/2016,by_mouth,ursodiol,60_mg/ml,suspension
+4504,PUNCH AORTIC # AP-444,punch aortic # AP-444,Supply,ONLINE,29/08/2016,anterior_posterior,aortic,punch,
+4606,HB - SWALLOW/FEEDING THERAPY 30 MINUTES (MOD GN),swallow/feeding therapy 30 minutes mod gn,PT / OT / Speech Therapy,ONLINE,01/09/2016,minutes,swallow,feeding,therapy
+2101,HC NEEDLE PRTCT+CATH 20GX1.2,needle protect and catheter 20gx1.2,Supply,RETROSPECTIVE,12/07/2016,protect,needle,catheter,20gx1.2
+534,CHLORIDE,chloride,Laboratory,RETROSPECTIVE,12/07/2016,chloride,,,
+4401,QUETIATINE FUMARANE 200MG TAB; QUETIAPINE FUMARATE 200 MG TAB,quetiapine fumarate 200_mg tablet quetiapine fumarate 200_mg tablet,Pharmacy,ONLINE,24/08/2016,200_mg,quetiapine,tab,
+2148,PANTOPRAZOLE SODIUM PER VIAL,pantoprazole sodium per vial,Pharmacy,RETROSPECTIVE,12/07/2016,vial,pantoprazole,per,sodium
+5438,HCHG CO2 EXPIRED GAS DETERMINATION HCHG CO2 EXPIRED GAS DETERMINATION,carbon_dioxide expired gas determination,Monitoring,ONLINE,16/09/2016,gas,expired,co2,
+5761,OXYCODONE-ACETAMINOPHEN 10-325 MG TABS,oxycodone acetaminophen 10 325_mg tablets,Pharmacy,ONLINE,16/09/2016,325_mg,tabs,oxycodone,acetaminophen
+1377,HB ORA-SWEET PO SYRP,oral sweet by_mouth syrup,Supply,RETROSPECTIVE,12/07/2016,sweet,po,oral,syrup
+3857,CULTURE/BACTERIAL FLUID QT,culture/bacterial fluid quantitative,Laboratory,RETROSPECTIVE,13/07/2016,culture,bacterial,fluid,quantitative
+185,HEPARIN SODIUM 50,heparin sodium 50,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,heparin,sodium,,
+3422,11482052 - BUMETANIDE 1 MG,bumetanide 1_mg,Pharmacy,RETROSPECTIVE,13/07/2016,1_mg,bumetanide,,
+3388,*IRON BINDING CAPACITY,iron binding capacity,Laboratory,RETROSPECTIVE,13/07/2016,capacity,binding,iron,
+1286,ADAPTER IV CLAVE MALE,adapter intravenous clave male,Supply,RETROSPECTIVE,12/07/2016,adapter,male,clave,intravenous
+4136,MIDODRINE 5 MG TAB,midodrine 5_mg tablet,Pharmacy,RETROSPECTIVE,13/07/2016,5_mg,tablet,midodrine,
+539,CHLORIDE SERUM,chloride serum,Laboratory,RETROSPECTIVE,12/07/2016,chloride,serum,,
+4460,ENDO UNIPORT VEIN HAR,endo uniport vein harvest,Supply,ONLINE,29/08/2016,har,uniport,vein,endo
+5255,HC CBC AUTO WO DIFF,complete_blood_count automated without differential,Laboratory,ONLINE,16/09/2016,cbc,without,diff,automated
+55,P500 OVERLAY MATTRESS,p500 overlay mattress,Capital Equipment,RETROSPECTIVE,12/07/2016,p500,mattress,overlay,
+6212,EEG,electroencephalogram,Procedure,ONLINE,19/09/2016,eeg,,,
+5803,PHENYLEPHRINE 10 MG/ML SOLN 1 ML,phenylephrine 10_mg/ml solution 1_ml,Pharmacy,ONLINE,16/09/2016,phenylephrine,1_ml,soln,10_mg/ml
+3934,HB ACETAMINOPHEN 80 MG PO TBDP,acetaminophen 80_mg by_mouth tbdp,Pharmacy,RETROSPECTIVE,13/07/2016,80_mg,po,tbdp,acetaminophen
+4212,PROPOFOL 10 MG INJ,propofol 10_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,injection,propofol,10_mg,
+2105,RB NEONATAL-ICU CRIT LEV 1,room_and_board neonatal intensive_care_unit critical level 1,Room and Board,RETROSPECTIVE,12/07/2016,neonatal,ICU,rab,critical
+4946,CULTURE BACTERIAL BLOOD AEROBIC W/ID ISOLATES,culture bacterial blood aerobic with id isolates,Laboratory,ONLINE,16/09/2016,aerobic,culture,isolates,blood
+322,SODIUM CHLORIDE 0.9% VIAL 10ML,sodium chloride 0.9% vial 10_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,vial,10_ml,chloride,sodium
+3982,HB IV PUSH INITIAL SUBSTANCE,intravenous push initial substance,Nursing Services,RETROSPECTIVE,13/07/2016,push,initial,iv,substance
+6156,XR UGI WITH KUB,x-ray upper_gastrointestinal with kidney_ureter_bladder,Radiology,ONLINE,16/09/2016,ugi,kub,xr,
+339,STERILE WATER FOR INJECTION 10,sterile water for injection 10,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,water,injection,sterile,
+979,KETAMINE 10 MG/ML INJECTION SOLUTION,ketamine 10_mg/ml injection solution,Pharmacy,RETROSPECTIVE,12/07/2016,ketamine,injection,solution,10_mg/ml
+245,SALINE FLUSH 0.45% 10ML,saline flush 0.45% 10_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,saline,10_ml,0.45%,flush
+2924,COMP METABOLIC PANEL (CMPP,complete metabolic panel cmpp,Laboratory,RETROSPECTIVE,13/07/2016,cmpp,compressors,panel,metabolic
+5900,RETRACTOR RIGID X-LARGE ALEXIS,retractor rigid extra large alexis,Supply,ONLINE,16/09/2016,large,,,
+4442,CARDIOPLEGIA SOL,cardioplegia solution,Pharmacy,ONLINE,29/08/2016,cardioplegia,sol,,
+1440,NICU ISOLETTE/BED SUPPLIES,neonatal_intensive_care_unit isolette/bed supplies,Supply,RETROSPECTIVE,12/07/2016,supplies,isolette,bed,NICU
+2714,27677000 - US RETROPERITONEAL COMP,ultrasound retroperitoneal comprehensive,Radiology,RETROSPECTIVE,13/07/2016,compressors,retroperitoneal,27677000_us,
+2973,ER LEVEL V,emergency_room level V,Room and Board,RETROSPECTIVE,13/07/2016,emergency_room,view,level,
+5206,H CCU INTERMEDIATE,critical_care_unit intermediate,Room and Board,ONLINE,16/09/2016,intermediate,ccu,,
+3818,CEFEPIME 500MG-1GM INJ,cefepime 500_mg 1_gm injection,Pharmacy,RETROSPECTIVE,13/07/2016,1_gm,injection,cefepime,500_mg
+4888,CISATRACURIUM 2 MG/ML SOLN 10 ML VIAL,cisatracurium 2_mg/ml solution 10_ml vial,Pharmacy,ONLINE,16/09/2016,vial,10_ml,soln,
+1506,STOPCOCK 3WAY,stopcock 3way,Supply,RETROSPECTIVE,12/07/2016,stopcock,3way,,
+4385,NONPRES INHL TX ACUT AIR OBS,non_pressurized inhalation treatment acute air obstruction,Respiratory Therapy,ONLINE,24/08/2016,acute,tx,air,
+724,GLUCOSE BLOOD BY GLU MONITOR,glucose blood by glucose monitoring,Monitoring,RETROSPECTIVE,12/07/2016,bay,monitor,blood,glucose
+269,SODIUM CHLORID,sodium chloride,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,sodium,,,
+3532,14944142 - SENNA 8.8MG/1ML ORAL SOLN,senna 8.8_mg/1_ml oral solution,Pharmacy,RETROSPECTIVE,13/07/2016,8.8_mg/1_ml,senna,oral,solution
+5866,PROCAINAMIDE PER 1 G,procainamide per 1 g,Pharmacy,ONLINE,16/09/2016,g,per,procainamide,
+1267,HC CPK,creatine_phosphokinase,Laboratory,RETROSPECTIVE,12/07/2016,cpk,,,
+3044,LEUKOPOOR RED CELLS,leukopoor red cells,Blood Products,RETROSPECTIVE,13/07/2016,leukopoor,cells,red,
+5110,FEEDING SUPPLEMENT (JEVITY 1.2 CAL) LIQD,feeding supplement jevity 1.2 calorie liquid,Pharmacy,ONLINE,16/09/2016,feeding,liqd,,
+3905,FUROSEM  20 MG-10MG/ML 2ML INJ,furosemide 20_mg 10_mg/ml 2_ml injection,Pharmacy,RETROSPECTIVE,13/07/2016,2_ml,furosemide,20_mg,injection
+1743,WATER ST 1L INJ,water sterile 1l injection,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,water,injection,sterile,1l
+2506,LIDOCAINE (PF) 20 MG/ML(2%) SOLN 5 ML VIAL,lidocaine partial_fill 20_mg/ml 2% solution 5_ml vial,Pharmacy,RETROSPECTIVE,12/07/2016,vial,partial_fill,soln,
+4469,HEPARIN 1000 UNIT (25,heparin 1000_units 25,Pharmacy,ONLINE,29/08/2016,heparin,1000_units,,
+1277,VENIPUNCTURE ROUTINE CHG,venipuncture routine charge,Nursing Services,RETROSPECTIVE,12/07/2016,venipuncture,charge,routine,
+5881,PT-INR,prothrombin_time - international normalized ratio,Laboratory,ONLINE,16/09/2016,physical_therapy,international_normalized_ratio,,
+3516,14594212 - DEXMEDETOMIDINE 200MCG/2ML INJ,dexmedetomidine 200_mcg/2_ml injection,Pharmacy,RETROSPECTIVE,13/07/2016,dexmedetomidine,injection,200_mcg/2_ml,
+3331,HB PT THERAPEUTIC ACTV EA 15 MIN,physical_therapy therapeutic activity each 15_minutes,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,min,pt,actv,therapeutic
+801,I STAT HCT (PICU),i stat hematocrit pediatric_intensive_care_unit,Monitoring,RETROSPECTIVE,12/07/2016,stat,hematocrit,pediatric_intensive_care_unit,
+3111,POLYETH GLY 3350 PKT,polyethylene glycol 3350 packet,Pharmacy,RETROSPECTIVE,13/07/2016,gly,polyethylene,packet,
+3433,12007216 - DARBEPOETIN (ESRD) 1MCG/ML,darbepoetin esrd 1_mcg/ml,Pharmacy,RETROSPECTIVE,13/07/2016,darbepoetin,esrd,1_mcg/ml,
+6176,ASSAY OF PROLACTIN,assay of prolactin,Laboratory,ONLINE,19/09/2016,prolactin,assay,,
+3443,12465212 - ETOMIDATE 2MG/ML 10ML,etomidate 2_mg/ml 10_ml,Pharmacy,RETROSPECTIVE,13/07/2016,10_ml,etomidate,2_mg/ml,
+3502,14151172 - OXYCODONE HCL 1MG/ML 5ML,oxycodone hcl 1_mg/ml 5_ml,Pharmacy,RETROSPECTIVE,13/07/2016,5_ml,oxycodone,hcl,1_mg/ml
+6300,SPIRONOLACTONE 5 MG/ML SUS,spironolactone 5_mg/ml suspension,Pharmacy,ONLINE,19/09/2016,spironolactone,sus,5_mg/ml,
+1329,DRSNG CHNG MINOR,dressing change minor,Supply,RETROSPECTIVE,12/07/2016,minor,change,dressing,
+4153,NEBULIZER TX INTERMITTENT,nebulizer treatment intermittent,Respiratory Therapy,RETROSPECTIVE,13/07/2016,intermittent,nebulizer,treatment,
+699,GLU HOME USE DIAGNOS,glucose home use diagnostic,Monitoring,RETROSPECTIVE,12/07/2016,home,use,diagnostic,glucose
+6197,CONCENTRATION INFECTIOUS A,concentration infectious agent,Laboratory,ONLINE,19/09/2016,concentration,infectious,,
+4364,GABAPENTIN 300MG CAP; GABAPENTIN 300 MG CAP,gabapentin 300_mg capsule gabapentin 300_mg capsule,Pharmacy,ONLINE,24/08/2016,capillary,300_mg,gabapentin,
+31,HB IV INFUSION PUMP,intravenous infusion pump,Capital Equipment,RETROSPECTIVE,12/07/2016,pump,intravenous,infusion,
+4101,LIDOCAINE VISCOUS 2% SOLN,lidocaine viscous 2% solution,Pharmacy,RETROSPECTIVE,13/07/2016,2%,viscous,lidocaine,soln
+5596,LEAD PACE NOVUS CAPSUREFIX 5076 52CM,lead pace novus capsurefix 5076 52cm,Implant,ONLINE,16/09/2016,lead,,,
+758,HB GLUCOSE POC FDA APPV M,glucose point_of_care food_and_drug_administration approved m,Monitoring,RETROSPECTIVE,12/07/2016,FDA,appv,POC,glucose
+1758,MIDAZOLAM 2MG/2ML VIAL,midazolam 2_mg/2_ml vial,Pharmacy,RETROSPECTIVE,12/07/2016,vial,midazolam,2_mg/2_ml,
+4111,MAGNES SULF. 500 MG-1G/D5W 100M,magnesium sulfate 500_mg 1_gm/dextrose_5%_in_water 100m,Pharmacy,RETROSPECTIVE,13/07/2016,magnesium,500_mg,sulfate,
+4001,HB PROPOFOL 10MG/ML IV BOLUS EMUL,propofol 10_mg/ml intravenous bolus emulsion,Pharmacy,RETROSPECTIVE,13/07/2016,propofol,emul,iv,
+5314,HC INHALATION TX HHN MDI IPPB 2 - 5 VISITS PER DAY,inhalation treatment hhn metered_dose_inhaler intermittent_positive_pressure_breathing 2 5 visits per day,Respiratory Therapy,ONLINE,16/09/2016,day,inhalation,per,tx
+2662,POST OP PER MINUTE,post operative per minute,OR / Anesthesia / Recovery Room,RETROSPECTIVE,12/07/2016,post,op,minute,
+3134,PT THERAPEUTIC ACTIV PAT EA 15M,physical_therapy therapeutic activities patient each 15_minutes,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,physical_therapy,therapeutic,,
+1644,LAB-BLD GLUC BY DEVICE,laboratory blood glucose by device,Monitoring,RETROSPECTIVE,12/07/2016,device,laboratory,bay,blood
+5221,HC AMMONIA,ammonia,Laboratory,ONLINE,16/09/2016,ammonia,,,
+3272,HB COMPREHENSIVE EMERGENCY ROOM VISIT,comprehensive emergency_room visit,Other,RETROSPECTIVE,13/07/2016,comprehensive,visit,room,emergency
+1641,HEMOGLOBIN/CRIT BG,hemoglobin/critical blood_gas,Monitoring,RETROSPECTIVE,12/07/2016,hemoglobin,critical,blood_gas,
+498,SILDENAFIL LIQ 4MG,sildenafil liquid 4_mg,Plan Benefit,RETROSPECTIVE,12/07/2016,sildenafil,liquid,4_mg,
+2285,IP-WOUND CARE VISIT,inpatient wound care visit,Nursing Services,RETROSPECTIVE,12/07/2016,inpatient,wound,visit,care
+2815,86401004 - WALKING MOVING AROUND,walking moving around,PT / OT / Speech Therapy,RETROSPECTIVE,13/07/2016,walking,moving,around,
+1088,HC ROOM CHRG INTERMEDIAT,room charge intermediate,Room and Board,RETROSPECTIVE,12/07/2016,charge,intermediate,room,
+4149,MYCOPHENOLATE 500 MG INJ,mycophenolate 500_mg injection,Pharmacy,RETROSPECTIVE,13/07/2016,mycophenolate,injection,500_mg,
+4125,METOPROLOL 25MG TAB,metoprolol 25_mg tablet,Pharmacy,RETROSPECTIVE,13/07/2016,metoprolol,tablet,25_mg,
+2331,HB INHALATION TREATMENT-MU,inhalation treatment mu,Respiratory Therapy,RETROSPECTIVE,12/07/2016,mu,inhalation,treatment,
+316,SODIUM CHLORIDE 0.9% SOL 100ML,sodium chloride 0.9% solution 100_ml,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,100_ml,chloride,solution,sodium
+1703,PHENYTOIN TOTAL,phenytoin total,Laboratory,RETROSPECTIVE,12/07/2016,phenytoin,total,,
+3992,HB MIDAZOLAM HCL 2 MG/2ML IJ SOLN,midazolam hydrochloride 2_mg/2_ml injection solution,Pharmacy,RETROSPECTIVE,13/07/2016,ij,soln,midazolam,hydrochloride
+1322,DRESSING FOAM HYDRCELL 5AL,dressing foam hydrcell 5al,Supply,RETROSPECTIVE,12/07/2016,hydrcell,foam,5al,dressing
+904,BACLOFEN 10MG TABLET; BACLOFEN 10 MG TAB,baclofen 10_mg tablet baclofen 10_mg tablet,Pharmacy,RETROSPECTIVE,12/07/2016,baclofen,tablet,10_mg,
+287,SODIUM CHLORIDE 0.9 % SOLP,sodium chloride 0.9% solution,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,0.90%,chloride,solution,sodium
+237,NS 50ML IV BAG,normal_saline 50_ml intravenous bag,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,50_ml,bag,intravenous,NS
+1625,GLUCOSE BLOOD BEDSIDE TESTING,glucose blood bedside testing,Monitoring,RETROSPECTIVE,12/07/2016,bedside,testing,blood,glucose
+6089,TROPHAMINE SOLP 500 ML BAG,trophamine solution 500_ml bag,Pharmacy,ONLINE,16/09/2016,trophamine,bag,solution,500_ml
+2898,CALC CARB 500MG CHW,calcium carbonate 500_mg chew,Pharmacy,RETROSPECTIVE,13/07/2016,carb,chew,calc,500_mg
+3321,HB PHARMACY ANESTHESIA (15 MIN UNITS),pharmacy anesthesia 15 minute units,OR / Anesthesia / Recovery Room,RETROSPECTIVE,13/07/2016,min,anesthesia,pharmacy,
+4813,C-REACTIVE PROTEI,c reactive protein,Laboratory,ONLINE,16/09/2016,reactive,protei,,
+99,DEXTROSE 5% (D5W) SOLP,dextrose 5% dextrose_5%_in_water solution,Diluent / Flush / Irrigant,RETROSPECTIVE,12/07/2016,5%,dextrose,D5W,solution
+4112,MAGNESIUM  SERUM,magnesium serum,Laboratory,RETROSPECTIVE,13/07/2016,magnesium,serum,,
+3995,HB OR PROCEDURE RM FIRST 15 MIN,operation_room procedure room first 15_minutes,OR / Anesthesia / Recovery Room,RETROSPECTIVE,13/07/2016,min,or,procedure,rm
+1411,ISOLATION SUPPLIES,isolation supplies,Supply,RETROSPECTIVE,12/07/2016,isolation,supplies,,
+1270,VENIPUNCTURE BLOOD COLLECT,venipuncture blood collection,Nursing Services,RETROSPECTIVE,12/07/2016,venipuncture,blood,collection,
+5972,SODIUM CHLORIDE 3 % NEBU,sodium_chloride 3% nebulizer,Supply,ONLINE,16/09/2016,chloride,nebu,3%,sodium

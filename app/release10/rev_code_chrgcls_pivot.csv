@@ -1,0 +1,253 @@
+rev_code,Dominant CC1,Dominant CC2,# of descriptions,% Dominance1,% Dominance2
+100.0,Laboratory,,1.0,100.0,0.0
+101.0,Laboratory,,4.0,100.0,0.0
+110.0,Room and Board,,10.0,100.0,0.0
+111.0,Room and Board,Supply,7.0,85.7142857143,14.2857142857
+112.0,Room and Board,,1.0,100.0,0.0
+113.0,Room and Board,,8.0,100.0,0.0
+114.0,Room and Board,,1.0,100.0,0.0
+120.0,Room and Board,PT / OT / Speech Therapy,7.0,85.7142857143,14.2857142857
+121.0,Room and Board,Capital Equipment,11.0,90.9090909091,9.09090909091
+122.0,Room and Board,,3.0,100.0,0.0
+123.0,Room and Board,Monitoring,9.0,88.8888888889,11.1111111111
+124.0,Room and Board,,1.0,100.0,0.0
+128.0,Room and Board,,1.0,100.0,0.0
+129.0,Monitoring,,1.0,100.0,0.0
+130.0,PT / OT / Speech Therapy,,1.0,100.0,0.0
+131.0,Room and Board,,1.0,100.0,0.0
+151.0,Room and Board,,1.0,100.0,0.0
+160.0,Room and Board,,2.0,100.0,0.0
+163.0,Laboratory,Supply,6.0,83.3333333333,16.6666666667
+164.0,Room and Board,,1.0,100.0,0.0
+169.0,Pharmacy,,2.0,100.0,0.0
+170.0,Room and Board,,2.0,100.0,0.0
+171.0,Room and Board,,4.0,100.0,0.0
+172.0,Room and Board,,9.0,100.0,0.0
+173.0,Room and Board,,21.0,100.0,0.0
+174.0,Room and Board,,22.0,100.0,0.0
+200.0,Room and Board,Laboratory,18.0,83.3333333333,11.1111111111
+201.0,Room and Board,Laboratory,8.0,87.5,12.5
+202.0,Room and Board,Supply,8.0,87.5,12.5
+203.0,Room and Board,,26.0,100.0,0.0
+205.0,Laboratory,,2.0,100.0,0.0
+206.0,Room and Board,Monitoring,25.0,92.0,8.0
+208.0,Room and Board,,2.0,100.0,0.0
+209.0,Room and Board,,1.0,100.0,0.0
+210.0,Room and Board,Supply,11.0,90.9090909091,9.09090909091
+214.0,Room and Board,Monitoring,6.0,83.3333333333,16.6666666667
+230.0,Pharmacy,Monitoring,8.0,75.0,25.0
+231.0,Monitoring,,1.0,100.0,0.0
+233.0,Monitoring,,1.0,100.0,0.0
+234.0,Monitoring,Radiology,2.0,50.0,50.0
+250.0,Pharmacy,Diluent / Flush / Irrigant,2692.0,76.0401188707,12.7043090639
+251.0,Pharmacy,Diluent / Flush / Irrigant,403.0,90.570719603,5.70719602978
+252.0,Pharmacy,Supply,182.0,85.1648351648,5.49450549451
+253.0,Pharmacy,,4.0,100.0,0.0
+254.0,Pharmacy,OR / Anesthesia / Recovery Room,4.0,75.0,25.0
+255.0,Pharmacy,Diluent / Flush / Irrigant,19.0,89.4736842105,5.26315789474
+256.0,Pharmacy,Diluent / Flush / Irrigant,7.0,57.1428571429,42.8571428571
+257.0,Pharmacy,Plan Benefit,15.0,86.6666666667,13.3333333333
+258.0,Diluent / Flush / Irrigant,Pharmacy,392.0,55.612244898,39.7959183673
+259.0,Pharmacy,Diluent / Flush / Irrigant,349.0,83.6676217765,8.88252148997
+260.0,Pharmacy,Nursing Services,96.0,67.7083333333,19.7916666667
+264.0,Diluent / Flush / Irrigant,,1.0,100.0,0.0
+268.0,Pharmacy,,2.0,100.0,0.0
+270.0,Supply,Respiratory Therapy,1919.0,86.294945284,2.55341323606
+271.0,Supply,Respiratory Therapy,132.0,65.1515151515,18.9393939394
+272.0,Supply,Diluent / Flush / Irrigant,833.0,84.393757503,3.36134453782
+274.0,Supply,Diluent / Flush / Irrigant,24.0,87.5,8.33333333333
+275.0,Laboratory,,1.0,100.0,0.0
+278.0,Implant,Supply,148.0,50.0,43.9189189189
+279.0,Supply,Capital Equipment,9.0,44.4444444444,11.1111111111
+280.0,Pharmacy,,2.0,100.0,0.0
+288.0,Pharmacy,,1.0,100.0,0.0
+290.0,Pharmacy,,3.0,100.0,0.0
+298.0,Pharmacy,,1.0,100.0,0.0
+300.0,Laboratory,Monitoring,1097.0,79.1248860529,9.93618960802
+301.0,Laboratory,Monitoring,924.0,79.2207792208,13.961038961
+302.0,Laboratory,Blood Products,180.0,96.1111111111,1.66666666667
+303.0,Laboratory,,7.0,100.0,0.0
+304.0,Laboratory,,1.0,100.0,0.0
+305.0,Laboratory,Monitoring,271.0,92.6199261993,4.79704797048
+306.0,Laboratory,Monitoring,290.0,96.8965517241,1.03448275862
+307.0,Laboratory,Monitoring,39.0,94.8717948718,5.12820512821
+308.0,Laboratory,,18.0,100.0,0.0
+309.0,Laboratory,Nursing Services,55.0,81.8181818182,9.09090909091
+310.0,Laboratory,Professional Fee,70.0,87.1428571429,4.28571428571
+311.0,Laboratory,Radiology,10.0,90.0,10.0
+312.0,Laboratory,Blood Products,45.0,95.5555555556,2.22222222222
+316.0,Laboratory,,3.0,100.0,0.0
+319.0,Laboratory,,1.0,100.0,0.0
+320.0,Radiology,Laboratory,111.0,75.6756756757,6.30630630631
+321.0,Radiology,,5.0,100.0,0.0
+323.0,Radiology,Diluent / Flush / Irrigant,3.0,66.6666666667,33.3333333333
+324.0,Radiology,OR / Anesthesia / Recovery Room,32.0,81.25,6.25
+325.0,Cardiology,,1.0,100.0,0.0
+329.0,Radiology,,1.0,100.0,0.0
+330.0,Blood Products,Laboratory,2.0,50.0,50.0
+331.0,Pharmacy,Laboratory,18.0,94.4444444444,5.55555555556
+335.0,Laboratory,,2.0,100.0,0.0
+341.0,Radiology,Laboratory,3.0,66.6666666667,33.3333333333
+342.0,Monitoring,,1.0,100.0,0.0
+343.0,Laboratory,PT / OT / Speech Therapy,2.0,50.0,50.0
+350.0,Pharmacy,Radiology,40.0,45.0,45.0
+351.0,Radiology,,12.0,100.0,0.0
+352.0,Radiology,Pharmacy,20.0,90.0,10.0
+359.0,Pharmacy,,2.0,100.0,0.0
+360.0,OR / Anesthesia / Recovery Room,Procedure,116.0,58.6206896552,12.9310344828
+361.0,Procedure,Radiology,47.0,51.0638297872,21.2765957447
+362.0,Radiology,,1.0,100.0,0.0
+363.0,Diluent / Flush / Irrigant,,1.0,100.0,0.0
+369.0,Nursing Services,,1.0,100.0,0.0
+370.0,OR / Anesthesia / Recovery Room,Respiratory Therapy,72.0,66.6666666667,6.94444444444
+372.0,OR / Anesthesia / Recovery Room,Supply,2.0,50.0,50.0
+380.0,Laboratory,Blood Products,6.0,66.6666666667,33.3333333333
+381.0,Blood Products,,1.0,100.0,0.0
+385.0,Laboratory,,2.0,100.0,0.0
+390.0,Blood Products,Laboratory,94.0,60.6382978723,21.2765957447
+391.0,Nursing Services,Blood Products,19.0,78.9473684211,10.5263157895
+399.0,Blood Products,,1.0,100.0,0.0
+400.0,Monitoring,PT / OT / Speech Therapy,3.0,33.3333333333,33.3333333333
+401.0,Laboratory,Respiratory Therapy,2.0,50.0,50.0
+402.0,Radiology,Laboratory,64.0,54.6875,32.8125
+405.0,Respiratory Therapy,,1.0,100.0,0.0
+406.0,Laboratory,,1.0,100.0,0.0
+409.0,Radiology,,1.0,100.0,0.0
+410.0,Respiratory Therapy,Monitoring,279.0,64.1577060932,10.0358422939
+411.0,Laboratory,,2.0,100.0,0.0
+412.0,Respiratory Therapy,Monitoring,30.0,66.6666666667,10.0
+413.0,Respiratory Therapy,,1.0,100.0,0.0
+418.0,Respiratory Therapy,,1.0,100.0,0.0
+419.0,Monitoring,Respiratory Therapy,2.0,50.0,50.0
+420.0,PT / OT / Speech Therapy,Laboratory,97.0,83.5051546392,4.12371134021
+421.0,PT / OT / Speech Therapy,Laboratory,21.0,85.7142857143,9.52380952381
+424.0,PT / OT / Speech Therapy,Laboratory,30.0,83.3333333333,13.3333333333
+425.0,Laboratory,,1.0,100.0,0.0
+427.0,Laboratory,,4.0,100.0,0.0
+429.0,PT / OT / Speech Therapy,,5.0,100.0,0.0
+430.0,PT / OT / Speech Therapy,Pharmacy,86.0,87.2093023256,10.4651162791
+431.0,PT / OT / Speech Therapy,,7.0,100.0,0.0
+433.0,Cardiology,PT / OT / Speech Therapy,2.0,50.0,50.0
+434.0,PT / OT / Speech Therapy,,27.0,100.0,0.0
+436.0,Laboratory,,1.0,100.0,0.0
+437.0,PT / OT / Speech Therapy,,1.0,100.0,0.0
+439.0,PT / OT / Speech Therapy,,4.0,100.0,0.0
+440.0,PT / OT / Speech Therapy,Radiology,36.0,86.1111111111,8.33333333333
+441.0,PT / OT / Speech Therapy,,2.0,100.0,0.0
+444.0,PT / OT / Speech Therapy,Radiology,12.0,83.3333333333,16.6666666667
+450.0,Nursing Services,Other,67.0,40.2985074627,20.8955223881
+451.0,Other,Pharmacy,2.0,50.0,50.0
+452.0,Other,,1.0,100.0,0.0
+453.0,Pharmacy,,1.0,100.0,0.0
+456.0,Laboratory,,6.0,100.0,0.0
+458.0,Laboratory,,1.0,100.0,0.0
+460.0,Monitoring,Respiratory Therapy,103.0,66.9902912621,20.3883495146
+461.0,Pharmacy,,1.0,100.0,0.0
+463.0,Radiology,,1.0,100.0,0.0
+469.0,Respiratory Therapy,,1.0,100.0,0.0
+470.0,Procedure,PT / OT / Speech Therapy,7.0,57.1428571429,28.5714285714
+471.0,PT / OT / Speech Therapy,Procedure,8.0,62.5,25.0
+472.0,Laboratory,,2.0,100.0,0.0
+480.0,Cardiology,Professional Fee,47.0,57.4468085106,12.7659574468
+481.0,Cardiology,Radiology,13.0,61.5384615385,23.0769230769
+483.0,Cardiology,Radiology,24.0,66.6666666667,20.8333333333
+489.0,Respiratory Therapy,,2.0,100.0,0.0
+490.0,Procedure,OR / Anesthesia / Recovery Room,3.0,66.6666666667,33.3333333333
+500.0,Laboratory,,1.0,100.0,0.0
+501.0,Blood Products,Laboratory,2.0,50.0,50.0
+503.0,Laboratory,,1.0,100.0,0.0
+504.0,Laboratory,,7.0,100.0,0.0
+505.0,Laboratory,,1.0,100.0,0.0
+510.0,Nursing Services,Education / Training,5.0,40.0,20.0
+515.0,Laboratory,,2.0,100.0,0.0
+536.0,Pharmacy,Diluent / Flush / Irrigant,10.0,90.0,10.0
+537.0,Pharmacy,,2.0,100.0,0.0
+540.0,Other,,1.0,100.0,0.0
+542.0,Other,,1.0,100.0,0.0
+546.0,Other,,3.0,100.0,0.0
+550.0,Laboratory,Pharmacy,4.0,75.0,25.0
+551.0,Radiology,,1.0,100.0,0.0
+560.0,OR / Anesthesia / Recovery Room,,1.0,100.0,0.0
+586.0,Pharmacy,,1.0,100.0,0.0
+610.0,Radiology,Pharmacy,26.0,61.5384615385,19.2307692308
+611.0,Radiology,Professional Fee,12.0,83.3333333333,16.6666666667
+612.0,Radiology,,11.0,100.0,0.0
+615.0,Radiology,,1.0,100.0,0.0
+621.0,Supply,,10.0,100.0,0.0
+622.0,Supply,,1.0,100.0,0.0
+623.0,Supply,,4.0,100.0,0.0
+630.0,Pharmacy,,1.0,100.0,0.0
+631.0,Pharmacy,,2.0,100.0,0.0
+635.0,Diluent / Flush / Irrigant,Pharmacy,6.0,50.0,50.0
+636.0,Pharmacy,Diluent / Flush / Irrigant,781.0,77.8489116517,17.4135723431
+637.0,Pharmacy,Plan Benefit,328.0,92.0731707317,3.0487804878
+638.0,Pharmacy,Diluent / Flush / Irrigant,21.0,80.9523809524,19.0476190476
+655.0,Laboratory,,13.0,100.0,0.0
+686.0,Diluent / Flush / Irrigant,Pharmacy,2.0,50.0,50.0
+699.0,Supply,,1.0,100.0,0.0
+710.0,OR / Anesthesia / Recovery Room,Monitoring,30.0,66.6666666667,10.0
+712.0,Pharmacy,Diluent / Flush / Irrigant,5.0,60.0,20.0
+718.0,Diluent / Flush / Irrigant,,1.0,100.0,0.0
+720.0,Monitoring,,2.0,100.0,0.0
+721.0,Monitoring,Nursing Services,3.0,33.3333333333,33.3333333333
+722.0,Monitoring,,1.0,100.0,0.0
+728.0,Radiology,,2.0,100.0,0.0
+730.0,Pharmacy,Cardiology,42.0,45.2380952381,42.8571428571
+731.0,Cardiology,Monitoring,5.0,80.0,20.0
+732.0,Monitoring,Education / Training,4.0,75.0,25.0
+733.0,Cardiology,,1.0,100.0,0.0
+734.0,Radiology,Respiratory Therapy,2.0,50.0,50.0
+736.0,Laboratory,Nursing Services,27.0,96.2962962963,3.7037037037
+740.0,Procedure,Cardiology,9.0,44.4444444444,22.2222222222
+741.0,Procedure,,1.0,100.0,0.0
+744.0,Cardiology,,1.0,100.0,0.0
+750.0,Radiology,Cardiology,6.0,33.3333333333,16.6666666667
+751.0,Procedure,,1.0,100.0,0.0
+754.0,Respiratory Therapy,Nursing Services,3.0,66.6666666667,33.3333333333
+758.0,Laboratory,,2.0,100.0,0.0
+761.0,Nursing Services,Procedure,34.0,38.2352941176,17.6470588235
+762.0,PT / OT / Speech Therapy,Room and Board,4.0,50.0,50.0
+766.0,PT / OT / Speech Therapy,,3.0,100.0,0.0
+771.0,Nursing Services,Pharmacy,3.0,66.6666666667,33.3333333333
+780.0,PT / OT / Speech Therapy,Room and Board,2.0,50.0,50.0
+791.0,Laboratory,,2.0,100.0,0.0
+800.0,Pharmacy,Diluent / Flush / Irrigant,9.0,55.5555555556,22.2222222222
+801.0,Dialysis,Laboratory,13.0,53.8461538462,38.4615384615
+802.0,Dialysis,Procedure,5.0,80.0,20.0
+803.0,Procedure,,1.0,100.0,0.0
+805.0,Laboratory,,1.0,100.0,0.0
+809.0,Dialysis,Procedure,3.0,66.6666666667,33.3333333333
+811.0,Cardiology,,1.0,100.0,0.0
+812.0,Implant,,1.0,100.0,0.0
+819.0,Laboratory,Pharmacy,32.0,46.875,37.5
+824.0,Radiology,,1.0,100.0,0.0
+830.0,Procedure,,1.0,100.0,0.0
+836.0,Pharmacy,Diluent / Flush / Irrigant,13.0,84.6153846154,15.3846153846
+837.0,Pharmacy,,5.0,100.0,0.0
+838.0,Pharmacy,Diluent / Flush / Irrigant,4.0,75.0,25.0
+840.0,PT / OT / Speech Therapy,,2.0,100.0,0.0
+880.0,Procedure,,1.0,100.0,0.0
+881.0,Dialysis,,1.0,100.0,0.0
+888.0,Supply,,1.0,100.0,0.0
+899.0,Supply,Laboratory,5.0,40.0,20.0
+920.0,Nursing Services,Procedure,40.0,30.0,25.0
+921.0,Radiology,Nursing Services,19.0,84.2105263158,10.5263157895
+922.0,Procedure,,2.0,100.0,0.0
+929.0,Nursing Services,,1.0,100.0,0.0
+940.0,Nursing Services,Supply,19.0,42.1052631579,15.7894736842
+942.0,Monitoring,Education / Training,5.0,60.0,20.0
+943.0,Cardiology,Professional Fee,3.0,66.6666666667,33.3333333333
+946.0,Capital Equipment,,3.0,100.0,0.0
+947.0,Capital Equipment,,5.0,100.0,0.0
+960.0,Radiology,,3.0,100.0,0.0
+972.0,Radiology,,2.0,100.0,0.0
+976.0,Respiratory Therapy,,1.0,100.0,0.0
+981.0,Cardiology,Professional Fee,3.0,33.3333333333,33.3333333333
+985.0,Professional Fee,Cardiology,3.0,66.6666666667,33.3333333333
+986.0,Cardiology,,1.0,100.0,0.0
+987.0,Professional Fee,,5.0,100.0,0.0
+990.0,Monitoring,Supply,6.0,33.3333333333,33.3333333333
+993.0,Plan Benefit,,1.0,100.0,0.0
+994.0,Plan Benefit,,1.0,100.0,0.0
+998.0,Pharmacy,Capital Equipment,7.0,85.7142857143,14.2857142857
+999.0,Pharmacy,Monitoring,50.0,66.0,12.0

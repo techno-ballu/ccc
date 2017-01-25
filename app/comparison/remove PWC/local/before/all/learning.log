@@ -1,0 +1,1093 @@
+11/11/2016 12:13:48 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Data preprocessor initialized.
+11/11/2016 12:13:48 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Upsampling(if needed) done.
+11/11/2016 12:13:48 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : training size = 4503
+11/11/2016 12:13:48 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : testing size = 498
+11/11/2016 12:13:48 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : training targets min value_counts = 9
+11/11/2016 12:13:48 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : testing targets min value_counts = 1
+11/11/2016 12:13:48 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Normalizer intialized.
+11/11/2016 12:13:48 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : After init
+11/11/2016 12:13:48 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : training norm
+11/11/2016 12:13:48 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : testting norm
+11/11/2016 12:13:48 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Basic cleaninng done. 
+11/11/2016 12:13:48 PM INFO : loading Word2Vec object from ../word2vec/wikimodel_v3_tri_10
+11/11/2016 12:13:54 PM INFO : loading syn0 from ../word2vec/wikimodel_v3_tri_10.syn0.npy with mmap=None
+11/11/2016 12:13:58 PM INFO : setting ignored attribute syn0norm to None
+11/11/2016 12:13:58 PM INFO : setting ignored attribute cum_table to None
+11/11/2016 12:13:58 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : FeatureMapper instantiated
+11/11/2016 12:13:58 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/feature_mapper.pyc : In trainVectorizer() method.
+11/11/2016 12:13:58 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/feature_mapper.pyc : bow max length : 3524
+11/11/2016 12:13:58 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/feature_mapper.pyc : vocabulary length: 3524
+11/11/2016 12:13:58 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/feature_mapper.pyc : In freshExtractWord2VecFeatures() method.
+11/11/2016 12:15:08 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/feature_mapper.pyc : In freshExtractWord2VecFeatures() method.
+11/11/2016 12:15:16 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Training set shape.(4503, 3676)
+11/11/2016 12:15:16 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : test set shape.(498, 3676)
+11/11/2016 12:15:16 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Feature extraction done.
+11/11/2016 12:15:16 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/feature_mapper.pyc : In removeZeroVariance() method.
+11/11/2016 12:15:59 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/feature_mapper.pyc : # Dropped by Zero Variance = 2814
+11/11/2016 12:18:08 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/feature_mapper.pyc : # Dropped by Pair Wise Correlation = 3
+11/11/2016 12:18:10 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Training set shape after remove zero variance.(4503, 856)
+11/11/2016 12:18:10 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : test set shape  after remove zero variance.(498, 856)
+11/11/2016 12:18:11 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : LearningEngine instantiated.
+11/11/2016 12:18:11 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : training classifier : Jaro
+11/11/2016 12:18:11 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : fit Jaro Wrinkler Classifier...
+11/11/2016 12:18:11 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : predict JaroWrinklerClassifier
+11/11/2016 12:18:11 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : __computeJaros__
+11/11/2016 12:18:11 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 0 => SMEAR  PRIM SOUR W/INTERP(G = Laboratory
+11/11/2016 12:18:11 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 1 => INJ IVP. INITIAL DRUGS/SUB = Nursing Services
+11/11/2016 12:18:11 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 2 => 86851000 - OT RE-EVALUATION (OT) = PT / OT / Speech Therapy
+11/11/2016 12:18:11 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 3 => GI LAB LEV 2 1ST 15 = Radiology
+11/11/2016 12:18:11 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 4 => FUROSEMIDE PER 20 MG = Pharmacy
+11/11/2016 12:18:11 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 5 => HEPARIN 10 UNITS/ML SOLN 3 = Diluent / Flush / Irrigant
+11/11/2016 12:18:11 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 6 => BLOOD BAS (POINT OF CARE) = Monitoring
+11/11/2016 12:18:11 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 7 => TPN - (PATIENTS < 5 KG) = Pharmacy
+11/11/2016 12:18:12 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 8 => AMIODARONE 50 MG/ML SOLN 18 ML VIAL = Pharmacy
+11/11/2016 12:18:12 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 9 => CREATININE  URINE OR FLD = Laboratory
+11/11/2016 12:18:12 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 10 => METHADONE 10 MG/ML ORAL = Pharmacy
+11/11/2016 12:18:12 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 11 => INS BLADDER CATH NON INDWELL = Nursing Services
+11/11/2016 12:18:12 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 12 => DISP: 0.420 ML; 4 MG/ML; USED NDC QTY: 4.000 PCK OF 30.000 ML VIAL DEXAMETHASONE 1 MG INJECTION DEXAMETHASONE 4 MG/ML INJECTION SOLUTION = Pharmacy
+11/11/2016 12:18:12 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 13 => KCL 20MEQ/100ML PREMIX; KCL IV PREMIX 20 MEQ/100 ML BAG 0. = Pharmacy
+11/11/2016 12:18:12 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 14 => 12465212 - ETOMIDATE 2MG/ML 10ML = Pharmacy
+11/11/2016 12:18:13 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 15 => SODIUM CHLORIDE 4 MEQ/ML SOLN 30 ML VIAL = Pharmacy
+11/11/2016 12:18:13 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 16 => EQ MATTRESS LOW AIR LOSS EN = Capital Equipment
+11/11/2016 12:18:13 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 17 => CEFEPIME PEDIATRIC 100 MG/ML SOLR = Pharmacy
+11/11/2016 12:18:13 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 18 => 77073927 - DRESSING MEPILEX 6X6 = Supply
+11/11/2016 12:18:13 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 19 => MR STAPH DNA AMP PROBE = Laboratory
+11/11/2016 12:18:13 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 20 => OXYCODONE 5 MG TAB = Pharmacy
+11/11/2016 12:18:13 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 21 => NICOTINE 21 MG/24 HR PATCH = Plan Benefit
+11/11/2016 12:18:13 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 22 => C-BOOT/HEEL PROTECTOR = Supply
+11/11/2016 12:18:13 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 23 => OMEPRAZOLE 20 MG CPDR = Pharmacy
+11/11/2016 12:18:14 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 24 => UNDERPAD  SMALL CHUX = Supply
+11/11/2016 12:18:14 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 25 => POTASSIUM CHLORIDE SR 20MEQ TA = Pharmacy
+11/11/2016 12:18:14 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 26 => PHENYLEPHRINE 10 MG/ML SOLN = Pharmacy
+11/11/2016 12:18:14 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 27 => HC CALCIUM IONIZED = Laboratory
+11/11/2016 12:18:14 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 28 => SM VOL NEBULIZER TX SUBSEQUENT = Respiratory Therapy
+11/11/2016 12:18:14 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 29 => GLUCOSE-BLD BY MONITOR DEVICE = Monitoring
+11/11/2016 12:18:14 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 30 => PENCIL CAUT HND ROCK PTFE 10FT = Supply
+11/11/2016 12:18:14 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 31 => 14351002 - PEPPERMINT OIL 30ML = Pharmacy
+11/11/2016 12:18:14 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 32 => PTT ACTIVA - STAT = Laboratory
+11/11/2016 12:18:15 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 33 => HC GLYCOSYLATED HEMOGLOBIN = Laboratory
+11/11/2016 12:18:15 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 34 => O2 DAILY = Respiratory Therapy
+11/11/2016 12:18:15 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 35 => CHLOROTHIAZIDE 28 MG/ML SO = Pharmacy
+11/11/2016 12:18:15 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 36 => HC SMEAR GRAM STAIN = Laboratory
+11/11/2016 12:18:15 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 37 => GAIT TRAINING 15 MIN PT = PT / OT / Speech Therapy
+11/11/2016 12:18:15 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 38 => VITAL CAPACITY (FC) = Respiratory Therapy
+11/11/2016 12:18:15 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 39 => PATIENT EDUC EA 15 MINUTES = Education / Training
+11/11/2016 12:18:15 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 40 => ABDOMEN  KUB = Radiology
+11/11/2016 12:18:15 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 41 => OSTOMY POUCH POST OP 20929DISP = Supply
+11/11/2016 12:18:16 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 42 => HC IV INF THER ADD SEQ 1ST HR = Nursing Services
+11/11/2016 12:18:16 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 43 => MAGNES SULF 500MGINJ = Pharmacy
+11/11/2016 12:18:16 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 44 => HB GLUCOSE BY MONITORING D = Monitoring
+11/11/2016 12:18:16 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 45 => HYDROMORPHONE PF 2 MG/ML SOLN = Pharmacy
+11/11/2016 12:18:16 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 46 => NS FLUSH 0.9% SOLN = Diluent / Flush / Irrigant
+11/11/2016 12:18:16 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 47 => DEXTROSE 5% IN WATER 100ML = Diluent / Flush / Irrigant
+11/11/2016 12:18:16 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 48 => HB VENIPUNCTURE = Nursing Services
+11/11/2016 12:18:16 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 49 => HC INS PERIP CV CATH PICC > 5YR WO = Procedure
+11/11/2016 12:18:16 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 50 => STOPCOCK 3WAY = Supply
+11/11/2016 12:18:16 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 51 => HC AMYLASE NON BLOOD = Laboratory
+11/11/2016 12:18:17 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 52 => TTE WITH DOPPLER &AND COLOR FLOW IRP = Radiology
+11/11/2016 12:18:17 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 53 => LABETALOL 5 MG/ML INJ 4 ML = Pharmacy
+11/11/2016 12:18:17 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 54 => METHYLPREDNISOLONE (SOLUME = Pharmacy
+11/11/2016 12:18:17 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 55 => ZZTPN (BABY) TOTAL VOLUME = Pharmacy
+11/11/2016 12:18:17 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 56 => BENZO/MENT 15-3.6L0Z = Pharmacy
+11/11/2016 12:18:17 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 57 => STERILE WATER SOLN 1 000 ML FLEX CONT = Diluent / Flush / Irrigant
+11/11/2016 12:18:17 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 58 => ICU INTERMEDIATE = Room and Board
+11/11/2016 12:18:17 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 59 => TC OXYGEN/HOUR = Respiratory Therapy
+11/11/2016 12:18:17 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 60 => WIRE J 3MMX180CM 49-120 = Supply
+11/11/2016 12:18:18 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 61 => ANES ANALYSIS BLOOD GAS (F = Laboratory
+11/11/2016 12:18:18 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 62 => CMV QUANTITATIVE PCR = Laboratory
+11/11/2016 12:18:18 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 63 => HC RADIAL ARTERY KIT = Supply
+11/11/2016 12:18:18 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 64 => LACTIC ACID (WBLA) = Laboratory
+11/11/2016 12:18:18 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 65 => SOD CHLOR 0.9% = Diluent / Flush / Irrigant
+11/11/2016 12:18:18 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 66 => DRONABINOL 2.5 MG CAPS 68084-174-01 = Pharmacy
+11/11/2016 12:18:18 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 67 => PIN TRACTION 71065504 = Supply
+11/11/2016 12:18:18 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 68 => STAPLE GUN SKN REG = Supply
+11/11/2016 12:18:18 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 69 => PACK PERINEAL COLD = Supply
+11/11/2016 12:18:19 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 70 => NA CL 0.9% FLUSH 5ML = Diluent / Flush / Irrigant
+11/11/2016 12:18:19 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 71 => AIRWY BRMN 90MM BA1290 = Supply
+11/11/2016 12:18:19 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 72 => 11482052 - BUMETANIDE 1 MG = Pharmacy
+11/11/2016 12:18:19 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 73 => GLUCOSE FINGERSTICK = Monitoring
+11/11/2016 12:18:19 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 74 => PROTHROMBIN TIME W/INR = Laboratory
+11/11/2016 12:18:19 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 75 => 77032076 - KIT NEURO BASIN = Supply
+11/11/2016 12:18:19 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 76 => PF-CNSLT SURGERY W/ FRZN SECT = Professional Fee
+11/11/2016 12:18:19 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 77 => GENERAL SUTURE (0 TO 5-0 SUT = Supply
+11/11/2016 12:18:19 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 78 => STAY SHARP 5MM LONESTAR RETRAC = Supply
+11/11/2016 12:18:20 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 79 => HB POTASSIUM BLOOD = Laboratory
+11/11/2016 12:18:20 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 80 => RCH LAB-WHOLE BLOOD IONIZED CA = Laboratory
+11/11/2016 12:18:20 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 81 => ANESTHESIA LEVEL 3 = OR / Anesthesia / Recovery Room
+11/11/2016 12:18:20 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 82 => 11544012 - CALCIUM ACETATE TABLET 667MG = Pharmacy
+11/11/2016 12:18:20 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 83 => 64878000 - CONCENTRATION FOR INFECT AGENT = Laboratory
+11/11/2016 12:18:20 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 84 => HCHRG ROOM AND BOARD INTENSIVE = Room and Board
+11/11/2016 12:18:20 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 85 => STETHOSCOPE DISPOSABLE = Supply
+11/11/2016 12:18:20 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 86 => SOLN IV NSS 1000ML 2B1324 = Diluent / Flush / Irrigant
+11/11/2016 12:18:21 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 87 => 62999001 - ABRR (STATISTICAL) = Laboratory
+11/11/2016 12:18:21 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 88 => 64902000 - TISSUE CULTURE INOCULATION = Laboratory
+11/11/2016 12:18:21 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 89 => CEFTRIAXONE 2 GRAM/50 ML PGBK = Pharmacy
+11/11/2016 12:18:21 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 90 => HC PACU CLASS 2 NPR 2:1 = OR / Anesthesia / Recovery Room
+11/11/2016 12:18:21 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 91 => PULSE OXIMETRY/DAY = Monitoring
+11/11/2016 12:18:21 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 92 => BLD# HEMATOCRIT = Laboratory
+11/11/2016 12:18:21 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 93 => OXYGEN HOURLY = Respiratory Therapy
+11/11/2016 12:18:21 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 94 => 62001000 - BLOOD GROUP ABO = Laboratory
+11/11/2016 12:18:21 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 95 => WARFARIN 2 MG TABS = Pharmacy
+11/11/2016 12:18:21 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 96 => EPHEDRINE 50MG = Pharmacy
+11/11/2016 12:18:22 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 97 => SILDENAF CMPDLQ+ = Plan Benefit
+11/11/2016 12:18:22 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 98 => PF-IMMUNOHISTOCHEMISTRY 1ST = Laboratory
+11/11/2016 12:18:22 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 99 => HC THROMBOPLASTIN TIME (APTT) = Laboratory
+11/11/2016 12:18:22 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 100 => FLUCONAZOLE 200-0.9 MG/100ML-% SOLN = Pharmacy
+11/11/2016 12:18:22 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 101 => THERAPEUTIC ACTIVITIES EA 15 MI = PT / OT / Speech Therapy
+11/11/2016 12:18:22 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 102 => CYSTATIN C PLASMA OR SERU = Laboratory
+11/11/2016 12:18:22 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 103 => CULTURE BLOOD = Laboratory
+11/11/2016 12:18:22 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 104 => TX SWAL/ORAL FUNCTION = PT / OT / Speech Therapy
+11/11/2016 12:18:22 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 105 => NITROGLYCERIN 200 MCG/ML 10 ML SYRINGE = Pharmacy
+11/11/2016 12:18:23 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 106 => HEP B SURF ANTB HBSAB = Laboratory
+11/11/2016 12:18:23 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 107 => DIPHENHYDRAMINE 50 MG CAP = Pharmacy
+11/11/2016 12:18:23 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 108 => CULTURE TYPING NUCLEIC ACI = Laboratory
+11/11/2016 12:18:23 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 109 => 13690412 - NATURAL TEARS LUBRICANT 15ML = Supply
+11/11/2016 12:18:23 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 110 => ABO BLOOD TYPING = Laboratory
+11/11/2016 12:18:23 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 111 => DIAZEPAM 5MG INJ = Pharmacy
+11/11/2016 12:18:23 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 112 => VASOPRESSIN IV DRIP 50U = Pharmacy
+11/11/2016 12:18:23 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 113 => SODIUM CHLORIDE 0.9% 0.9 % SOLP = Diluent / Flush / Irrigant
+11/11/2016 12:18:23 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 114 => SODIUM CHLORIDE .9% 1000ML INJ = Diluent / Flush / Irrigant
+11/11/2016 12:18:24 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 115 => T4 FREE = Laboratory
+11/11/2016 12:18:24 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 116 => HC MOD SEDATION > 5 YRS OLD 1ST 30 MINS = OR / Anesthesia / Recovery Room
+11/11/2016 12:18:24 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 117 => PROTEIN TOT XCPT REFRACTOM = Laboratory
+11/11/2016 12:18:24 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 118 => FEEDING SUPPLEMENT (RESOURCE BREEZE) LIQD = Supply
+11/11/2016 12:18:24 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 119 => ACETAMINOPHEN 10 MG/ML SOL = Pharmacy
+11/11/2016 12:18:24 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 120 => HC TSH = Laboratory
+11/11/2016 12:18:24 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 121 => ASSAY OF URINE CREATININE = Laboratory
+11/11/2016 12:18:24 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 122 => CHEST PHYSIO INTER 10-30MI = Respiratory Therapy
+11/11/2016 12:18:24 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 123 => IV PUSH = Diluent / Flush / Irrigant
+11/11/2016 12:18:25 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 124 => DISP: 0.077 EACH; 300 MG; USED NDC QTY: 1.000 PCK OF 100.000 EACH BOTTLE URSODIOL 300 MG CAPSULE = Pharmacy
+11/11/2016 12:18:25 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 125 => 27101001 - XR CHEST SNG VW PORTABLE = Radiology
+11/11/2016 12:18:25 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 126 => HC RED BLOOD CELLS LEUKOCYTES REDUCED EACH UNIT = Blood Products
+11/11/2016 12:18:25 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 127 => TRAY MONITOR ARTERIAL = Supply
+11/11/2016 12:18:25 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 128 => CIDOFOVIR INJ 75MG/1ML 5ML = Pharmacy
+11/11/2016 12:18:25 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 129 => HB CPAP INITIATION / MGMT = Respiratory Therapy
+11/11/2016 12:18:25 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 130 => ABO TYPING = Laboratory
+11/11/2016 12:18:25 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 131 => TRAY DRESSING CHANGE EA = Supply
+11/11/2016 12:18:26 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 132 => HYDROCODONE/APAP 10/325; HYDROCODONE/APAP 10-325MG TABLET = Pharmacy
+11/11/2016 12:18:26 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 133 => SILDENAFIL 0.8 MG/ML SOLN = Plan Benefit
+11/11/2016 12:18:26 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 134 => 77015279 - CANNISTER SUCTION DISP 2500 = Supply
+11/11/2016 12:18:26 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 135 => ZINC OXIDE 40% OINTMENT (DESITIN) 60G = Pharmacy
+11/11/2016 12:18:26 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 136 => FACTOR VIIA 1 MCG NEX = Plan Benefit
+11/11/2016 12:18:26 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 137 => U/S ABDOMINAL  COMPLETE = Radiology
+11/11/2016 12:18:26 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 138 => HC NEEDLE PRTCT+CATH 20GX1.2 = Supply
+11/11/2016 12:18:26 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 139 => SPUTUM INDUCTION = Respiratory Therapy
+11/11/2016 12:18:26 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 140 => 86403006 - WALKING MOVING AROUND = PT / OT / Speech Therapy
+11/11/2016 12:18:27 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 141 => HCHG GGT/GGTP = Laboratory
+11/11/2016 12:18:27 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 142 => HCHG R&B CICU = Room and Board
+11/11/2016 12:18:27 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 143 => XR CHEST PA & LAT = Radiology
+11/11/2016 12:18:27 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 144 => MVI  PEDIATRIC INJ 10 ML EXTEMP = Pharmacy
+11/11/2016 12:18:27 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 145 => POLYETHENE GLYC 17GM P = Pharmacy
+11/11/2016 12:18:27 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 146 => PHENYLEPHRINE INJ = Pharmacy
+11/11/2016 12:18:27 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 147 => GLUCOSE  BLD BY MONITOR DEVICE = Monitoring
+11/11/2016 12:18:27 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 148 => INJECTION LINEZOLID 200M = Pharmacy
+11/11/2016 12:18:27 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 149 => HCHG POC GLUCOSE = Monitoring
+11/11/2016 12:18:28 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 150 => HC SMEAR FLUORESCENT ACID FAST = Laboratory
+11/11/2016 12:18:28 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 151 => OR PER MIN LEVEL 2 = OR / Anesthesia / Recovery Room
+11/11/2016 12:18:28 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 152 => FEVERALL 325MG SUP; ACETAMINOPHEN 325 MG SUPP.RECT = Pharmacy
+11/11/2016 12:18:28 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 153 => POTASSIUM BLOOD = Laboratory
+11/11/2016 12:18:28 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 154 => FENTANYL 50 MCG/ML SOLN 20 = Pharmacy
+11/11/2016 12:18:28 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 155 => ASSAY GLUCOSE BLOOD QUANT = Laboratory
+11/11/2016 12:18:28 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 156 => NORMAL SALINE 50ML = Diluent / Flush / Irrigant
+11/11/2016 12:18:28 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 157 => 77000995 - SLEEVE  COMPRESS KNEE LG = Supply
+11/11/2016 12:18:28 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 158 => CYCLOBENZAPRINE 10 MG TAB = Pharmacy
+11/11/2016 12:18:29 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 159 => CHLORHEXIDINE GLUCONATE 0.12 % MWSH = Supply
+11/11/2016 12:18:29 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 160 => CIPROFLOXACIN 500 MG/5 ML = Pharmacy
+11/11/2016 12:18:29 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 161 => 59706000 - 480 LOW VOL MRI TUBING = Supply
+11/11/2016 12:18:29 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 162 => HC OSTOMY BAG 2 PIECE = Supply
+11/11/2016 12:18:29 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 163 => MECHANICAL VENT SUBSEQ DAY = Respiratory Therapy
+11/11/2016 12:18:29 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 164 => LIPID PROFILE = Laboratory
+11/11/2016 12:18:29 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 165 => ROOM RNB1 = Room and Board
+11/11/2016 12:18:29 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 166 => QUETIAPINE 25 MG TABS = Pharmacy
+11/11/2016 12:18:29 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 167 => OXISENSOR  INFANT  MASIMO = Supply
+11/11/2016 12:18:30 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 168 => ACETAMINOPHEN 80 MG SUPP 6 EACH BOX = Pharmacy
+11/11/2016 12:18:30 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 169 => HC CBC WITH DIFFERENTIAL = Laboratory
+11/11/2016 12:18:30 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 170 => LIPID PANEL = Laboratory
+11/11/2016 12:18:30 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 171 => STOPCOCK 3-WAY = Supply
+11/11/2016 12:18:30 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 172 => SENSOR OXIMETRY NEONATAL = Supply
+11/11/2016 12:18:30 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 173 => SET ENTERAL ONLY EXTENSION = Supply
+11/11/2016 12:18:30 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 174 => SILDENAFIL 2.5 MG/ML SUSP 50 ML BOTTLE = Plan Benefit
+11/11/2016 12:18:30 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 175 => FENTANYL 50 MCG/HR PATCH = Pharmacy
+11/11/2016 12:18:30 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 176 => HB SODIUM CHLORIDE 3% NEBULE = Supply
+11/11/2016 12:18:31 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 177 => GLUCOSE POC = Monitoring
+11/11/2016 12:18:31 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 178 => ARTERIAL WRIST SUPPORT 29980 = Supply
+11/11/2016 12:18:31 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 179 => IV NS 100ML = Diluent / Flush / Irrigant
+11/11/2016 12:18:31 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 180 => IV PUSH  EACH ADDTL  SAME = Nursing Services
+11/11/2016 12:18:31 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 181 => SOD POLYSTYRENE SULF 15GM SUSP = Pharmacy
+11/11/2016 12:18:31 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 182 => CATH SUCTION TRACH KIT EACH = Supply
+11/11/2016 12:18:31 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 183 => ACETAMINOPHEN 325MG TAB = Pharmacy
+11/11/2016 12:18:31 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 184 => METOPROLOL 25MG TAB = Pharmacy
+11/11/2016 12:18:31 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 185 => EPINEPHRINE INJ 2.5 MG/2.5 ML = Pharmacy
+11/11/2016 12:18:32 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 186 => PHENYLEPHRN HCL <=1ML 10ML SYR = Pharmacy
+11/11/2016 12:18:32 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 187 => HEPARIN 100 U ML IN = Diluent / Flush / Irrigant
+11/11/2016 12:18:32 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 188 => HC INDIRECT ANTI-GLOB = Laboratory
+11/11/2016 12:18:32 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 189 => HC P9059 FFP FRZ IN 8-24 HRS EA UNIT = Blood Products
+11/11/2016 12:18:32 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 190 => SMEAR FOR BACTERIA = Laboratory
+11/11/2016 12:18:32 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 191 => DEXTROSE 5% AND 0.45% NACL WITH 20 MEQ/L POTASS = Pharmacy
+11/11/2016 12:18:32 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 192 => DEXTROSE 5% SOLN = Diluent / Flush / Irrigant
+11/11/2016 12:18:32 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 193 => AEROSOL TX = Respiratory Therapy
+11/11/2016 12:18:32 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 194 => IV 0.9% NACL 500 ML = Diluent / Flush / Irrigant
+11/11/2016 12:18:32 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 195 => LAB ABSCN = Laboratory
+11/11/2016 12:18:33 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 196 => PNEUMOCOCCAL (13-VAL) CONJ = Laboratory
+11/11/2016 12:18:33 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 197 => HC PRE ENDO SCHEDULE DOS LEVEL 1 = Pharmacy
+11/11/2016 12:18:33 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 198 => INPT SURG MAJOR ADD 30 MIN = OR / Anesthesia / Recovery Room
+11/11/2016 12:18:33 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 199 => STATLOCK-CATHETER SECUREDEVICE = Supply
+11/11/2016 12:18:33 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 200 => HB TOOL DISSECT MRCS L8CM OD2.3MM = Supply
+11/11/2016 12:18:33 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 201 => LACTIC ACID (LACTATE) = Laboratory
+11/11/2016 12:18:33 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 202 => ZINC SULF 220MG = Pharmacy
+11/11/2016 12:18:33 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 203 => EPHEDR 50MG/5ML INJ = Pharmacy
+11/11/2016 12:18:33 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 204 => DEXMEDETOMIDINE 200MC = Pharmacy
+11/11/2016 12:18:34 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 205 => GLUCOSE BEDSIDE MONIT = Monitoring
+11/11/2016 12:18:34 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 206 => TITANIUMMATRIXNEURO SCREWS 4MM = Implant
+11/11/2016 12:18:34 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 207 => APPLIER CLIP MULTI 20 MD = Supply
+11/11/2016 12:18:34 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 208 => CARBON DIOXIDE = Laboratory
+11/11/2016 12:18:34 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 209 => METRONIDAZOLE 500 MG IVPB = Pharmacy
+11/11/2016 12:18:34 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 210 => 11001212 - ACETAZOLAMIDE SOD UP TO 500MG = Pharmacy
+11/11/2016 12:18:34 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 211 => 27048600 - CT FACE/SINUS AXIAL W/O CONTRS = Radiology
+11/11/2016 12:18:34 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 212 => INDIVIDUAL ACT / 15 MIN (OT) = PT / OT / Speech Therapy
+11/11/2016 12:18:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 213 => INHALED NITRIC OXIDE/1 HOUR = Plan Benefit
+11/11/2016 12:18:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 214 => RESUS GLUCOSE = Monitoring
+11/11/2016 12:18:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 215 => SODIUM ACETATE 2 MEQ/ML SOLN 20 ML EXTEMP = Pharmacy
+11/11/2016 12:18:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 216 => HC TX SWALLOWING DYSFUNCTION = PT / OT / Speech Therapy
+11/11/2016 12:18:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 217 => HYDROCORTISONE 1% CREA 30 G TUBE = Pharmacy
+11/11/2016 12:18:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 218 => BASILIXIMAB 20 MG IVPB = Pharmacy
+11/11/2016 12:18:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 219 => HB FUROSEMIDE 10MG/ML VIAL = Pharmacy
+11/11/2016 12:18:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 220 => HB HICKMAN LINE = Supply
+11/11/2016 12:18:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 221 => PM-SODIUM CHLORIDE 0.45% W/HEPARIN 1 UNIT/ML = Pharmacy
+11/11/2016 12:18:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 222 => HB SUT VICRYL 4-0 RB-1 PO VCP714D = Supply
+11/11/2016 12:18:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 223 => CENTRAL LINE DRESSING KIT = Supply
+11/11/2016 12:18:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 224 => HC VENIPUNCTURE/BL COLL = Nursing Services
+11/11/2016 12:18:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 225 => IV D5W / 0.45% NACL 1000 M = Pharmacy
+11/11/2016 12:18:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 226 => HC CATEGORY 2 ADDL 15 MIN = OR / Anesthesia / Recovery Room
+11/11/2016 12:18:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 227 => INFLUENZA QUADRIVALENT PEDIATRIC (6-35MOS) VACC = Pharmacy
+11/11/2016 12:18:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 228 => HCHG R&B NICU HCHG R&B NICU = Room and Board
+11/11/2016 12:18:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 229 => HC ASSAY OF LACTIC ACID = Laboratory
+11/11/2016 12:18:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 230 => KIT ET = Supply
+11/11/2016 12:18:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 231 => US ABDOMEN LIMITED = Radiology
+11/11/2016 12:18:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 232 => TY CATH FOLEY SURESTEP DR BG LTX-F 16FR = Supply
+11/11/2016 12:18:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 233 => SUT POLYSORB 0 UNDYED 36IN GS- CL954 - CSC = Supply
+11/11/2016 12:18:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 234 => CALCIUM  IONIZED (ICAL) = Laboratory
+11/11/2016 12:18:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 235 => HB KIT IV ABV 5 YR PREOP = Supply
+11/11/2016 12:18:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 236 => CALCIUM IONIZED = Laboratory
+11/11/2016 12:18:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 237 => NITRIC OXIDE FOR RT USE = Plan Benefit
+11/11/2016 12:18:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 238 => 85868424 - INTRODUCER MICROPUNCTURE 5 FR = Supply
+11/11/2016 12:18:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 239 => INTUBATION STYLET 14FR = Supply
+11/11/2016 12:18:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 240 => 13295252 - LIDOCAINE 1% W/EPI 1:100000 30 = Pharmacy
+11/11/2016 12:18:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 241 => MULTIVITAMIN WITH IRON 0.5 ML LIQD 0.5 ML SYRINGE = Pharmacy
+11/11/2016 12:18:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 242 => AAV CIPRO 400MG/200ML RTU = Pharmacy
+11/11/2016 12:18:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 243 => BANDAGE MTRX NS 5 YD 6I = Supply
+11/11/2016 12:18:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 244 => URETHRA CATH SIMPLE = Supply
+11/11/2016 12:18:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 245 => DEXMEDETOMIDINE 200 MCG/2 = Pharmacy
+11/11/2016 12:18:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 246 => 65009001 - HEMOGRAM W/O DIFFERENTIAL = Laboratory
+11/11/2016 12:18:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 247 => 14594232 - DEXMEDETOMIDN 400MCG/100ML INJ = Pharmacy
+11/11/2016 12:18:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 248 => CHLOROTHIAZIDE 250 MG TAB 100 EACH BOTTLE = Pharmacy
+11/11/2016 12:18:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 249 => SOD CL 0.9% 0.9%  2.5 ML = Diluent / Flush / Irrigant
+11/11/2016 12:18:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 250 => TROCAR VENTRICULAR SPLIT = Supply
+11/11/2016 12:18:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 251 => 03500001 - RB 4 MS INTERMED CCU = Room and Board
+11/11/2016 12:18:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 252 => RCH LAB-WHOLE BLOOD POTASSIUM = Laboratory
+11/11/2016 12:18:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 253 => HCHG CHLORIDE WB ASSAY = Laboratory
+11/11/2016 12:18:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 254 => DISP: 2.500 ML; 2 MEQ/ML; USED NDC QTY: 10.000 PCK OF 10.000 ML VIAL POTASSIUM CHLORIDE 2 MEQ IV SOLUTION POTASSIUM CHLORIDE 2 MEQ/ML INTRAVENOUS SOLUTION = Pharmacy
+11/11/2016 12:18:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 255 => GLUCOSE REAGENT STRIP BLD = Supply
+11/11/2016 12:18:40 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 256 => HEPARIN (PORCINE) 25 000 U = Pharmacy
+11/11/2016 12:18:40 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 257 => NITRIC OXIDE PER HOUR = Plan Benefit
+11/11/2016 12:18:40 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 258 => COLLAGENASE OINT = Pharmacy
+11/11/2016 12:18:40 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 259 => SENSOR BIP QUATTRO = Supply
+11/11/2016 12:18:40 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 260 => MILRINONE 1 MG/ML SOLN 50 ML VIAL = Pharmacy
+11/11/2016 12:18:40 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 261 => PULSE OXIMETRY-SINGLE = Monitoring
+11/11/2016 12:18:40 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 262 => MAGNESIUM SULFATE PER 500 MG = Pharmacy
+11/11/2016 12:18:40 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 263 => P VENIPUNCTURE = Nursing Services
+11/11/2016 12:18:40 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 264 => FENTANYL 100MCG/2ML BD SYRINGE = Pharmacy
+11/11/2016 12:18:41 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 265 => 13284022 - LEVOFLOXACIN TABLET 500MG = Pharmacy
+11/11/2016 12:18:41 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 266 => H BIOTINIDASE SERUM = Laboratory
+11/11/2016 12:18:41 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 267 => HC PREALBUMIN = Laboratory
+11/11/2016 12:18:41 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 268 => MORPHINE SULF 30MG INJ = Pharmacy
+11/11/2016 12:18:41 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 269 => SENSOR ADHESIVE NEONATAL 51050 = Supply
+11/11/2016 12:18:41 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 270 => 11625272 - CEFEPIME PER 500MG MB+ = Pharmacy
+11/11/2016 12:18:41 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 271 => SENSITIVITY (MIC) = Laboratory
+11/11/2016 12:18:41 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 272 => FLUDROCORTISONE 0.1 MG TAB = Pharmacy
+11/11/2016 12:18:41 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 273 => HC TCAT THER EMBOLIZATION ANY METH RS&I = Radiology
+11/11/2016 12:18:42 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 274 => HC IRON BINDING CAPACITY TOTAL = Laboratory
+11/11/2016 12:18:42 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 275 => SMEAR FLUORESCENT/ACID STAI = Laboratory
+11/11/2016 12:18:42 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 276 => PROZAC 20MG CAP; FLUOXETINE 20 MG CAP = Pharmacy
+11/11/2016 12:18:42 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 277 => INDIVIDUAL EXERCISE PER 15 MIN = PT / OT / Speech Therapy
+11/11/2016 12:18:42 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 278 => HYDRALAZINE 20MG/1 = Pharmacy
+11/11/2016 12:18:42 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 279 => ASSAY OF MAGNESIUM = Laboratory
+11/11/2016 12:18:42 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 280 => R&B ICU/CCU = Room and Board
+11/11/2016 12:18:42 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 281 => 12474072 - HYDROCERIN CREAM 113GM TOPICAL = Pharmacy
+11/11/2016 12:18:42 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 282 => HB - XRAY CHEST SINGLE VIEW FRONTAL = Radiology
+11/11/2016 12:18:43 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 283 => DAILY MEDICAL SUPPLIES = Supply
+11/11/2016 12:18:43 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 284 => 01855002 - RB 1MICU MEDICAL = Room and Board
+11/11/2016 12:18:43 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 285 => NEO-PPHN INO = Plan Benefit
+11/11/2016 12:18:43 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 286 => BILIRUBIN TOT = Laboratory
+11/11/2016 12:18:43 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 287 => PULSE OX CONTINUOUS OVERNIGHT = Monitoring
+11/11/2016 12:18:43 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 288 => 27400000 - XR ABDOMEN 1 AP VW = Radiology
+11/11/2016 12:18:43 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 289 => HC THRPY ACTVTY DIRCT 15MIN = PT / OT / Speech Therapy
+11/11/2016 12:18:43 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 290 => FENTANYL 2.500MCG/NS 250ML BAG = Diluent / Flush / Irrigant
+11/11/2016 12:18:43 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 291 => RENAL PANEL WITH GFR = Laboratory
+11/11/2016 12:18:44 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 292 => DIAZOXIDE 50 MG/ML SUSP = Pharmacy
+11/11/2016 12:18:44 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 293 => D5W = Diluent / Flush / Irrigant
+11/11/2016 12:18:44 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 294 => PHENOBARBITAL 16.2 MG TAB = Pharmacy
+11/11/2016 12:18:44 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 295 => NOREPINEPHRINE 8MG/250ML NS 32 MCG/ML SOLN = Diluent / Flush / Irrigant
+11/11/2016 12:18:44 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 296 => ACETAMINOPHEN 80 MG SUPP 6 EACH BLIST PACK = Pharmacy
+11/11/2016 12:18:44 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 297 => (CONTRAST) GADOFOSVESET 0.25 MMOL/ML SOLN 10 ML = Pharmacy
+11/11/2016 12:18:44 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 298 => XRAY SPONGE 10 PK = Supply
+11/11/2016 12:18:44 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 299 => 20800207-PF NS 0.9% 0.9 % SOLN 10 ML VIAL = Diluent / Flush / Irrigant
+11/11/2016 12:18:44 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 300 => POC-LACTATE-GEM = Monitoring
+11/11/2016 12:18:45 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 301 => HC INS NON TUNNEL CENT VENOUS CATH > 5YR = Procedure
+11/11/2016 12:18:45 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 302 => SODIUM-ICU (BLOOD) = Laboratory
+11/11/2016 12:18:45 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 303 => GLUCOSE QUANTITATIVE BLOOD = Laboratory
+11/11/2016 12:18:45 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 304 => DARBEPOETIN ALFA 100 MCG/0.5ML SOSY = Pharmacy
+11/11/2016 12:18:45 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 305 => CATH IV MIDLINE FKIT 20GAX8 PWRGLIDE GEN 2 = Supply
+11/11/2016 12:18:45 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 306 => POTASSIUM CHLORIDE SA 20 MEQ TBCR = Pharmacy
+11/11/2016 12:18:45 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 307 => ANTITHROMBIN III 50 IU = Plan Benefit
+11/11/2016 12:18:45 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 308 => POS AIRWAY PRESSURE CPAP = Respiratory Therapy
+11/11/2016 12:18:46 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 309 => 77076901 - CATHETER COMBI 13FR = Supply
+11/11/2016 12:18:46 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 310 => 58304000 - BRONCHOSCOPY = Procedure
+11/11/2016 12:18:46 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 311 => LEVEL III - SURG PATH (GROSS/MICRO) = Laboratory
+11/11/2016 12:18:46 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 312 => BETAMETHASONE ACET & SOD PHOS 6 (3-3) MG/ML SUSP = Pharmacy
+11/11/2016 12:18:46 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 313 => HB SYRINGE PUMP = Capital Equipment
+11/11/2016 12:18:46 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 314 => H GLUCOSE (BLOOD GAS) = Monitoring
+11/11/2016 12:18:46 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 315 => MIDAZOLAM HCL 10MG/2ML INJ = Pharmacy
+11/11/2016 12:18:46 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 316 => POSITIONR HD CRDL SLTTD FOAM = Supply
+11/11/2016 12:18:46 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 317 => 13091 = Other
+11/11/2016 12:18:46 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 318 => NSS 100ML = Diluent / Flush / Irrigant
+11/11/2016 12:18:47 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 319 => DEXTROSE 5% SOLP 250 ML BA = Diluent / Flush / Irrigant
+11/11/2016 12:18:47 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 320 => SODIUM CHLORIDE 0.9 % NEBU 3 ML BLIST PACK = Supply
+11/11/2016 12:18:47 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 321 => HB CATHETER SX CATH-N-GOLVE 8FR V = Supply
+11/11/2016 12:18:47 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 322 => OXYGEN/HOUR = Respiratory Therapy
+11/11/2016 12:18:47 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 323 => HEPATC FUNC PANEL = Laboratory
+11/11/2016 12:18:47 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 324 => PULMOZYME 2.5ML INH = Plan Benefit
+11/11/2016 12:18:47 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 325 => COMPREHENSIVE METABOLIC P = Laboratory
+11/11/2016 12:18:47 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 326 => FEEDING SUPPLEMENT (GLUCERNA SHAKE) LIQD = Supply
+11/11/2016 12:18:48 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 327 => 77000039 - SUTURE  2-0 NYLON 664H = Supply
+11/11/2016 12:18:48 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 328 => HB POST-ICU TRANSPORT = Other
+11/11/2016 12:18:48 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 329 => NACL 0.9% MINI BAG PLUS 100ML = Diluent / Flush / Irrigant
+11/11/2016 12:18:48 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 330 => SODIUM BICARB 50MEQ/50ML INJ V = Pharmacy
+11/11/2016 12:18:48 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 331 => FR FRZ PLAS 8-24 HRS EA (F = Blood Products
+11/11/2016 12:18:48 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 332 => SET IV ADMIN 2ND 20 GTT W/SPIN = Supply
+11/11/2016 12:18:48 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 333 => HYALURONIDASE 150 UNIT/ML SOLN 1 ML VIAL = Pharmacy
+11/11/2016 12:18:48 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 334 => HC POTASSIUM = Laboratory
+11/11/2016 12:18:48 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 335 => 87849000 - RE-EVAL NON-BILL STAT OT = PT / OT / Speech Therapy
+11/11/2016 12:18:49 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 336 => HC ACCUCHECK = Monitoring
+11/11/2016 12:18:49 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 337 => MAGNIFY 26X 34 8 DEGREE 8- = Implant
+11/11/2016 12:18:49 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 338 => 46515000 - RB 6E INTERMEDIATE CCU = Room and Board
+11/11/2016 12:18:49 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 339 => NS 0.9 % SOLP = Diluent / Flush / Irrigant
+11/11/2016 12:18:49 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 340 => DEXTROSE 50 % SOLN = Pharmacy
+11/11/2016 12:18:49 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 341 => (CONTRAST) IOTHALAMATE MEG = Pharmacy
+11/11/2016 12:18:49 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 342 => NITRIC OXIDE SUBSEQUENT DAY = Plan Benefit
+11/11/2016 12:18:49 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 343 => PROPOFOL 100ML VL = Pharmacy
+11/11/2016 12:18:49 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 344 => ERYTHROMYCIN 0.5 % OINT 1 G PACKET = Pharmacy
+11/11/2016 12:18:50 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 345 => PEDIATRIC MULTIVITAMIN SOLN = Pharmacy
+11/11/2016 12:18:50 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 346 => LACTOBACILLUS ACIDOPH-L.BULGAR 1 MILLION CELL T = Pharmacy
+11/11/2016 12:18:50 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 347 => HB CHEST 1 VIEW = Radiology
+11/11/2016 12:18:50 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 348 => DOCUSATE SODIUM 100 MG C = Pharmacy
+11/11/2016 12:18:50 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 349 => HC SLCTV CATHJ 3RD+ ORD SLCTV THRC/BRCH/CPHLC BRNCH = Radiology
+11/11/2016 12:18:50 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 350 => PROTIME = Laboratory
+11/11/2016 12:18:50 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 351 => 86404005 - CHANGING MAINT BODY POSITION = PT / OT / Speech Therapy
+11/11/2016 12:18:50 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 352 => MYCOPHENOLATE SOD 360 MG T = Pharmacy
+11/11/2016 12:18:50 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 353 => HB PT NEUROMUSC RE-EDU EA 15 MIN = PT / OT / Speech Therapy
+11/11/2016 12:18:51 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 354 => HC EPS W ARRYTH = Cardiology
+11/11/2016 12:18:51 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 355 => CHEST PHYS THPY COMP SUBSQ = Respiratory Therapy
+11/11/2016 12:18:51 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 356 => CATH FOL SRSTEP ACUTE 16FR = Supply
+11/11/2016 12:18:51 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 357 => HB OXIMETRY  CONTINUOUS = Monitoring
+11/11/2016 12:18:51 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 358 => HALOPERIDOL LACTATE 5 MG/ML SOLN = Pharmacy
+11/11/2016 12:18:51 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 359 => SPECIAL STAIN GROUP II (ST = Laboratory
+11/11/2016 12:18:51 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 360 => CIPROFLOXACIN HCL 0.3% DROP 5 ML DROP BTL = Pharmacy
+11/11/2016 12:18:51 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 361 => TPN ADULT INJECTION = Pharmacy
+11/11/2016 12:18:51 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 362 => TUBING PUMP PRIMARY SET DISP = Supply
+11/11/2016 12:18:52 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 363 => SIMVASTATIN 20MG TAB = Pharmacy
+11/11/2016 12:18:52 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 364 => SODIUM WB ASSAY = Laboratory
+11/11/2016 12:18:52 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 365 => SILDENAFIL 2.5 MG/ML = Plan Benefit
+11/11/2016 12:18:52 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 366 => OR GEN LEVEL 1 1ST HR = OR / Anesthesia / Recovery Room
+11/11/2016 12:18:52 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 367 => HC BLOOD SPEC COLLECT CENT PERIP ACCESS = Nursing Services
+11/11/2016 12:18:52 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 368 => IMMUNOASSAY ANALYTE QUAL/S = Laboratory
+11/11/2016 12:18:52 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 369 => 58850000 - TRANSCUTANEOUS CO2 MONITOR/DAY = Monitoring
+11/11/2016 12:18:52 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 370 => CABLE EPS EXT HEX BLK 150 U = Supply
+11/11/2016 12:18:52 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 371 => TRAY BIOPSY DISP = Supply
+11/11/2016 12:18:53 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 372 => 77078719 - CATHETER DIALYS 13FR 24CM CV = Supply
+11/11/2016 12:18:53 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 373 => OXIMETRY SPOT CHK ASSM = Supply
+11/11/2016 12:18:53 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 374 => INFUS D5W 100ML INJ = Diluent / Flush / Irrigant
+11/11/2016 12:18:53 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 375 => RED BLOOD CELLS - LR - IRR - CKBC = Blood Products
+11/11/2016 12:18:53 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 376 => AMMONIA PLASMA = Laboratory
+11/11/2016 12:18:53 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 377 => HC RADIOLOGY PORTABLE EQUIPMENT = Capital Equipment
+11/11/2016 12:18:53 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 378 => BUDESONIDE 0.25 MG/2 ML NBSP 2 ML VIAL = Pharmacy
+11/11/2016 12:18:53 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 379 => 77019552 - PROTECTOR ULNAR NERVE = Supply
+11/11/2016 12:18:54 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 380 => SPECIMEN PROCUREMENT  ARTERIAL RC = Nursing Services
+11/11/2016 12:18:54 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 381 => SET SCREWS = Implant
+11/11/2016 12:18:54 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 382 => HC ROUTINE VENIPUNCTURE = Nursing Services
+11/11/2016 12:18:54 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 383 => HC ANGIO FLUSH SYSTEM SUPPLY = Supply
+11/11/2016 12:18:54 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 384 => POCT GLUCOSE METER = Monitoring
+11/11/2016 12:18:54 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 385 => HC MOBILITY GOAL STATUS = PT / OT / Speech Therapy
+11/11/2016 12:18:54 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 386 => BRAIN NATIURETIC PEPT = Laboratory
+11/11/2016 12:18:54 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 387 => STERILE WATER 1000ML = Diluent / Flush / Irrigant
+11/11/2016 12:18:54 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 388 => MEDFUSION SYRINGE PUMP CHARGE = Capital Equipment
+11/11/2016 12:18:55 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 389 => ABDOMEN AP (KUB) ABDOMEN AP (KUB) = Radiology
+11/11/2016 12:18:55 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 390 => BLOOD GAS POTASSIUM = Monitoring
+11/11/2016 12:18:55 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 391 => SUT SOFSILK 0 TIES 18IN X12 BLK S176 = Supply
+11/11/2016 12:18:55 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 392 => 66065010 - HEMOGLOBINOPATHY EVALUATION = Laboratory
+11/11/2016 12:18:55 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 393 => 15735252 - RIVAROXABAN 15MG TABLET = Pharmacy
+11/11/2016 12:18:55 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 394 => MAGNESIUM SULF/WATER 2G/50ML I = Pharmacy
+11/11/2016 12:18:55 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 395 => SODIUM CHLORIDE 3 % SOLUTION FOR NEBULIZATION = Supply
+11/11/2016 12:18:55 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 396 => POTASSIUM CHLORIDE 2 MEQ/ML INTRAVENOUS SOLUTION = Pharmacy
+11/11/2016 12:18:55 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 397 => 77960363 - INTRODUCER STYLT 15F = Supply
+11/11/2016 12:18:56 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 398 => VANCOMYCIN 50 MG/ML SOLR 1 = Pharmacy
+11/11/2016 12:18:56 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 399 => SODIUM CL 0.9% IVS; NACL 0.9% = Diluent / Flush / Irrigant
+11/11/2016 12:18:56 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 400 => ECMO CIRCUIT CHANGE = OR / Anesthesia / Recovery Room
+11/11/2016 12:18:56 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 401 => KIT FEED GASTROSTOMY 14FRX1.2CM = Supply
+11/11/2016 12:18:56 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 402 => DRAPE IOBAN 6640EZ = Supply
+11/11/2016 12:18:56 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 403 => 65220000 - LOW MOLECULAR WEIGHT HEPARIN = Pharmacy
+11/11/2016 12:18:56 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 404 => ROOM INTERMEDIATE = Room and Board
+11/11/2016 12:18:56 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 405 => HCHG POC POTASSIUM HCHG POC POTASSIUM = Monitoring
+11/11/2016 12:18:56 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 406 => HC PHASE 1 EXERCISE = Cardiology
+11/11/2016 12:18:57 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 407 => C REACTIVE PROTEIN (CRP) = Laboratory
+11/11/2016 12:18:57 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 408 => IV FILTER = Supply
+11/11/2016 12:18:57 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 409 => INJECTION CAP = Supply
+11/11/2016 12:18:57 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 410 => RNTL BED PLEXUS DAILY = Capital Equipment
+11/11/2016 12:18:57 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 411 => HB CREATININE BLOOD = Laboratory
+11/11/2016 12:18:57 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 412 => HEPARIN (PORCINE) PER 1000 UNITS = Pharmacy
+11/11/2016 12:18:57 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 413 => MORPHINE SULFATE 1 MG/ML I = Pharmacy
+11/11/2016 12:18:57 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 414 => HB CISATRACURIUM 2MG/ML 10ML VL = Pharmacy
+11/11/2016 12:18:57 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 415 => PVR/DOPPLER MULT LEVE = Cardiology
+11/11/2016 12:18:58 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 416 => PROPOFOL 10MG INJ = Pharmacy
+11/11/2016 12:18:58 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 417 => COMP MET PNL = Laboratory
+11/11/2016 12:18:58 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 418 => LABETALOL 5MG/ML 4ML INJ SYR = Pharmacy
+11/11/2016 12:18:58 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 419 => BOSENTEN 62.5MG TABLET = Plan Benefit
+11/11/2016 12:18:58 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 420 => CIPROFLOXACIN 2 MG/ML PGBK = Pharmacy
+11/11/2016 12:18:58 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 421 => CIPROFLOXACIN FOR IV INFUSION 200 MG INJ = Pharmacy
+11/11/2016 12:18:58 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 422 => PHYTONADIONE 1 MG/0.5ML SOLN 0.5 ML SYRINGE = Pharmacy
+11/11/2016 12:18:58 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 423 => SPONGE 4X4 STERILE 2/PK = Supply
+11/11/2016 12:18:58 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 424 => SODIUM CHLORIDE 0.9% PARENTERAL SOLUTION 100 ML = Diluent / Flush / Irrigant
+11/11/2016 12:18:59 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 425 => IV DEX 05% 250CC = Diluent / Flush / Irrigant
+11/11/2016 12:18:59 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 426 => ANS MAC REGIONAL PER MINUTE = OR / Anesthesia / Recovery Room
+11/11/2016 12:18:59 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 427 => PEDS PT ATTEMPT (STATISTICAL) = Room and Board
+11/11/2016 12:18:59 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 428 => PROTHROMBIN TM = Laboratory
+11/11/2016 12:18:59 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 429 => DOCUSATE SODIUM 100MG CAP = Pharmacy
+11/11/2016 12:18:59 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 430 => AMOXICILLIN-CLAVULANATE 875-125 MG TABS = Pharmacy
+11/11/2016 12:18:59 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 431 => HC VENIPUNCTURE COLLECTION = Nursing Services
+11/11/2016 12:18:59 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 432 => MICU = Room and Board
+11/11/2016 12:18:59 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 433 => 13508002 - MAGNESIUM OXIDE TABLET 400MG = Pharmacy
+11/11/2016 12:19:00 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 434 => US DPLER EXTREM VEIN UNILAT = Radiology
+11/11/2016 12:19:00 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 435 => H EXHALED CO2 TEST CONT/DAY (AKA ETCO2) = Monitoring
+11/11/2016 12:19:00 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 436 => DEXMEDETOMIDINE 200 MCG/2ML 0409-1638-02 = Pharmacy
+11/11/2016 12:19:00 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 437 => UNIPOLAR JSN HES SUPREME 6FR = Supply
+11/11/2016 12:19:00 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 438 => URNLS DIP STICK/TABLET RGNT AUTO MIC = Laboratory
+11/11/2016 12:19:00 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 439 => 84011111 - HEMODIALYSIS EMERGENT ADULT IP = Dialysis
+11/11/2016 12:19:00 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 440 => HC METABOLIC PANEL TOTAL CA = Laboratory
+11/11/2016 12:19:00 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 441 => OXYCOD10-APAP325MGTB = Pharmacy
+11/11/2016 12:19:01 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 442 => SENNA 8.6MG TAB = Pharmacy
+11/11/2016 12:19:01 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 443 => OSTOMY POUCH NEWBORN/BOX = Supply
+11/11/2016 12:19:01 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 444 => HB SPIROMETRY = Respiratory Therapy
+11/11/2016 12:19:01 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 445 => HCHG GLUCOSE PRECISI = Monitoring
+11/11/2016 12:19:01 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 446 => HB POC HEMATOCRIT = Monitoring
+11/11/2016 12:19:01 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 447 => RETRACT-O-TAPE # 1041 = Supply
+11/11/2016 12:19:01 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 448 => IADNA RESPIRATRY PROBE & REV TRNSCR 12-25 TARGE = Laboratory
+11/11/2016 12:19:01 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 449 => SILDENAFIL 2.5 MG/ML LIQD = Plan Benefit
+11/11/2016 12:19:01 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 450 => LAB BLOOD TYPING ABO = Laboratory
+11/11/2016 12:19:02 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 451 => 77039543 - CLIP LIG APPLIER 9 3/8IN SM = Supply
+11/11/2016 12:19:02 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 452 => ACETAMINOPHEN 160 MG/5ML SOLN = Pharmacy
+11/11/2016 12:19:02 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 453 => HB LINE-EXTENSION SET 60 INCH = Supply
+11/11/2016 12:19:02 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 454 => HB ADDITIONAL KARYOTYPE = Laboratory
+11/11/2016 12:19:02 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 455 => HB SUCCINYLCHOLINE CL 20MG/ML10ML = Pharmacy
+11/11/2016 12:19:02 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 456 => HB IV INFUSION PUMP = Capital Equipment
+11/11/2016 12:19:02 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 457 => PEDIATRIC MULTIVITAMINS-IRON DROPS = Pharmacy
+11/11/2016 12:19:02 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 458 => MANUAL THERAPY 15 MIN PT = PT / OT / Speech Therapy
+11/11/2016 12:19:02 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 459 => SUTURE SILK 0 BRD SH = Supply
+11/11/2016 12:19:03 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 460 => GAIT TRAINING 15 MIN P = PT / OT / Speech Therapy
+11/11/2016 12:19:03 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 461 => CHEST PHYSIO SUBSEQ 0-10 M = Respiratory Therapy
+11/11/2016 12:19:03 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 462 => DEXTROSE 10% SOLP 500 ML BAG = Pharmacy
+11/11/2016 12:19:03 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 463 => FLUCONAZOLE TABLET 200MG = Pharmacy
+11/11/2016 12:19:03 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 464 => AQUAPHOR OINT 14OZ = Supply
+11/11/2016 12:19:03 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 465 => HB 0.9% NACL 250ML 2B1322Q INJ = Diluent / Flush / Irrigant
+11/11/2016 12:19:03 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 466 => WARMING BLANKET = Supply
+11/11/2016 12:19:03 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 467 => 15319092 - TIOTROPIUM BROMIDE 18MCG = Pharmacy
+11/11/2016 12:19:03 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 468 => DEXTROSE 5% SOLP 100 ML BAG = Diluent / Flush / Irrigant
+11/11/2016 12:19:04 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 469 => CAFFEINE CITRATE 10 MG/ML S = Pharmacy
+11/11/2016 12:19:04 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 470 => CALCIUM CHLORIDE 20 MG/ML = Pharmacy
+11/11/2016 12:19:04 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 471 => PRAVASTATIN 20 MG TABS = Pharmacy
+11/11/2016 12:19:04 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 472 => STERILE WATER TPN SOLN 1 000 ML EXTEMP = Diluent / Flush / Irrigant
+11/11/2016 12:19:04 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 473 => CLEANSER 4% CHG DYNA-HEX 4 OZ = Supply
+11/11/2016 12:19:04 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 474 => 11603152 - CARBXYMTHYLCELLLS .5%BX/30 = Pharmacy
+11/11/2016 12:19:04 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 475 => DEXTROSE 5% SOLP 500 ML BA = Diluent / Flush / Irrigant
+11/11/2016 12:19:04 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 476 => NASOTRACHEAL ASPIRATION / BAL = Respiratory Therapy
+11/11/2016 12:19:04 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 477 => PULSE OX MAX N = Monitoring
+11/11/2016 12:19:05 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 478 => PACU STAGE ONE FIRST 1/2 H = OR / Anesthesia / Recovery Room
+11/11/2016 12:19:05 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 479 => PULSE OXIMETRY SINGLE DETERMINATE = Monitoring
+11/11/2016 12:19:05 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 480 => H CONDITIONER SKIN ALOE VE = Supply
+11/11/2016 12:19:05 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 481 => GRAM STAIN = Laboratory
+11/11/2016 12:19:05 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 482 => 11482022 - BUMETANIDE TABLET 1MG = Pharmacy
+11/11/2016 12:19:05 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 483 => HEPLOCK 100U 1ML PFS = Diluent / Flush / Irrigant
+11/11/2016 12:19:05 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 484 => PLATELET COUNT = Laboratory
+11/11/2016 12:19:05 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 485 => ALDOSTERONE = Laboratory
+11/11/2016 12:19:05 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 486 => FUROSEMIDE ORAL SOLN 10MG/ 1ML = Pharmacy
+11/11/2016 12:19:06 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 487 => PLEUR EVAC INFANT/ADULT = Supply
+11/11/2016 12:19:06 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 488 => INCUBATOR SERV = Capital Equipment
+11/11/2016 12:19:06 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 489 => HCHG CBC AUTO W /AUTO DIFF = Laboratory
+11/11/2016 12:19:06 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 490 => 65208000 - PROTHROMBIN TIME = Laboratory
+11/11/2016 12:19:06 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 491 => 66002000 - URINE MICROSCOPIC = Laboratory
+11/11/2016 12:19:06 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 492 => IMMUNE GLOBULIN (HUMAN) IV = Pharmacy
+11/11/2016 12:19:06 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 493 => HB ELECTRODE EKG INF PREWIRED RAD = Cardiology
+11/11/2016 12:19:06 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 494 => PAD DISP 17*24 = Supply
+11/11/2016 12:19:06 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 495 => SODIUM CHLORIDE 0.9 % 0.9 = Diluent / Flush / Irrigant
+11/11/2016 12:19:07 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 496 => CAR SEAT 60 MIN = Nursing Services
+11/11/2016 12:19:07 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/jaro_wrinkler_algo.pyc : : 497 => 13986222 - PHOS-NAK ORAL PACKET = Pharmacy
+11/11/2016 12:19:07 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : training classifier : SVM
+11/11/2016 12:20:10 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : training classifier : Naive
+11/11/2016 12:20:11 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : training classifier : Logistic_OvR
+11/11/2016 12:20:15 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : training classifier : Randomforest
+11/11/2016 12:20:16 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : training classifier : DeepNN
+11/11/2016 12:20:17 PM INFO : Initializing neural network with 2 layers, 856 inputs and 21 outputs.
+11/11/2016 12:20:17 PM DEBUG :   - Dense: [1;97mTanh      [0m Units:  [1;97m209 [0m
+11/11/2016 12:20:17 PM DEBUG :   - Dense: [1;97mSoftmax   [0m Units:  [1;97m21  [0m
+11/11/2016 12:20:17 PM DEBUG : 
+11/11/2016 12:20:20 PM INFO : Training on dataset of 4,503 samples with 3,949,131 total size.
+11/11/2016 12:20:20 PM DEBUG :   - Terminating loop after 25 total iterations.
+11/11/2016 12:20:20 PM DEBUG :   - Early termination after 10 stable iterations.
+11/11/2016 12:20:21 PM DEBUG :     1         [0;94m 1.071e+00[0m                 N/A            1.4s
+11/11/2016 12:20:23 PM DEBUG :     2         [0;94m 6.567e-01[0m                 N/A            1.5s
+11/11/2016 12:20:24 PM DEBUG :     3         [0;94m 5.274e-01[0m                 N/A            1.5s
+11/11/2016 12:20:26 PM DEBUG :     4         [0;94m 4.559e-01[0m                 N/A            1.6s
+11/11/2016 12:20:29 PM DEBUG :     5         [0;94m 4.064e-01[0m                 N/A            3.2s
+11/11/2016 12:20:33 PM DEBUG :     6         [0;94m 3.657e-01[0m                 N/A            4.6s
+11/11/2016 12:20:37 PM DEBUG :     7         [0;94m 3.391e-01[0m                 N/A            3.1s
+11/11/2016 12:20:39 PM DEBUG :     8         [0;94m 3.021e-01[0m                 N/A            2.3s
+11/11/2016 12:20:42 PM DEBUG :     9         [0;94m 2.956e-01[0m                 N/A            3.1s
+11/11/2016 12:20:45 PM DEBUG :    10         [0;94m 2.782e-01[0m                 N/A            2.7s
+11/11/2016 12:20:46 PM DEBUG :    11         [0;94m 2.639e-01[0m                 N/A            1.8s
+11/11/2016 12:20:50 PM DEBUG :    12         [0;94m 2.443e-01[0m                 N/A            3.4s
+11/11/2016 12:20:51 PM DEBUG :    13         [0;94m 2.288e-01[0m                 N/A            1.6s
+11/11/2016 12:20:53 PM DEBUG :    14          2.290e-01                 N/A            1.4s
+11/11/2016 12:20:54 PM DEBUG :    15         [0;94m 2.110e-01[0m                 N/A            1.4s
+11/11/2016 12:20:55 PM DEBUG :    16         [0;94m 2.093e-01[0m                 N/A            1.4s
+11/11/2016 12:20:57 PM DEBUG :    17         [0;94m 1.988e-01[0m                 N/A            1.4s
+11/11/2016 12:20:58 PM DEBUG :    18         [0;94m 1.942e-01[0m                 N/A            1.4s
+11/11/2016 12:21:00 PM DEBUG :    19         [0;94m 1.835e-01[0m                 N/A            1.4s
+11/11/2016 12:21:01 PM DEBUG :    20         [0;94m 1.717e-01[0m                 N/A            1.4s
+11/11/2016 12:21:02 PM DEBUG :    21         [0;94m 1.695e-01[0m                 N/A            1.4s
+11/11/2016 12:21:04 PM DEBUG :    22         [0;94m 1.652e-01[0m                 N/A            1.3s
+11/11/2016 12:21:05 PM DEBUG :    23         [0;94m 1.638e-01[0m                 N/A            1.5s
+11/11/2016 12:21:07 PM DEBUG :    24         [0;94m 1.524e-01[0m                 N/A            1.4s
+11/11/2016 12:21:08 PM DEBUG :    25         [0;94m 1.504e-01[0m                 N/A            1.4s
+11/11/2016 12:21:08 PM DEBUG : 
+11/11/2016 12:21:08 PM INFO : Terminating after specified 25 total iterations.
+11/11/2016 12:21:09 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : training classifier : kNN
+11/11/2016 12:21:25 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : training classifier : LDA
+11/11/2016 12:21:27 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : training classifier : XGBoost
+11/11/2016 12:27:35 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Classifiers trained.
+11/11/2016 12:27:35 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : checking : Jaro
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Jaro was used as an learning algorithm
+11/11/2016 12:27:35 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : checking : SVM
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : SVM was used as an learning algorithm
+11/11/2016 12:27:35 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : checking : Naive
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Naive was used as an learning algorithm
+11/11/2016 12:27:35 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : checking : Logistic_OvR
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Logistic_OvR was used as an learning algorithm
+11/11/2016 12:27:35 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : checking : Randomforest
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Randomforest was used as an learning algorithm
+11/11/2016 12:27:35 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : checking : DeepNN
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : DeepNN was used as an learning algorithm
+11/11/2016 12:27:35 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : checking : kNN
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : kNN was used as an learning algorithm
+11/11/2016 12:27:35 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : checking : LDA
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : LDA was used as an learning algorithm
+11/11/2016 12:27:35 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : checking : XGBoost
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : XGBoost was used as an learning algorithm
+11/11/2016 12:27:35 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : In votingPredictions() : to vote 9
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SMEAR  PRIM SOUR W/INTERP(G=Laboratory
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : INJ IVP. INITIAL DRUGS/SUB=Nursing Services
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 86851000 - OT RE-EVALUATION (OT)=PT / OT / Speech Therapy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : GI LAB LEV 2 1ST 15=Laboratory
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : FUROSEMIDE PER 20 MG=Pharmacy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HEPARIN 10 UNITS/ML SOLN 3=Diluent / Flush / Irrigant
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : BLOOD BAS (POINT OF CARE)=Monitoring
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : TPN - (PATIENTS < 5 KG)=Pharmacy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : AMIODARONE 50 MG/ML SOLN 18 ML VIAL=Pharmacy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CREATININE  URINE OR FLD=Laboratory
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : METHADONE 10 MG/ML ORAL=Pharmacy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : INS BLADDER CATH NON INDWELL=Procedure
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DISP: 0.420 ML; 4 MG/ML; USED NDC QTY: 4.000 PCK OF 30.000 ML VIAL DEXAMETHASONE 1 MG INJECTION DEXAMETHASONE 4 MG/ML INJECTION SOLUTION=Pharmacy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : KCL 20MEQ/100ML PREMIX; KCL IV PREMIX 20 MEQ/100 ML BAG 0.=Pharmacy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 12465212 - ETOMIDATE 2MG/ML 10ML=Pharmacy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SODIUM CHLORIDE 4 MEQ/ML SOLN 30 ML VIAL=Pharmacy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : EQ MATTRESS LOW AIR LOSS EN=Capital Equipment
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CEFEPIME PEDIATRIC 100 MG/ML SOLR=Pharmacy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 77073927 - DRESSING MEPILEX 6X6=Supply
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MR STAPH DNA AMP PROBE=Laboratory
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : OXYCODONE 5 MG TAB=Pharmacy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : NICOTINE 21 MG/24 HR PATCH=Plan Benefit
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : C-BOOT/HEEL PROTECTOR=Supply
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : OMEPRAZOLE 20 MG CPDR=Pharmacy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : UNDERPAD  SMALL CHUX=Supply
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : POTASSIUM CHLORIDE SR 20MEQ TA=Pharmacy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PHENYLEPHRINE 10 MG/ML SOLN=Pharmacy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC CALCIUM IONIZED=Laboratory
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SM VOL NEBULIZER TX SUBSEQUENT=Respiratory Therapy
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : GLUCOSE-BLD BY MONITOR DEVICE=Monitoring
+11/11/2016 12:27:35 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PENCIL CAUT HND ROCK PTFE 10FT=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 14351002 - PEPPERMINT OIL 30ML=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PTT ACTIVA - STAT=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC GLYCOSYLATED HEMOGLOBIN=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : O2 DAILY=Respiratory Therapy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CHLOROTHIAZIDE 28 MG/ML SO=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC SMEAR GRAM STAIN=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : GAIT TRAINING 15 MIN PT=PT / OT / Speech Therapy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : VITAL CAPACITY (FC)=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PATIENT EDUC EA 15 MINUTES=Education / Training
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ABDOMEN  KUB=Radiology
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : OSTOMY POUCH POST OP 20929DISP=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC IV INF THER ADD SEQ 1ST HR=Nursing Services
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MAGNES SULF 500MGINJ=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB GLUCOSE BY MONITORING D=Monitoring
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HYDROMORPHONE PF 2 MG/ML SOLN=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : NS FLUSH 0.9% SOLN=Diluent / Flush / Irrigant
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DEXTROSE 5% IN WATER 100ML=Diluent / Flush / Irrigant
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB VENIPUNCTURE=Nursing Services
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC INS PERIP CV CATH PICC > 5YR WO=Procedure
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : STOPCOCK 3WAY=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC AMYLASE NON BLOOD=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : TTE WITH DOPPLER &AND COLOR FLOW IRP=Cardiology
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : LABETALOL 5 MG/ML INJ 4 ML=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : METHYLPREDNISOLONE (SOLUME=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ZZTPN (BABY) TOTAL VOLUME=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : BENZO/MENT 15-3.6L0Z=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : STERILE WATER SOLN 1 000 ML FLEX CONT=Diluent / Flush / Irrigant
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ICU INTERMEDIATE=Room and Board
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : TC OXYGEN/HOUR=Respiratory Therapy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : WIRE J 3MMX180CM 49-120=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ANES ANALYSIS BLOOD GAS (F=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CMV QUANTITATIVE PCR=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC RADIAL ARTERY KIT=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : LACTIC ACID (WBLA)=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SOD CHLOR 0.9%=Diluent / Flush / Irrigant
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DRONABINOL 2.5 MG CAPS 68084-174-01=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PIN TRACTION 71065504=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : STAPLE GUN SKN REG=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PACK PERINEAL COLD=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : NA CL 0.9% FLUSH 5ML=Diluent / Flush / Irrigant
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : AIRWY BRMN 90MM BA1290=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 11482052 - BUMETANIDE 1 MG=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : GLUCOSE FINGERSTICK=Monitoring
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PROTHROMBIN TIME W/INR=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 77032076 - KIT NEURO BASIN=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PF-CNSLT SURGERY W/ FRZN SECT=OR / Anesthesia / Recovery Room
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : GENERAL SUTURE (0 TO 5-0 SUT=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : STAY SHARP 5MM LONESTAR RETRAC=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB POTASSIUM BLOOD=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : RCH LAB-WHOLE BLOOD IONIZED CA=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ANESTHESIA LEVEL 3=OR / Anesthesia / Recovery Room
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 11544012 - CALCIUM ACETATE TABLET 667MG=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 64878000 - CONCENTRATION FOR INFECT AGENT=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HCHRG ROOM AND BOARD INTENSIVE=Room and Board
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : STETHOSCOPE DISPOSABLE=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SOLN IV NSS 1000ML 2B1324=Diluent / Flush / Irrigant
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 62999001 - ABRR (STATISTICAL)=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 64902000 - TISSUE CULTURE INOCULATION=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CEFTRIAXONE 2 GRAM/50 ML PGBK=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC PACU CLASS 2 NPR 2:1=OR / Anesthesia / Recovery Room
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PULSE OXIMETRY/DAY=Monitoring
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : BLD# HEMATOCRIT=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : OXYGEN HOURLY=Respiratory Therapy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 62001000 - BLOOD GROUP ABO=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : WARFARIN 2 MG TABS=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : EPHEDRINE 50MG=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SILDENAF CMPDLQ+=Plan Benefit
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PF-IMMUNOHISTOCHEMISTRY 1ST=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC THROMBOPLASTIN TIME (APTT)=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : FLUCONAZOLE 200-0.9 MG/100ML-% SOLN=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : THERAPEUTIC ACTIVITIES EA 15 MI=PT / OT / Speech Therapy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CYSTATIN C PLASMA OR SERU=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CULTURE BLOOD=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : TX SWAL/ORAL FUNCTION=PT / OT / Speech Therapy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : NITROGLYCERIN 200 MCG/ML 10 ML SYRINGE=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HEP B SURF ANTB HBSAB=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DIPHENHYDRAMINE 50 MG CAP=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CULTURE TYPING NUCLEIC ACI=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 13690412 - NATURAL TEARS LUBRICANT 15ML=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ABO BLOOD TYPING=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DIAZEPAM 5MG INJ=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : VASOPRESSIN IV DRIP 50U=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SODIUM CHLORIDE 0.9% 0.9 % SOLP=Diluent / Flush / Irrigant
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SODIUM CHLORIDE .9% 1000ML INJ=Diluent / Flush / Irrigant
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : T4 FREE=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC MOD SEDATION > 5 YRS OLD 1ST 30 MINS=OR / Anesthesia / Recovery Room
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PROTEIN TOT XCPT REFRACTOM=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : FEEDING SUPPLEMENT (RESOURCE BREEZE) LIQD=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ACETAMINOPHEN 10 MG/ML SOL=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC TSH=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ASSAY OF URINE CREATININE=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CHEST PHYSIO INTER 10-30MI=Respiratory Therapy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : IV PUSH=Nursing Services
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DISP: 0.077 EACH; 300 MG; USED NDC QTY: 1.000 PCK OF 100.000 EACH BOTTLE URSODIOL 300 MG CAPSULE=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 27101001 - XR CHEST SNG VW PORTABLE=Radiology
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC RED BLOOD CELLS LEUKOCYTES REDUCED EACH UNIT=Blood Products
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : TRAY MONITOR ARTERIAL=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CIDOFOVIR INJ 75MG/1ML 5ML=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB CPAP INITIATION / MGMT=Respiratory Therapy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ABO TYPING=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : TRAY DRESSING CHANGE EA=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HYDROCODONE/APAP 10/325; HYDROCODONE/APAP 10-325MG TABLET=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SILDENAFIL 0.8 MG/ML SOLN=Plan Benefit
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 77015279 - CANNISTER SUCTION DISP 2500=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ZINC OXIDE 40% OINTMENT (DESITIN) 60G=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : FACTOR VIIA 1 MCG NEX=Plan Benefit
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : U/S ABDOMINAL  COMPLETE=Radiology
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC NEEDLE PRTCT+CATH 20GX1.2=Supply
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SPUTUM INDUCTION=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 86403006 - WALKING MOVING AROUND=PT / OT / Speech Therapy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HCHG GGT/GGTP=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HCHG R&B CICU=Room and Board
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : XR CHEST PA & LAT=Radiology
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MVI  PEDIATRIC INJ 10 ML EXTEMP=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : POLYETHENE GLYC 17GM P=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PHENYLEPHRINE INJ=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : GLUCOSE  BLD BY MONITOR DEVICE=Monitoring
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : INJECTION LINEZOLID 200M=Pharmacy
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HCHG POC GLUCOSE=Monitoring
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC SMEAR FLUORESCENT ACID FAST=Laboratory
+11/11/2016 12:27:36 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : OR PER MIN LEVEL 2=OR / Anesthesia / Recovery Room
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : FEVERALL 325MG SUP; ACETAMINOPHEN 325 MG SUPP.RECT=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : POTASSIUM BLOOD=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : FENTANYL 50 MCG/ML SOLN 20=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ASSAY GLUCOSE BLOOD QUANT=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : NORMAL SALINE 50ML=Diluent / Flush / Irrigant
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 77000995 - SLEEVE  COMPRESS KNEE LG=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CYCLOBENZAPRINE 10 MG TAB=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CHLORHEXIDINE GLUCONATE 0.12 % MWSH=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CIPROFLOXACIN 500 MG/5 ML=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 59706000 - 480 LOW VOL MRI TUBING=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC OSTOMY BAG 2 PIECE=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MECHANICAL VENT SUBSEQ DAY=Respiratory Therapy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : LIPID PROFILE=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ROOM RNB1=Room and Board
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : QUETIAPINE 25 MG TABS=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : OXISENSOR  INFANT  MASIMO=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ACETAMINOPHEN 80 MG SUPP 6 EACH BOX=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC CBC WITH DIFFERENTIAL=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : LIPID PANEL=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : STOPCOCK 3-WAY=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SENSOR OXIMETRY NEONATAL=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SET ENTERAL ONLY EXTENSION=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SILDENAFIL 2.5 MG/ML SUSP 50 ML BOTTLE=Plan Benefit
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : FENTANYL 50 MCG/HR PATCH=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB SODIUM CHLORIDE 3% NEBULE=Diluent / Flush / Irrigant
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : GLUCOSE POC=Monitoring
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ARTERIAL WRIST SUPPORT 29980=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : IV NS 100ML=Diluent / Flush / Irrigant
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : IV PUSH  EACH ADDTL  SAME=Nursing Services
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SOD POLYSTYRENE SULF 15GM SUSP=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CATH SUCTION TRACH KIT EACH=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ACETAMINOPHEN 325MG TAB=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : METOPROLOL 25MG TAB=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : EPINEPHRINE INJ 2.5 MG/2.5 ML=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PHENYLEPHRN HCL <=1ML 10ML SYR=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HEPARIN 100 U ML IN=Diluent / Flush / Irrigant
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC INDIRECT ANTI-GLOB=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC P9059 FFP FRZ IN 8-24 HRS EA UNIT=Blood Products
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SMEAR FOR BACTERIA=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DEXTROSE 5% AND 0.45% NACL WITH 20 MEQ/L POTASS=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DEXTROSE 5% SOLN=Diluent / Flush / Irrigant
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : AEROSOL TX=Respiratory Therapy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : IV 0.9% NACL 500 ML=Diluent / Flush / Irrigant
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : LAB ABSCN=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PNEUMOCOCCAL (13-VAL) CONJ=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC PRE ENDO SCHEDULE DOS LEVEL 1=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : INPT SURG MAJOR ADD 30 MIN=OR / Anesthesia / Recovery Room
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : STATLOCK-CATHETER SECUREDEVICE=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB TOOL DISSECT MRCS L8CM OD2.3MM=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : LACTIC ACID (LACTATE)=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ZINC SULF 220MG=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : EPHEDR 50MG/5ML INJ=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DEXMEDETOMIDINE 200MC=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : GLUCOSE BEDSIDE MONIT=Monitoring
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : TITANIUMMATRIXNEURO SCREWS 4MM=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : APPLIER CLIP MULTI 20 MD=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CARBON DIOXIDE=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : METRONIDAZOLE 500 MG IVPB=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 11001212 - ACETAZOLAMIDE SOD UP TO 500MG=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 27048600 - CT FACE/SINUS AXIAL W/O CONTRS=Radiology
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : INDIVIDUAL ACT / 15 MIN (OT)=PT / OT / Speech Therapy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : INHALED NITRIC OXIDE/1 HOUR=Plan Benefit
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : RESUS GLUCOSE=Monitoring
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SODIUM ACETATE 2 MEQ/ML SOLN 20 ML EXTEMP=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC TX SWALLOWING DYSFUNCTION=PT / OT / Speech Therapy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HYDROCORTISONE 1% CREA 30 G TUBE=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : BASILIXIMAB 20 MG IVPB=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB FUROSEMIDE 10MG/ML VIAL=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB HICKMAN LINE=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PM-SODIUM CHLORIDE 0.45% W/HEPARIN 1 UNIT/ML=Diluent / Flush / Irrigant
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB SUT VICRYL 4-0 RB-1 PO VCP714D=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CENTRAL LINE DRESSING KIT=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC VENIPUNCTURE/BL COLL=Nursing Services
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : IV D5W / 0.45% NACL 1000 M=Diluent / Flush / Irrigant
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC CATEGORY 2 ADDL 15 MIN=OR / Anesthesia / Recovery Room
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : INFLUENZA QUADRIVALENT PEDIATRIC (6-35MOS) VACC=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HCHG R&B NICU HCHG R&B NICU=Room and Board
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC ASSAY OF LACTIC ACID=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : KIT ET=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : US ABDOMEN LIMITED=Radiology
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : TY CATH FOLEY SURESTEP DR BG LTX-F 16FR=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SUT POLYSORB 0 UNDYED 36IN GS- CL954 - CSC=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CALCIUM  IONIZED (ICAL)=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB KIT IV ABV 5 YR PREOP=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CALCIUM IONIZED=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : NITRIC OXIDE FOR RT USE=Plan Benefit
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 85868424 - INTRODUCER MICROPUNCTURE 5 FR=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : INTUBATION STYLET 14FR=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 13295252 - LIDOCAINE 1% W/EPI 1:100000 30=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MULTIVITAMIN WITH IRON 0.5 ML LIQD 0.5 ML SYRINGE=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : AAV CIPRO 400MG/200ML RTU=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : BANDAGE MTRX NS 5 YD 6I=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : URETHRA CATH SIMPLE=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DEXMEDETOMIDINE 200 MCG/2=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 65009001 - HEMOGRAM W/O DIFFERENTIAL=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 14594232 - DEXMEDETOMIDN 400MCG/100ML INJ=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CHLOROTHIAZIDE 250 MG TAB 100 EACH BOTTLE=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SOD CL 0.9% 0.9%  2.5 ML=Diluent / Flush / Irrigant
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : TROCAR VENTRICULAR SPLIT=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 03500001 - RB 4 MS INTERMED CCU=Room and Board
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : RCH LAB-WHOLE BLOOD POTASSIUM=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HCHG CHLORIDE WB ASSAY=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DISP: 2.500 ML; 2 MEQ/ML; USED NDC QTY: 10.000 PCK OF 10.000 ML VIAL POTASSIUM CHLORIDE 2 MEQ IV SOLUTION POTASSIUM CHLORIDE 2 MEQ/ML INTRAVENOUS SOLUTION=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : GLUCOSE REAGENT STRIP BLD=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HEPARIN (PORCINE) 25 000 U=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : NITRIC OXIDE PER HOUR=Plan Benefit
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : COLLAGENASE OINT=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SENSOR BIP QUATTRO=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MILRINONE 1 MG/ML SOLN 50 ML VIAL=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PULSE OXIMETRY-SINGLE=Monitoring
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MAGNESIUM SULFATE PER 500 MG=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : P VENIPUNCTURE=Nursing Services
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : FENTANYL 100MCG/2ML BD SYRINGE=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 13284022 - LEVOFLOXACIN TABLET 500MG=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : H BIOTINIDASE SERUM=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC PREALBUMIN=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MORPHINE SULF 30MG INJ=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SENSOR ADHESIVE NEONATAL 51050=Supply
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 11625272 - CEFEPIME PER 500MG MB+=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SENSITIVITY (MIC)=Laboratory
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : FLUDROCORTISONE 0.1 MG TAB=Pharmacy
+11/11/2016 12:27:37 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC TCAT THER EMBOLIZATION ANY METH RS&I=Respiratory Therapy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC IRON BINDING CAPACITY TOTAL=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SMEAR FLUORESCENT/ACID STAI=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PROZAC 20MG CAP; FLUOXETINE 20 MG CAP=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : INDIVIDUAL EXERCISE PER 15 MIN=PT / OT / Speech Therapy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HYDRALAZINE 20MG/1=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ASSAY OF MAGNESIUM=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : R&B ICU/CCU=Room and Board
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 12474072 - HYDROCERIN CREAM 113GM TOPICAL=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB - XRAY CHEST SINGLE VIEW FRONTAL=Radiology
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DAILY MEDICAL SUPPLIES=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 01855002 - RB 1MICU MEDICAL=Room and Board
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : NEO-PPHN INO=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : BILIRUBIN TOT=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PULSE OX CONTINUOUS OVERNIGHT=Monitoring
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 27400000 - XR ABDOMEN 1 AP VW=Radiology
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC THRPY ACTVTY DIRCT 15MIN=PT / OT / Speech Therapy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : FENTANYL 2.500MCG/NS 250ML BAG=Diluent / Flush / Irrigant
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : RENAL PANEL WITH GFR=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DIAZOXIDE 50 MG/ML SUSP=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : D5W=Diluent / Flush / Irrigant
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PHENOBARBITAL 16.2 MG TAB=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : NOREPINEPHRINE 8MG/250ML NS 32 MCG/ML SOLN=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ACETAMINOPHEN 80 MG SUPP 6 EACH BLIST PACK=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : (CONTRAST) GADOFOSVESET 0.25 MMOL/ML SOLN 10 ML=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : XRAY SPONGE 10 PK=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 20800207-PF NS 0.9% 0.9 % SOLN 10 ML VIAL=Diluent / Flush / Irrigant
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : POC-LACTATE-GEM=Monitoring
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC INS NON TUNNEL CENT VENOUS CATH > 5YR=Procedure
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SODIUM-ICU (BLOOD)=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : GLUCOSE QUANTITATIVE BLOOD=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DARBEPOETIN ALFA 100 MCG/0.5ML SOSY=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CATH IV MIDLINE FKIT 20GAX8 PWRGLIDE GEN 2=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : POTASSIUM CHLORIDE SA 20 MEQ TBCR=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ANTITHROMBIN III 50 IU=Plan Benefit
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : POS AIRWAY PRESSURE CPAP=Respiratory Therapy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 77076901 - CATHETER COMBI 13FR=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 58304000 - BRONCHOSCOPY=Procedure
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : LEVEL III - SURG PATH (GROSS/MICRO)=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : BETAMETHASONE ACET & SOD PHOS 6 (3-3) MG/ML SUSP=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB SYRINGE PUMP=Capital Equipment
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : H GLUCOSE (BLOOD GAS)=Monitoring
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MIDAZOLAM HCL 10MG/2ML INJ=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : POSITIONR HD CRDL SLTTD FOAM=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 13091=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : NSS 100ML=Diluent / Flush / Irrigant
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DEXTROSE 5% SOLP 250 ML BA=Diluent / Flush / Irrigant
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SODIUM CHLORIDE 0.9 % NEBU 3 ML BLIST PACK=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB CATHETER SX CATH-N-GOLVE 8FR V=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : OXYGEN/HOUR=Respiratory Therapy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HEPATC FUNC PANEL=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PULMOZYME 2.5ML INH=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : COMPREHENSIVE METABOLIC P=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : FEEDING SUPPLEMENT (GLUCERNA SHAKE) LIQD=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 77000039 - SUTURE  2-0 NYLON 664H=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB POST-ICU TRANSPORT=Other
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : NACL 0.9% MINI BAG PLUS 100ML=Diluent / Flush / Irrigant
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SODIUM BICARB 50MEQ/50ML INJ V=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : FR FRZ PLAS 8-24 HRS EA (F=Blood Products
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SET IV ADMIN 2ND 20 GTT W/SPIN=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HYALURONIDASE 150 UNIT/ML SOLN 1 ML VIAL=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC POTASSIUM=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 87849000 - RE-EVAL NON-BILL STAT OT=PT / OT / Speech Therapy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC ACCUCHECK=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MAGNIFY 26X 34 8 DEGREE 8-=Implant
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 46515000 - RB 6E INTERMEDIATE CCU=Room and Board
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : NS 0.9 % SOLP=Diluent / Flush / Irrigant
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DEXTROSE 50 % SOLN=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : (CONTRAST) IOTHALAMATE MEG=Radiology
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : NITRIC OXIDE SUBSEQUENT DAY=Plan Benefit
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PROPOFOL 100ML VL=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ERYTHROMYCIN 0.5 % OINT 1 G PACKET=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PEDIATRIC MULTIVITAMIN SOLN=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : LACTOBACILLUS ACIDOPH-L.BULGAR 1 MILLION CELL T=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB CHEST 1 VIEW=Radiology
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DOCUSATE SODIUM 100 MG C=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC SLCTV CATHJ 3RD+ ORD SLCTV THRC/BRCH/CPHLC BRNCH=Radiology
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PROTIME=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 86404005 - CHANGING MAINT BODY POSITION=PT / OT / Speech Therapy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MYCOPHENOLATE SOD 360 MG T=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB PT NEUROMUSC RE-EDU EA 15 MIN=PT / OT / Speech Therapy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC EPS W ARRYTH=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CHEST PHYS THPY COMP SUBSQ=Respiratory Therapy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CATH FOL SRSTEP ACUTE 16FR=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB OXIMETRY  CONTINUOUS=Monitoring
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HALOPERIDOL LACTATE 5 MG/ML SOLN=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SPECIAL STAIN GROUP II (ST=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CIPROFLOXACIN HCL 0.3% DROP 5 ML DROP BTL=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : TPN ADULT INJECTION=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : TUBING PUMP PRIMARY SET DISP=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SIMVASTATIN 20MG TAB=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SODIUM WB ASSAY=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SILDENAFIL 2.5 MG/ML=Plan Benefit
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : OR GEN LEVEL 1 1ST HR=OR / Anesthesia / Recovery Room
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC BLOOD SPEC COLLECT CENT PERIP ACCESS=Nursing Services
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : IMMUNOASSAY ANALYTE QUAL/S=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 58850000 - TRANSCUTANEOUS CO2 MONITOR/DAY=Monitoring
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CABLE EPS EXT HEX BLK 150 U=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : TRAY BIOPSY DISP=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 77078719 - CATHETER DIALYS 13FR 24CM CV=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : OXIMETRY SPOT CHK ASSM=Monitoring
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : INFUS D5W 100ML INJ=Diluent / Flush / Irrigant
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : RED BLOOD CELLS - LR - IRR - CKBC=Blood Products
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : AMMONIA PLASMA=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC RADIOLOGY PORTABLE EQUIPMENT=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : BUDESONIDE 0.25 MG/2 ML NBSP 2 ML VIAL=Pharmacy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 77019552 - PROTECTOR ULNAR NERVE=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SPECIMEN PROCUREMENT  ARTERIAL RC=Nursing Services
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SET SCREWS=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC ROUTINE VENIPUNCTURE=Nursing Services
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC ANGIO FLUSH SYSTEM SUPPLY=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : POCT GLUCOSE METER=Monitoring
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC MOBILITY GOAL STATUS=PT / OT / Speech Therapy
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : BRAIN NATIURETIC PEPT=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : STERILE WATER 1000ML=Diluent / Flush / Irrigant
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MEDFUSION SYRINGE PUMP CHARGE=Capital Equipment
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ABDOMEN AP (KUB) ABDOMEN AP (KUB)=Radiology
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : BLOOD GAS POTASSIUM=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SUT SOFSILK 0 TIES 18IN X12 BLK S176=Supply
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 66065010 - HEMOGLOBINOPATHY EVALUATION=Laboratory
+11/11/2016 12:27:38 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 15735252 - RIVAROXABAN 15MG TABLET=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MAGNESIUM SULF/WATER 2G/50ML I=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SODIUM CHLORIDE 3 % SOLUTION FOR NEBULIZATION=Diluent / Flush / Irrigant
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : POTASSIUM CHLORIDE 2 MEQ/ML INTRAVENOUS SOLUTION=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 77960363 - INTRODUCER STYLT 15F=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : VANCOMYCIN 50 MG/ML SOLR 1=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SODIUM CL 0.9% IVS; NACL 0.9%=Diluent / Flush / Irrigant
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ECMO CIRCUIT CHANGE=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : KIT FEED GASTROSTOMY 14FRX1.2CM=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DRAPE IOBAN 6640EZ=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 65220000 - LOW MOLECULAR WEIGHT HEPARIN=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ROOM INTERMEDIATE=Room and Board
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HCHG POC POTASSIUM HCHG POC POTASSIUM=Monitoring
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC PHASE 1 EXERCISE=PT / OT / Speech Therapy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : C REACTIVE PROTEIN (CRP)=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : IV FILTER=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : INJECTION CAP=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : RNTL BED PLEXUS DAILY=Capital Equipment
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB CREATININE BLOOD=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HEPARIN (PORCINE) PER 1000 UNITS=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MORPHINE SULFATE 1 MG/ML I=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB CISATRACURIUM 2MG/ML 10ML VL=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PVR/DOPPLER MULT LEVE=Monitoring
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PROPOFOL 10MG INJ=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : COMP MET PNL=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : LABETALOL 5MG/ML 4ML INJ SYR=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : BOSENTEN 62.5MG TABLET=Plan Benefit
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CIPROFLOXACIN 2 MG/ML PGBK=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CIPROFLOXACIN FOR IV INFUSION 200 MG INJ=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PHYTONADIONE 1 MG/0.5ML SOLN 0.5 ML SYRINGE=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SPONGE 4X4 STERILE 2/PK=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SODIUM CHLORIDE 0.9% PARENTERAL SOLUTION 100 ML=Diluent / Flush / Irrigant
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : IV DEX 05% 250CC=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ANS MAC REGIONAL PER MINUTE=OR / Anesthesia / Recovery Room
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PEDS PT ATTEMPT (STATISTICAL)=PT / OT / Speech Therapy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PROTHROMBIN TM=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DOCUSATE SODIUM 100MG CAP=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : AMOXICILLIN-CLAVULANATE 875-125 MG TABS=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC VENIPUNCTURE COLLECTION=Nursing Services
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MICU=Room and Board
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 13508002 - MAGNESIUM OXIDE TABLET 400MG=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : US DPLER EXTREM VEIN UNILAT=Radiology
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : H EXHALED CO2 TEST CONT/DAY (AKA ETCO2)=Monitoring
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DEXMEDETOMIDINE 200 MCG/2ML 0409-1638-02=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : UNIPOLAR JSN HES SUPREME 6FR=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : URNLS DIP STICK/TABLET RGNT AUTO MIC=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 84011111 - HEMODIALYSIS EMERGENT ADULT IP=Dialysis
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HC METABOLIC PANEL TOTAL CA=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : OXYCOD10-APAP325MGTB=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SENNA 8.6MG TAB=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : OSTOMY POUCH NEWBORN/BOX=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB SPIROMETRY=Respiratory Therapy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HCHG GLUCOSE PRECISI=Monitoring
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB POC HEMATOCRIT=Monitoring
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : RETRACT-O-TAPE # 1041=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : IADNA RESPIRATRY PROBE & REV TRNSCR 12-25 TARGE=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SILDENAFIL 2.5 MG/ML LIQD=Plan Benefit
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : LAB BLOOD TYPING ABO=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 77039543 - CLIP LIG APPLIER 9 3/8IN SM=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ACETAMINOPHEN 160 MG/5ML SOLN=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB LINE-EXTENSION SET 60 INCH=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB ADDITIONAL KARYOTYPE=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB SUCCINYLCHOLINE CL 20MG/ML10ML=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB IV INFUSION PUMP=Capital Equipment
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PEDIATRIC MULTIVITAMINS-IRON DROPS=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : MANUAL THERAPY 15 MIN PT=PT / OT / Speech Therapy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SUTURE SILK 0 BRD SH=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : GAIT TRAINING 15 MIN P=PT / OT / Speech Therapy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CHEST PHYSIO SUBSEQ 0-10 M=Respiratory Therapy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DEXTROSE 10% SOLP 500 ML BAG=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : FLUCONAZOLE TABLET 200MG=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : AQUAPHOR OINT 14OZ=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB 0.9% NACL 250ML 2B1322Q INJ=Diluent / Flush / Irrigant
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : WARMING BLANKET=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 15319092 - TIOTROPIUM BROMIDE 18MCG=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DEXTROSE 5% SOLP 100 ML BAG=Diluent / Flush / Irrigant
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CAFFEINE CITRATE 10 MG/ML S=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CALCIUM CHLORIDE 20 MG/ML=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PRAVASTATIN 20 MG TABS=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : STERILE WATER TPN SOLN 1 000 ML EXTEMP=Diluent / Flush / Irrigant
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CLEANSER 4% CHG DYNA-HEX 4 OZ=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 11603152 - CARBXYMTHYLCELLLS .5%BX/30=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : DEXTROSE 5% SOLP 500 ML BA=Diluent / Flush / Irrigant
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : NASOTRACHEAL ASPIRATION / BAL=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PULSE OX MAX N=Monitoring
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PACU STAGE ONE FIRST 1/2 H=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PULSE OXIMETRY SINGLE DETERMINATE=Monitoring
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : H CONDITIONER SKIN ALOE VE=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : GRAM STAIN=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 11482022 - BUMETANIDE TABLET 1MG=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HEPLOCK 100U 1ML PFS=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PLATELET COUNT=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : ALDOSTERONE=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : FUROSEMIDE ORAL SOLN 10MG/ 1ML=Pharmacy
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PLEUR EVAC INFANT/ADULT=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : INCUBATOR SERV=Room and Board
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HCHG CBC AUTO W /AUTO DIFF=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 65208000 - PROTHROMBIN TIME=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 66002000 - URINE MICROSCOPIC=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : IMMUNE GLOBULIN (HUMAN) IV=Laboratory
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : HB ELECTRODE EKG INF PREWIRED RAD=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : PAD DISP 17*24=Supply
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : SODIUM CHLORIDE 0.9 % 0.9=Diluent / Flush / Irrigant
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : CAR SEAT 60 MIN=OR / Anesthesia / Recovery Room
+11/11/2016 12:27:39 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/learner.pyc : 13986222 - PHOS-NAK ORAL PACKET=Pharmacy
+11/11/2016 12:27:39 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Voting done.

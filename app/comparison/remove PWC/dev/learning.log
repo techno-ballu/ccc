@@ -1,0 +1,59 @@
+11/11/2016 12:31:30 AM INFO :  : main_learning.py : 00:31:30 :: Learning pipeline run started...
+
+11/11/2016 12:31:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : In manage_folders method
+11/11/2016 12:31:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : models folder is not empty, archiving models..
+11/11/2016 12:31:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : In delete Old Archives
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\runTrainPipe.pyc : manage_folders method executed.
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_UpdateCorpus.pyc : In updateCorpus method.
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_UpdateCorpus.pyc : No Changes detected from Manual review, No updates into the corpus
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\runTrainPipe.pyc : Abbreviation and spellings corpus updated. 
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\updateTables.pyc : In checkUnlearningRequest() method.
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\updateTables.pyc : In doUnlearning() method.
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\updateTables.pyc : In changeUnlearningStatus() method.
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\updateTables.pyc : In updateUnlearningHistoryTable() method.
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\runTrainPipe.pyc : Unlearning requests processed. 
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\updateTables.pyc : In updateTrainingFromManualReview() method.
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\updateTables.pyc : In fetchThresholdClaimLine() method.
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\runTrainPipe.pyc : Training data updated from manual review feedback.
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\updateTables.pyc : In clearMRTable() method.
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\updateTables.pyc : In pullTrainingData() method.
+11/11/2016 12:33:30 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\updateTables.pyc : In upsampleMinorChargeClassesinUpdateTable()
+11/11/2016 12:33:31 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\updateTables.pyc : Length after upsampling: 5010
+11/11/2016 12:33:31 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\runTrainPipe.pyc : Training data fetched from table.
+11/11/2016 12:33:31 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : Data preprocessor initialized.
+11/11/2016 12:33:31 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : Upsampling(if needed) done.
+11/11/2016 12:33:31 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : Normalizer intialized.
+11/11/2016 12:33:31 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : After init
+11/11/2016 12:33:31 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : training norm
+11/11/2016 12:33:31 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : testting norm
+11/11/2016 12:33:31 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : Basic cleaninng done. 
+11/11/2016 12:33:31 AM INFO : loading Word2Vec object from ../word2vec/wikimodel_v3_tri_10
+11/11/2016 12:33:40 AM INFO : loading syn0 from ../word2vec/wikimodel_v3_tri_10.syn0.npy with mmap=None
+11/11/2016 12:33:59 AM INFO : setting ignored attribute syn0norm to None
+11/11/2016 12:33:59 AM INFO : setting ignored attribute cum_table to None
+11/11/2016 12:33:59 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : FeatureMapper instantiated
+11/11/2016 12:36:24 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : Feature extraction done.
+11/11/2016 12:36:24 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\feature_mapper.py : In removeZeroVariance() method.
+11/11/2016 12:49:40 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : LearningEngine instantiated.
+11/11/2016 12:49:40 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\jaro_wrinkler_algo.pyc : : fit Jaro Wrinkler Classifier...
+11/11/2016 12:49:40 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\jaro_wrinkler_algo.pyc : : predict JaroWrinklerClassifier
+11/11/2016 12:49:40 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\jaro_wrinkler_algo.pyc : : __computeJaros__
+11/11/2016 12:53:49 AM INFO : Initializing neural network with 2 layers, 997 inputs and 22 outputs.
+11/11/2016 12:54:27 AM INFO : Training on dataset of 4,003 samples with 4,079,057 total size.
+11/11/2016 12:59:23 AM INFO : Terminating after specified 25 total iterations.
+11/11/2016 01:18:42 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : Classifiers trained.
+11/11/2016 01:18:42 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : checking : Jaro
+11/11/2016 01:18:42 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : checking : SVM
+11/11/2016 01:18:42 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : checking : Naive
+11/11/2016 01:18:42 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : checking : Logistic_OvR
+11/11/2016 01:18:42 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : checking : Randomforest
+11/11/2016 01:18:42 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : checking : DeepNN
+11/11/2016 01:18:42 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : checking : kNN
+11/11/2016 01:18:42 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : checking : LDA
+11/11/2016 01:18:42 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : checking : XGBoost
+11/11/2016 01:18:42 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\learner.py : In votingPredictions() : to vote 9
+11/11/2016 01:18:49 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\pipeline_train.pyc : Voting done.
+11/11/2016 01:18:50 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\updateTables.pyc : In updateTrainingMD() method.
+11/11/2016 01:18:50 AM INFO :  : T:\Abzooba Work\Abzooba Version Control\charge_class_classification\machine_learning\app\core\runTrainPipe.pyc : Training metadata updated.
+11/11/2016 01:18:50 AM INFO :  : main_learning.py : 01:18:50 :: Learning pipeline ran successfully!
+

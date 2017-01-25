@@ -1,0 +1,4 @@
+Classifiers,Jaro,Logistic_OvR,DeepNN,Voting
+Accuracy,79.925,88.045,87.293,88.722
+Precision,80.429,88.404,87.426,89.001
+Recall,79.925,88.045,87.293,88.722

@@ -1,0 +1,26 @@
+/home/abzooba/anaconda2/bin/python /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_classify_unlabelled.py
+classifiers.pickle from MODELS_FOLDER_LEARNING
+NUMBER_OF_MODELS =  14
+13:12:25
+# of test samples= 1929
+time taken in normalization inside python:
+0.025780916214
+Time taken in loading models and other binaries:
+2.66501307487
+/home/abzooba/anaconda2/lib/python2.7/site-packages/theano/tensor/signal/downsample.py:6: UserWarning: downsample module has been moved to the theano.tensor.signal.pool module.
+  "downsample module has been moved to the theano.tensor.signal.pool module.")
+[(1929, 21)]
+[(1929, 21)]
+Time taken in classification:
+1275.43637681
+Time taken in voting:
+15.3283901215
+TIme taken in confidence Calculation:
+0.00291395187378
+Time taken in feature extraction:
+2.96988391876
+13:34:01
+elapsed =  1296.51888299
+
+Process finished with exit code 0
+

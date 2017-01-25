@@ -1,0 +1,4 @@
+Classifiers,Jaro,DLevenshtein,Logistic_OvR,DeepNN,Voting
+Accuracy,80.15,82.406,87.97,86.541,90.0
+Precision,80.855,82.56,88.303,88.151,90.393
+Recall,80.15,82.406,87.97,86.541,90.0

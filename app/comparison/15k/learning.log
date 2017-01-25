@@ -1,0 +1,25 @@
+11/09/2016 02:31:50 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Data preprocessor initialized.
+11/09/2016 02:31:50 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Upsampling(if needed) done.
+11/09/2016 02:31:50 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : training size = 24869
+11/09/2016 02:31:50 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : testing size = 501
+11/09/2016 02:31:50 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : training targets min value_counts = 10
+11/09/2016 02:31:50 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : testing targets min value_counts = 1
+11/09/2016 02:31:50 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Normalizer intialized.
+11/09/2016 02:31:50 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : After init
+11/09/2016 02:31:51 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : training norm
+11/09/2016 02:31:51 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : testting norm
+11/09/2016 02:31:51 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Basic cleaninng done. 
+11/09/2016 02:31:51 PM INFO : loading Word2Vec object from ../word2vec/wikimodel_v3_tri_10
+11/09/2016 02:31:54 PM INFO : loading syn0 from ../word2vec/wikimodel_v3_tri_10.syn0.npy with mmap=None
+11/09/2016 02:31:56 PM INFO : setting ignored attribute syn0norm to None
+11/09/2016 02:31:56 PM INFO : setting ignored attribute cum_table to None
+11/09/2016 02:31:56 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : FeatureMapper instantiated
+11/09/2016 02:31:56 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/feature_mapper.pyc : In trainVectorizer() method.
+11/09/2016 02:31:56 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/feature_mapper.pyc : bow max length : 11474
+11/09/2016 02:31:56 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/feature_mapper.pyc : vocabulary length: 11474
+11/09/2016 02:31:57 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/feature_mapper.pyc : In freshExtractWord2VecFeatures() method.
+11/09/2016 02:39:21 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/feature_mapper.pyc : In freshExtractWord2VecFeatures() method.
+11/09/2016 02:39:32 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Training set shape.(24869, 11626)
+11/09/2016 02:39:32 PM DEBUG :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : test set shape.(501, 11626)
+11/09/2016 02:39:32 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py : Feature extraction done.
+11/09/2016 02:39:32 PM INFO :  : /home/abzooba/git/equian_ml_ensemble/app/core/feature_mapper.pyc : In removeZeroVariance() method.

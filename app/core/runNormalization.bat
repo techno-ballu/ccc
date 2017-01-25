@@ -1,0 +1,1 @@
+java -jar getNormalized.jar %1

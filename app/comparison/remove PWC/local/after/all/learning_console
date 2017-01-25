@@ -1,0 +1,51 @@
+/home/abzooba/anaconda2/bin/python /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py
+classifiers.pickle from MODELS_FOLDER_LEARNING
+NUMBER_OF_MODELS =  8
+13:08:36
+# of training samples= 4994
+Time taken in loading and saving training data:
+0.044264793396
+Time taken in upsampling:
+0.0096070766449
+Time taken in splitting test from training:
+0.017569065094
+Time taken in normalization inside python:
+0.0648880004883
+stop words:
+[]
+3524 long vocabulary...
+Time taken in training countVectorizer:
+0.0586791038513
+Time taken in removing zero variance:
+44.3788261414
+(4503, 859) (498, 859)
+Time taken in extracting feature vectors:
+125.130120993
+Time taken in saving Vectorizer object and delected features:
+0.148021936417
+56.0288491249
+59.9372467995
+0.048367023468
+4.60952591896
+0.583418130875
+/home/abzooba/anaconda2/lib/python2.7/site-packages/theano/tensor/signal/downsample.py:6: UserWarning: downsample module has been moved to the theano.tensor.signal.pool module.
+  "downsample module has been moved to the theano.tensor.signal.pool module.")
+[(498, 21)]
+time taken in training DeepNN:
+38.0591521263
+[(498, 21)]
+5.86516690254
+/home/abzooba/anaconda2/lib/python2.7/site-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+1.46609187126
+Time taken in training XGB:
+367.911175013
+Total time taken by TrainClassifiers:
+549.768991947
+Time taken in voting:
+4.26999092102
+13:19:58
+elapsed =  682.277225018
+
+Process finished with exit code 0
+

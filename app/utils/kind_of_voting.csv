@@ -1,0 +1,6 @@
+kind of voting,Total,Accurate,Misclassified
+all agree,982,963,19
+all disagree,37,12,25
+deepnn disagree,29,21,8
+jaro disagree,247,168,79
+logistic disagree,34,26,8

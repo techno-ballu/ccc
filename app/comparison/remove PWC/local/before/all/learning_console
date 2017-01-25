@@ -1,0 +1,51 @@
+/home/abzooba/anaconda2/bin/python /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py
+classifiers.pickle from MODELS_FOLDER_LEARNING
+NUMBER_OF_MODELS =  10
+12:13:48
+# of training samples= 4994
+Time taken in loading and saving training data:
+0.047022819519
+Time taken in upsampling:
+0.0190501213074
+Time taken in splitting test from training:
+0.0180671215057
+Time taken in normalization inside python:
+0.104062080383
+stop words:
+[]
+3524 long vocabulary...
+Time taken in training countVectorizer:
+0.0915379524231
+Time taken in removing zero variance:
+42.9583539963
+Time taken in removing PWC:
+130.810467005
+(4503, 856) (498, 856)
+Time taken in extracting feature vectors:
+252.283689976
+Time taken in saving Vectorizer object and delected features:
+0.335013151169
+56.1218659878
+59.5766720772
+0.56361079216
+4.53653097153
+0.50808596611
+/home/abzooba/anaconda2/lib/python2.7/site-packages/theano/tensor/signal/downsample.py:6: UserWarning: downsample module has been moved to the theano.tensor.signal.pool module.
+  "downsample module has been moved to the theano.tensor.signal.pool module.")
+[(498, 21)]
+time taken in training DeepNN:
+52.2280840874
+[(498, 21)]
+5.74930500984
+1.80512714386
+Time taken in training XGB:
+368.123231173
+Total time taken by TrainClassifiers:
+564.563216925
+Time taken in voting:
+4.26790809631
+12:27:39
+elapsed =  831.178907156
+
+Process finished with exit code 0
+

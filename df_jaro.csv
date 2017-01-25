@@ -1,0 +1,644 @@
+ORIG_DESC,NORM_DESC_pred,CHRG_CLS_actual,CHRG_CLS_pred,CONF_SCORE,Match_Voted
+(CONTRAST) IOHEXOL 350 MG/,contrast iohexol 350_mg/,Pharmacy,Pharmacy,0.97,1
+*COMPREHENSIVE METABOLIC PANEL,comprehensive metabolic panel,Laboratory,Laboratory,1.0,1
+*GLUCOSE METER TEST,glucose meter test,Monitoring,Monitoring,0.92,1
+*URINALYSIS AUTOMATED W/O MICRO,urinalysis automated without miscroscopic,Laboratory,Laboratory,0.85,1
+0.9% NACL 0.9% SOLN,0.9% sodium_chloride 0.9% solution,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.86,1
+0.9% SODIUM CHLORIDE 0.9 % SOLN,0.9% sodium chloride 0.9% solution,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.95,1
+0.9% SODIUM CHLORIDE 0.9 % SOLN 50 ML FLEX CONT,0.9% sodium chloride 0.9% solution 50_ml flex cont,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.85,1
+03666001 - RB 4 WEST STEP DOWN ICU,room_and_board 4 west step down intensive_care_unit,Room and Board,Room and Board,0.85,1
+06600001 - POC BS GLUCOSE 4W ICU (GS),point_of_care blood_sugar glucose 4w intensive_care_unit gast,Monitoring,Monitoring,0.87,1
+11021032 - ACETAMINOPHEN SOLN 650MG,acetaminophen solution 650_mg,Pharmacy,Pharmacy,0.88,1
+11555222 - CALCIUM GLUCONATE PER 10 ML,calcium gluconate per 10_ml,Pharmacy,Pharmacy,0.91,1
+11625262 - INJ CEFEPIME PER 500MG MB+,injection cefepime per 500_mg mb and,Pharmacy,Pharmacy,0.9,1
+12590212 - FUROSEMIDE  UP TO 20 MG  INJ,furosemide up to 20_mg injection,Pharmacy,Pharmacy,0.98,1
+12671022 - GABAPENTIN CAPSULE 300MG,gabapentin capsule 300_mg,Pharmacy,Pharmacy,0.96,1
+13294212 - LEVOFLOXACIN 750MG TAB,levofloxacin 750_mg tablet,Pharmacy,Pharmacy,0.87,1
+13735212 - MIDAZOLAM PER 1MG INJ,midazolam per 1_mg injection,Pharmacy,Pharmacy,0.87,1
+14530592 - POTASSIUM CHLORIDE  PER 2 MEQ,potassium chloride per 2_meq,Pharmacy,Pharmacy,0.98,1
+14595302 - PREDNISONE PER 5MG TAB (10MG),prednisone per 5_mg tablet 10_mg,Pharmacy,Pharmacy,0.96,1
+14630052 - POTASSIUM CHLORIDE PWD 20MEQ,potassium chloride powder 20_meq,Pharmacy,Pharmacy,0.9,1
+25 MM BONE SCREWS,25 mm bone screws,Implant,Implant,0.9,1
+27125000 - CT CHEST W/O CONTRAST,computed_tomography chest without contrast,Radiology,Radiology,0.85,1
+2D ECHO W/DOPPLER + COLOR FW,2 echocardiogram w doppler and color fw,Radiology,Cardiology,0.91,0
+46130010 - POC BS GLUCOSE 5S,point_of_care blood_sugar glucose 5s,Monitoring,Monitoring,0.86,1
+5 MG SILDENAFIL,5_mg sildenafil,Plan Benefit,Plan Benefit,0.87,1
+58836000 - RESPIRATORY ASSESSMENT FOLLOW,respiratory assessment follow,Respiratory Therapy,Respiratory Therapy,0.92,1
+58858000 - VENTILATOR-ADULT SUBSEQ DAY,ventilator adult subsequent day,Respiratory Therapy,Respiratory Therapy,0.88,1
+58872000 - PATIENT EDUCATION/15 MINUTES,patient education/15 minutes,Education / Training,Education / Training,0.92,1
+58889000 - OXYGEN PER HOUR,oxygen per hour,Respiratory Therapy,Respiratory Therapy,0.93,1
+59650000 - .9% NACL 500ML,0.9% sodium_chloride 500_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.9,1
+60615000 - GLUCOSE VL STATISTIC,glucose vial statistic,Laboratory,Laboratory,0.9,1
+62002000 - BLOOD GROUP D RH,blood group daily rhesus,Laboratory,Laboratory,0.87,1
+63018004 - PHOSPHORUS,63018004 phosphorus,Laboratory,Laboratory,0.85,1
+63527001 - BASIC METABOLIC PANEL,basic metabolic panel,Laboratory,Laboratory,0.9,1
+64768100 - ACUTE HEPATITIS PANEL,acute hepatitis panel,Laboratory,Laboratory,0.9,1
+65002003 - HEMOGLOBIN,65002003 hemoglobin,Laboratory,Laboratory,0.85,1
+66046000 - O2 SATURATION DIRECT,oxygen saturation direct,Monitoring,Monitoring,0.9,1
+69892001 - VANCOMYCIN,69892001 vancomycin,Pharmacy,Laboratory,0.85,0
+77019537 - BLNKT LWR BDY WARM,blanket lower body warm,Supply,Supply,0.88,1
+77066025 - FEE CASE CART,fee case cart,Supply,Supply,0.86,1
+77074836 - DRESSING FOAM 8X8 MEPILEX AG,dressing foam 8x8 mepilex ag,Supply,Supply,0.95,1
+86401005 - WALKING MOVING AROUND,walking moving around,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.98,1
+86452000 - OT MISSED TREATMENT LIM TIME,occupational_therapy missed treatment lim time,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.96,1
+86611002 - SELF CARE,self care,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.94,1
+86648000 - INDIVIDUAL ACTIVITY PER 15 MIN,individual activity per 15 minutes,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.92,1
+86810003 - SELF CARE,self care,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.96,1
+89315002 - VOICE GOAL 1-20%,voice goal 1 20%,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.9,1
+89319002 - SWALLOW D/C 1-20%,swallow discontinue 1 20%,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.87,1
+AB SCREEN,antibody screen,Laboratory,Laboratory,0.87,1
+ABG DRAW BY RT,arterial_blood_gas draw by respiratory_therapy,Nursing Services,Nursing Services,0.88,1
+ACETAMINOPHEN 325 MG TAB,acetaminophen 325_mg tablet,Pharmacy,Pharmacy,1.0,1
+ACETAMINOPHEN 325 MG TABLET,acetaminophen 325_mg tablet,Pharmacy,Pharmacy,0.96,1
+ACETAZOLAMIDE SODIUM 500 MG-,acetazolamide sodium 500_mg,Pharmacy,Pharmacy,0.85,1
+ALARIS PUMP IV,alaris pump intravenous,Capital Equipment,Capital Equipment,0.97,1
+ALARIS PUMP IV ARM,alaris pump intravenous arm,Capital Equipment,Capital Equipment,0.91,1
+ALBUMIN 25 % SOLP,albumin 25% solution,Pharmacy,Pharmacy,0.98,1
+ALBUMIN 5% 250ML 12.5GM IN,albumin 5% 250_ml 12.5_gm inhibition,Pharmacy,Pharmacy,0.97,1
+ALBUMIN HUMAN 5% 500 ML IV,albumin human 5% 500_ml intravenous,Pharmacy,Pharmacy,0.97,1
+ALBUMIN HUMAN 5% SOLN,albumin human 5% solution,Pharmacy,Pharmacy,0.98,1
+ALBUMIN SERUM PLASMA/WHOLE,albumin serum plasma/whole,Laboratory,Laboratory,0.94,1
+ALBUTEROL 2.5 MG/0.5 ML,albuterol 2.5_mg/0.5_ml,Pharmacy,Pharmacy,0.85,1
+ALBUTEROL INH (2.5 MG/3ML),albuterol inhaled 2.5_mg/3_ml,Pharmacy,Pharmacy,0.96,1
+ALTEPLASE CATHFLO.1 MG-2MG INJ,alteplase cathflo.1_mg 2_mg injection,Pharmacy,Pharmacy,0.86,1
+AMINOCAPROIC ACID 5GM/20ML INJ,aminocaproic acid 5_gm/20_ml injection,Pharmacy,Pharmacy,0.88,1
+AMYLASE,amylase,Laboratory,Laboratory,0.93,1
+ANCHOR/SCRW LEVEL 4,anchor/scrw level 4,Implant,Implant,0.96,1
+ANES ANALYS FASTING BLOOD,anesthesia analysis fasting blood,Laboratory,Laboratory,0.87,1
+ANES ANALYSIS CALCIUM,anesthesia analysis calcium,Laboratory,Laboratory,0.85,1
+ANES LV 3 EA ADD MIN,anesthesia lv 3 each additional minutes,OR / Anesthesia / Recovery Room,OR / Anesthesia / Recovery Room,0.85,1
+ANESTH PER MINUTE,anesthesia per minute,OR / Anesthesia / Recovery Room,OR / Anesthesia / Recovery Room,0.89,1
+ANESTHESIA EA MIN,anesthesia each minutes,OR / Anesthesia / Recovery Room,OR / Anesthesia / Recovery Room,0.89,1
+ANESTHESIA LEVEL 1,anesthesia level 1,OR / Anesthesia / Recovery Room,OR / Anesthesia / Recovery Room,0.96,1
+ANESTHESIA PER 30MIN > 90MIN HCHG ANESTHESIA PER 30MIN > 90MIN,anesthesia per 30min greater_than 90min minutes anesthesia per 30min greater_than 90min,OR / Anesthesia / Recovery Room,OR / Anesthesia / Recovery Room,0.92,1
+AQUAPHOR OINTMENT 14OZ 1 TUB E,aquaphor ointment 14oz 1 tube e,Supply,Supply,0.88,1
+ARTERIAL PUNCTURE WITH KIT,arterial puncture w kit,Supply,Nursing Services,0.9,0
+ASPIRIN 81 MG CHEW TAB,aspirin 81_mg chew tablet,Pharmacy,Pharmacy,0.96,1
+ASSAY OF CALCIUM IONIZED,assay of calcium ionized,Laboratory,Laboratory,0.89,1
+ASSAY OF SERUM SODIUM,assay of serum sodium,Laboratory,Laboratory,0.9,1
+ATORVASTATIN 40MG TABLET,atorvastatin 40_mg tablet,Pharmacy,Pharmacy,0.86,1
+B COMPLEX-VITAMIN C-FOLI,b complex vitamin cap folic,Pharmacy,Pharmacy,1.0,1
+B COMPLEX-VITAMIN C-FOLIC ACID 0.8 MG TAB,b complex vitamin cap folic acid 0.8_mg tablet,Pharmacy,Pharmacy,0.87,1
+BACITRACIN 50 000 UNIT SOLR 1 EACH VIAL,bacitracin 50 000_units solution 1 each vial,Pharmacy,Pharmacy,0.85,1
+BARRIER EAKIN LG 839001,barrier eakin large 839001,Supply,Supply,0.9,1
+BEDSIDE GLUCOSE,bedside glucose,Monitoring,Monitoring,0.89,1
+BILIRUBIN DIR,bilirubin direct,Laboratory,Laboratory,0.93,1
+BLD TYPING RH D,blood typing rhesus daily,Laboratory,Laboratory,0.95,1
+BLD# COMPL AUTO HHRWP&AUTO DIFFIAL,blood complete automated hhrwp_and_automated differential,Laboratory,Laboratory,0.92,1
+BLOOD ADMINISTRATION (,blood administration,Nursing Services,Nursing Services,1.0,1
+BLOOD ADMINISTRATION SET,blood administration set,Supply,Nursing Services,0.95,0
+BLOOD CULTURE AEROBIC,blood culture aerobic,Laboratory,Laboratory,0.85,1
+BLOOD GAS SAMPLING ARTERIAL,blood gas sampling arterial,Nursing Services,Nursing Services,0.85,1
+BLOOD GAS W CALC 02 SAT,blood gas with calc 2 saturation,Laboratory,Laboratory,0.86,1
+BLOOD GASES POC,blood gases point_of_care,Monitoring,Laboratory,0.85,0
+BLOOD GASES W O2 SATURATION,blood gases with oxygen saturation,Laboratory,Laboratory,0.99,1
+BOSENTAN 62.5 MG TABLET,bosentan 62.5_mg tablet,Plan Benefit,Plan Benefit,0.97,1
+BOSETAN TAB 62.5MG,bosentan tablet 62.5_mg,Plan Benefit,Plan Benefit,0.86,1
+BUDESONIDE 0.25 MG/2 ML NBSP 2 ML,budesonide 0.25_mg/2_ml nbsp 2_ml,Pharmacy,Pharmacy,0.96,1
+BUFFERED LIDOCAINE 1 % SYRG 0.2 ML SYRINGE,buffered lidocaine 1% syringe 0.2_ml syringe,Pharmacy,Pharmacy,0.88,1
+BUMETANIDE 0.25 MG/ML VI,bumetanide 0.25_mg/ml vi_0523,Pharmacy,Pharmacy,0.91,1
+BUPROPION 75 MG TAB,bupropion 75_mg tablet,Pharmacy,Pharmacy,0.88,1
+C - REACTIVE PROTEIN,reactive protein,Laboratory,Laboratory,0.98,1
+C REACTIVE PROTEIN SE,reactive protein set,Laboratory,Laboratory,0.94,1
+C-REACTIVE PROTEIN,reactive protein,Laboratory,Laboratory,0.98,1
+CALCIUM GLUCONATE 100 MG/M,calcium gluconate 100_mg/m,Pharmacy,Pharmacy,0.94,1
+CALCIUM ION,calcium ionized,Laboratory,Laboratory,0.92,1
+CALCIUM TOT,calcium total,Laboratory,Laboratory,0.87,1
+CALCIUM TOTAL,calcium total,Laboratory,Laboratory,0.92,1
+CARVEDILOL TABLET 6.25MG,carvedilol tablet 6.25_mg,Pharmacy,Pharmacy,0.97,1
+CATH ART EMBL SGL 3FRX80CM 1801-38,catheter arteries embl single 3frx80cm 1801 38,Supply,Supply,0.95,1
+CATH IV INTRCN SFTY 18GAX1.25I,catheter intravenous intrcn sfty 18gax1.25i,Supply,Supply,0.93,1
+CATH IV MIDLINE BKIT 20GAX10 PWRGLIDE GEN 2,catheter intravenous midline bkit 20gax10 pwrglide general 2,Supply,Supply,0.95,1
+CBC W AUTO DIFF,complete_blood_count with automated difficile_clostridium,Laboratory,Laboratory,1.0,1
+CBC WITH DIFERENTIAL,complete_blood_count w differential,Laboratory,Laboratory,0.9,1
+CC RM TIME LV2 EA ADD,cubic_centimeters room time lv2 each additional,OR / Anesthesia / Recovery Room,OR / Anesthesia / Recovery Room,0.85,1
+CEFAZOLIN 100 MG/ML SOLR 1 EACH VIAL,cefazolin 100_mg/ml solution 1 each vial,Pharmacy,Pharmacy,0.9,1
+CEFAZOLIN 500MG/5ML INJ,cefazolin 500_mg/5_ml injection,Pharmacy,Pharmacy,0.94,1
+CEFTAZIDIME 2 G SOLR 1 EACH VIAL,ceftazidime 2 gram solution 1 each vial,Pharmacy,Pharmacy,0.93,1
+CEFTAZIDIME 200 MG/ML SOLR,ceftazidime 200_mg/ml solution,Pharmacy,Pharmacy,0.91,1
+CEFTRIAXONE 10 GRAM SOLR 1 EACH VIAL,ceftriaxone 10 gram solution 1 each vial,Pharmacy,Pharmacy,0.9,1
+CHEST SINGLE VIEW,chest single view,Radiology,Radiology,0.87,1
+CHLORHEXIDINE 0.12% MWSH,chlorhexidine 0.12% mouthwash,Supply,Pharmacy,1.0,0
+CHLORHEXIDINE ORAL RINSE 15ML,chlorhexidine oral rinse 15,Pharmacy,Pharmacy,0.92,1
+CHLORIDE  URINE,chloride urine,Laboratory,Laboratory,0.87,1
+CHLOROTHIAZIDE 25MG/ML (1ML) PO,chlorothiazide 25_mg/ml 1_ml by_mouth,Pharmacy,Pharmacy,0.91,1
+CHLOROTHIAZIDE SUSP 50MG/1ML,chlorothiazide suspension 50_mg/1_ml,Pharmacy,Pharmacy,0.86,1
+CHOLECALCIFEROL 1000 UNI,cholecalciferol 1000_units,Pharmacy,Pharmacy,0.93,1
+CIPROFLOXACIN 500 MG ORAL TAB,ciprofloxacin 500_mg oral tablet,Pharmacy,Pharmacy,0.87,1
+CISATRACURIUM 2 MG/ML SOLN 5 ML VIAL,cisatracurium 2_mg/ml solution 5_ml vial,Pharmacy,Pharmacy,0.97,1
+CLINDAMYCIN 150 MG/ML SOLN 4 ML VIAL,clindamycin 150_mg/ml solution 4_ml vial,Pharmacy,Pharmacy,0.92,1
+CLOSTRIDIUM DIFFICILE BY RT PCR,clostridium difficile by respiratory_therapy pcr,Laboratory,Laboratory,0.85,1
+COIL DETACHABLE SOFT TARGET 360 5X15,coil detachable soft target 360 5x15,Implant,Implant,0.87,1
+COIL DETACHABLE ULTRA TARGET 360 5X10,coil detachable ultra target 360 5x10,Implant,Implant,0.98,1
+COLLECTION: VENOUS DRAW,collection venous draw,Nursing Services,Nursing Services,1.0,1
+COMPREHENSIVE ED VST,comprehensive emergency_department vest,Other,Laboratory,0.89,0
+COMPREHENSIVE MET,comprehensive metabolic,Laboratory,Laboratory,0.92,1
+COMPRESSED AIR - M/S,compressed air m/s,Respiratory Therapy,Respiratory Therapy,0.88,1
+CONNECTOR MICROCLAVE CLR,connector microclave clear,Supply,Supply,0.9,1
+CONT OXIMETRY MONITORING,cont oximetry monitoring,Monitoring,Monitoring,0.91,1
+CREATININE BLOOD,creatinine blood,Laboratory,Laboratory,1.0,1
+CT ABD AND PELVIS W CONT,computed_tomography abdomen and pelvis with cont,Radiology,Radiology,0.85,1
+CUFF BP ADLT SM SOFT 1 TUBE,cuff bp adult small soft 1 tube,Supply,Supply,0.85,1
+CUL BACT QUAN COLONY CNT URINE,culture bacteria quantitative colony count_urine urine,Laboratory,Laboratory,0.95,1
+CULTURE BRONCHIAL,culture bronchial,Laboratory,Laboratory,0.89,1
+CULTURE TYPING ID BY NUC ACID EACH,culture typing id by nucleic_acid acid each,Laboratory,Laboratory,0.92,1
+CULTURE URINE COL COUNT,culture urine coil count,Laboratory,Laboratory,0.87,1
+CYTOMEGALOVIRUS AB CMV IGG,cytomegalovirus antibody cytomegalovirus immunoglobulin,Laboratory,Laboratory,0.97,1
+D-DIMER  QUANT,daily dimer quantitative,Laboratory,Laboratory,1.0,1
+D5W 1000ML,dextrose_5%_in_water 1000_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.9,1
+D5W 250ML INJ,dextrose_5%_in_water 250_ml injection,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.91,1
+D5W 50ML IVF,dextrose_5%_in_water 50_ml intravenous_fluid,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.9,1
+D5W/0.45%NACL 1000ML,dextrose_5%_in_water/0.45%nacl 1000_ml,Diluent / Flush / Irrigant,Pharmacy,0.95,0
+DEXMEDETOMIDINE 100 MCG/ML SOLN 2 ML VIAL,dexmedetomidine 100 mcg/ml solution 2_ml vial,Pharmacy,Pharmacy,0.91,1
+DEXTROSE 10% SOLP,dextrose 10% solution,Pharmacy,Diluent / Flush / Irrigant,0.96,0
+DEXTROSE 10% SOLP 1 000 ML,dextrose 10% solution 1 000_ml,Pharmacy,Pharmacy,0.94,1
+DEXTROSE 5 % AND 0.45% NACL 5-0.45 % SOLN,dextrose 5% and 0.45% sodium_chloride 5 0.45% solution,Pharmacy,Pharmacy,0.86,1
+DEXTROSE 5 % AND 0.9% NACL 5-0.9 % SOLN,dextrose 5% and 0.9% sodium_chloride 5 0.9% solution,Diluent / Flush / Irrigant,Pharmacy,0.87,0
+DEXTROSE 5 % SOLN,dextrose 5% solution,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,1.0,1
+DEXTROSE 5% AND 0.45% NACL,dextrose 5% and 0.45% sodium_chloride,Pharmacy,Pharmacy,0.95,1
+DEXTROSE 5% AND 0.9% NACL,dextrose 5% and 0.9% sodium_chloride,Pharmacy,Pharmacy,0.97,1
+DEXTROSE 5% IN,dextrose 5% in,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.97,1
+DEXTROSE 5% IN WATER 50ML,dextrose 5% in water 50_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.98,1
+DEXTROSE 5% SOLP 1 000 ML,dextrose 5% solution 1 000_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.96,1
+DEXTROSE 50% SOLN,dextrose 50% solution,Pharmacy,Pharmacy,1.0,1
+DIAZEPAM 5 MG/5 ML SOLN,diazepam 5_mg/5_ml solution,Pharmacy,Pharmacy,0.98,1
+DIAZEPAM 5 MG/ML SOLN 10 ML VIAL,diazepam 5_mg/ml solution 10_ml vial,Pharmacy,Pharmacy,0.91,1
+DISP: 0.200 ML; 4 MG/ML; USED NDC QTY: 4.000 PCK OF 30.000 ML VIAL DEXAMETHASONE 1 MG INJECTION DEXAMETHASONE 4 MG/ML INJECTION SOLUTION,dispensed_1_5% 0.200_ml 4_mg/ml used ndc quantity 4 pack of 30.000_ml vial dexamethasone 1_mg injection dexamethasone 4_mg/ml injection solution,Pharmacy,Pharmacy,0.98,1
+DISP: 2.000 ML; 2.5 %; USED NDC QTY: 1.000 PCK OF 2.000 ML DROP BTL PHENYLEPHRINE 2.5 % EYE DROPS,dispensed_1_5% 2.000_ml 2.5% used ndc quantity 1 pack of 2.000_ml drop btl phenylephrine 2.5% eye drops,Pharmacy,Pharmacy,0.88,1
+DISP: 5.000 ML; 4 MG/ML; USED NDC QTY: 20.000 PCK OF 5.000 ML VIAL DEXAMETHASONE 1 MG INJECTION DEXAMETHASONE 4 MG/ML INJECTION SOLUTION,dispensed_1_5% 5.000_ml 4_mg/ml used ndc quantity 20 pack of 5.000_ml vial dexamethasone 1_mg injection dexamethasone 4_mg/ml injection solution,Pharmacy,Pharmacy,0.96,1
+DOCUSATE 100 MG CAP,docusate 100_mg capillary,Pharmacy,Pharmacy,1.0,1
+DOCUSATE 50MG/CAP UD,docusate 50_mg/capillary ud,Pharmacy,Pharmacy,0.88,1
+DOPPLER SPECTRAL COMPLETE,doppler spectral complete,Cardiology,Cardiology,0.86,1
+DORNASE ALFA 1 MG/ML SOLN[12211],dornase alpha 1_mg/ml solution 12211,Plan Benefit,Plan Benefit,0.94,1
+DORNASE ALPHA I,dornase alpha i,Plan Benefit,Plan Benefit,0.97,1
+DRAPE IOBAN 6651EZ,drape ioban 6651ez,Supply,Supply,0.92,1
+DRILL BIT/BLADE LVL3,drill bit/blade lvl3,Supply,Supply,0.96,1
+DRSG GZE PETRO XERO 4INX3YD,dressing gauze petrolium xero 4inx3yd,Supply,Supply,0.86,1
+ECG 12 LEAD,electrocardiogram 12 lead,Cardiology,Cardiology,0.87,1
+ECHO TRANSTHORACI,echocardiogram transthoracic,Cardiology,Cardiology,0.92,1
+EKG 12 - LEAD - ALL LOYOLA L,electrocardiogram 12 lead alle loyola liter,Cardiology,Cardiology,1.0,1
+ELECTRODE ECG FOAM  INF.,electrode electrocardiogram foam infusion,Supply,Supply,0.87,1
+ENOXAPARIN 300 MG/3 ML SOL,enoxaparin 300_mg/3_ml solution,Pharmacy,Pharmacy,0.88,1
+ENOXAPARIN 40 MG INJ,enoxaparin 40_mg injection,Pharmacy,Pharmacy,0.96,1
+EPHEDRINE 10ML INJ PRE-FILLED,ephedrine 10_ml injection pre filled,Pharmacy,Pharmacy,0.85,1
+EPINEPHRINE 1:1 000 1 MG (,epinephrine 1 1 0 1_mg,Pharmacy,Pharmacy,0.93,1
+EQ PUMP  SYRINGE,equipment pump syringe,Capital Equipment,Capital Equipment,1.0,1
+ESOMEPRAZOLE 40MG PWD PKT ORAL,esomeprazole 40_mg powder packet oral,Pharmacy,Pharmacy,0.86,1
+ETOMIDATE 2 MG/ML SOLN,etomidate 2_mg/ml solution,Pharmacy,Pharmacy,0.85,1
+EVALUATION IV PT,evaluation intravenous physical_therapy,Nursing Services,PT / OT / Speech Therapy,0.95,0
+EXTENSION SET ENTERAL 60 INCH,extension set enteral 60 inches,Supply,Supply,0.95,1
+EXTENSIVE GAS DELIVERY INITIAL,extensive gas delivery initial,Plan Benefit,Plan Benefit,0.91,1
+FACTOR VIIA  1 MCG,factor viia 1 mcg_gram_aerosol,Plan Benefit,Plan Benefit,0.94,1
+FAMOTIDINE 10 MG/ML SOLN,famotidine 10_mg/ml solution,Pharmacy,Pharmacy,0.88,1
+FAMOTIDINE 20 MG/2 ML INJ,famotidine 20_mg/2_ml injection,Pharmacy,Pharmacy,0.95,1
+FAT EMULSION 20 % EMUL 50 ML SYRINGE,fat emulsion 20% emulsion 50_ml syringe,Pharmacy,Pharmacy,0.89,1
+FAT EMULSION 20% EMUL 500,fat emulsion 20% emulsion 500,Pharmacy,Pharmacy,0.97,1
+FAT EMULSION 20% EMUL 500 ML BAG,fat emulsion 20% emulsion 500_ml bag,Pharmacy,Pharmacy,0.97,1
+FENTANYL 0.05 MG/ML SOLN 2 ML VIAL,fentanyl 0.05_mg/ml solution 2_ml vial,Pharmacy,Pharmacy,0.95,1
+FENTANYL 100 MCG/2ML SOLN,fentanyl 100 mcg/2_ml solution,Pharmacy,Pharmacy,0.94,1
+FENTANYL 1:10 5 MCG/ML SOL,fentanyl 1 10 5 mcg/ml solution,Pharmacy,Pharmacy,0.93,1
+FENTANYL 50MCG/ML 5ML,fentanyl 50_mcg/ml 5_ml,Pharmacy,Pharmacy,0.91,1
+FENTANYL CITRATE 0.1 MG,fentanyl citrate 0.1_mg,Pharmacy,Pharmacy,0.96,1
+FENTANYL CITRATE 0.1 MG INJ,fentanyl citrate 0.1_mg injection,Pharmacy,Pharmacy,0.93,1
+FENTANYL CITRATE 0.1MG INJ,fentanyl citrate 0.1_mg injection,Pharmacy,Pharmacy,0.93,1
+FERROUS SULFATE 325 MG (65 MG IRON) TABLET,ferrous sulfate 325_mg 65_mg iron tablet,Pharmacy,Pharmacy,0.87,1
+FERROUS SULFATE OS,ferrous sulfate mouth,Pharmacy,Pharmacy,0.87,1
+FIBRINOGEN,fibrinogen,Laboratory,Laboratory,0.89,1
+FLUCONAZOLE 2 MG/ML PGBK,fluconazole 2_mg/ml pgbk,Pharmacy,Pharmacy,0.87,1
+FLUCONAZOLE 400-0.9 MG/200ML-% SOLN,fluconazole 400 0.9_mg/200_ml % solution,Pharmacy,Pharmacy,0.94,1
+FOLIC ACID 1 MG TABS,folic acid 1_mg tablets,Pharmacy,Pharmacy,0.86,1
+FORMULA: ELECARE 24 KCAL/O,formula elecare 24 kcal/o_r,Supply,Supply,0.97,1
+FORMULA: ELECARE JR 30 KCA,formula elecare jr 30 kca,Supply,Supply,0.92,1
+FORMULA: PEDIASURE PEPTIDE,formula pediasure peptide,Supply,Supply,0.87,1
+FUNCT THER ACTIV 15 MIN OT,function therapist activase 15 minutes occupational_therapy,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.97,1
+FUROSEMIDE 80 MG TABS,furosemide 80_mg tablets,Pharmacy,Pharmacy,0.96,1
+FUROSEMIDE INJ 40MG 4ML,furosemide injection 40_mg 4_ml,Pharmacy,Pharmacy,0.85,1
+FUROSEMIDE UP TO 20 MG,furosemide up to 20_mg,Pharmacy,Pharmacy,0.91,1
+GABAPENTIN 300 MG CAPSULE,gabapentin 300_mg capsule,Pharmacy,Pharmacy,0.91,1
+GABAPENTIN 300 MG ORAL CAP,gabapentin 300_mg oral capillary,Pharmacy,Pharmacy,0.89,1
+GAIT TRAINING 5 MIN,gait training 5 minutes,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.96,1
+GAIT TRAINING EA 15 MIN,gait training each 15 minutes,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.95,1
+GAIT TRAINING-15 MIN,gait training 15 minutes,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.98,1
+GAMMAGLOBULIN IGA IGD IGG,gammaglobulin iga igd immunoglobulin,Laboratory,Laboratory,0.91,1
+GASES  BLOOD  ARTERIAL (AB,gases blood arterial antibody,Laboratory,Monitoring,0.86,0
+GEM GLUCOSE,glucagon_emergency_management glucose,Monitoring,Laboratory,0.9,0
+GEM IONIZED CALCIUM,glucagon_emergency_management ionized calcium,Monitoring,Laboratory,0.87,0
+GENTAMICIN 40 MG/ML SOLN 20 ML VIAL,gentamicin 40_mg/ml solution 20_ml vial,Pharmacy,Pharmacy,0.91,1
+GLUC BLOOD TEST BY,glucose blood test by,Monitoring,Monitoring,0.85,1
+GLUCOMETER-POC,glucometer point_of_care,Monitoring,Monitoring,0.86,1
+GLUCOSE  BEDSIDE,glucose bedside,Monitoring,Monitoring,1.0,1
+GLUCOSE  BLOOD BY GMD,glucose blood by glucose_monitioring_device,Monitoring,Monitoring,1.0,1
+GLUCOSE (ACCUCHECK),glucose accucheck,Monitoring,Monitoring,0.9,1
+GLUCOSE BLD,glucose blood,Laboratory,Monitoring,0.94,0
+GLUCOSE BLD BY MONITOR DEVICE,glucose blood by monitor device,Monitoring,Monitoring,1.0,1
+GLUCOSE BLOOD (STICK TEST),glucose blood stick test,Monitoring,Laboratory,0.88,0
+GLUCOSE BLOOD TEST - EYER,glucose blood test eyer,Laboratory,Laboratory,0.93,1
+GLUCOSE METER F,glucose meter male_female,Monitoring,Monitoring,0.97,1
+GLUCOSE NEAR PATIENT TEST,glucose near patient test,Monitoring,Monitoring,0.98,1
+GLUCOSE POINT OF CARE.,glucose point of care,Monitoring,Monitoring,0.98,1
+GLUCOSE QUAN BLOOD NOT REAGNT,glucose quantitative blood not reagent,Laboratory,Laboratory,0.88,1
+GLUCOSE QUANT,glucose quantitative,Laboratory,Laboratory,0.94,1
+GLUCOSE QUANTITATIVE BLOOD (EXCEPT,glucose quantitative blood except,Laboratory,Laboratory,0.93,1
+GLYCERIN PEDIATRIC 1.2 G SUPP,glycerin pediatric 1.2 gram suppository,Supply,Supply,1.0,1
+GLYCOPYRROLATE 2 MG TAB,glycopyrrolate 2_mg tablet,Pharmacy,Pharmacy,0.85,1
+GUAIFENESIN 20MG/ML 10ML,guaifenesin 20_mg/ml 10_ml,Pharmacy,Pharmacy,0.85,1
+H CONDITIONER SKIN ALOE VESTA 4 OZ,conditioner skin aloe vesta 4 ounce,Supply,Supply,0.93,1
+H RT OXYGEN PER DAY,respiratory_therapy oxygen per day,Respiratory Therapy,Respiratory Therapy,0.93,1
+HAEMOPHILUS B CONJUGATE VA,haemophilus b conjugate vaccine,Pharmacy,Pharmacy,0.86,1
+HB ANES MATERIALS ADD'L 15 MIN,anesthesia materials additional 15 minutes,OR / Anesthesia / Recovery Room,OR / Anesthesia / Recovery Room,0.9,1
+HB BAG DRAIN BECKER 700ML CSF EXT,bag drain becker 700_ml cerebrospinal_fluid extension,Supply,Supply,0.89,1
+HB BASIC METABOLIC PANEL,basic metabolic panel,Laboratory,Laboratory,0.93,1
+HB BLOOD GASES,blood gases,Laboratory,Laboratory,0.91,1
+HB CNSLT SURGERY W/ FRZN SECT,cnslt surgery w frzn sect,Laboratory,Professional Fee,0.94,0
+HB DEXAMETRASONE NA P04 INJ 4MG/M,dexametrasone sodium p04 injection 4_mg/m,Pharmacy,Pharmacy,0.98,1
+HB DIPHENHYDRAMINE HCL 50MG/ML 1M,diphenhydramine hcl 50_mg/ml 1m,Pharmacy,Pharmacy,0.89,1
+HB DRESSING TRNS TGDRM L4.75INXW4,dressing transparent tegaderm l4.75inxw4,Supply,Supply,0.95,1
+HB GENTAMICIN 40MG/ML VIAL,gentamicin 40_mg/ml vial,Pharmacy,Pharmacy,0.88,1
+HB GLYCERIN (PEDIATRIC) 1.2 GM RE SUPP,glycerin pediatric 1.2_gm re suppository,Supply,Supply,0.94,1
+HB GRAM STAIN,gram stain,Laboratory,Laboratory,0.94,1
+HB HYDROXYZTNE HCL 25MG TAB UD U,hydroxyztne hcl 25_mg tablet ud up,Pharmacy,Pharmacy,0.91,1
+HB INTRODUCER PICC 3 FR 20GA SAFETY,introducer peripherally_inserted_central_catheter 3 free 20ga safety,Supply,Supply,0.89,1
+HB IONIZED CALCIUM,ionized calcium,Laboratory,Laboratory,0.96,1
+HB LACTATED RINGERS SOL 1000ML A,lactated ringers solution 1000_ml a,Pharmacy,Pharmacy,0.95,1
+HB MRI L-SPINE W/ CONTRAST,magnetic_resonance_imagery liter spine w contrast,Radiology,Radiology,0.97,1
+HB NITRIC OXIDE THERAPY,nitric oxide therapy,Plan Benefit,Plan Benefit,0.88,1
+HB OCCUPATIONAL THERAPY EV,occupational therapy ev,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.94,1
+HB OT THERAPEUTIC ACTV EA 15 MIN,occupational_therapy therapeutic actv each 15 minutes,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.93,1
+HB OXIMETRY,oximetry,Monitoring,Monitoring,0.93,1
+HB OXYCODONE 5MG/5ML CUP,oxycodone 5_mg/5_ml cup,Pharmacy,Pharmacy,0.85,1
+HB PACU 1ST 15 MIN,pacu 1st 15 minutes,OR / Anesthesia / Recovery Room,OR / Anesthesia / Recovery Room,0.86,1
+HB PHENOBARBITAL 20MG/5ML ELIXIR,phenobarbital 20_mg/5_ml elixir,Pharmacy,Pharmacy,0.86,1
+HB ROOM RATE ICU,room rate intensive_care_unit,Room and Board,Room and Board,0.92,1
+HB SILDENAFIL 2.5 MG/ML ORAL SUSP,sildenafil 2.5_mg/ml oral suspension,Plan Benefit,Plan Benefit,0.99,1
+HB SODIUM WHOLE BLOOD,sodium whole blood,Laboratory,Laboratory,0.95,1
+HB STERILE WATER FOR INJ 1L,sterile water for injection 1l,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.91,1
+HB SUTURE ABSRB VCL 4.0 L18IN BRD,suture absorb vicryl 4 l18 inches bard,Supply,Supply,0.87,1
+HB TUBING SX MDVC L6FT OD6MM NONC,tubing suction mdvc l6ft od6mm nonc,Supply,Supply,0.96,1
+HB VANCOMYCIN 5GM VIAL LEDERLE,vancomycin 5_gm vial lederle,Pharmacy,Laboratory,0.86,0
+HB WALL SUCTION UNITS,wall suction unit,Supply,Supply,0.98,1
+HB-GLUCOSE  POC,glucose point_of_care,Monitoring,Monitoring,0.94,1
+HBC SYRINGE PUMP S/P,hbc syringe pump specification,Capital Equipment,Capital Equipment,0.94,1
+HC CALCIUM  IONIZED  WB,calcium ionized whole_blood,Laboratory,Laboratory,0.96,1
+HC CBC AUTO WO DIFF,complete_blood_count automated without difficile_clostridium,Laboratory,Laboratory,0.93,1
+HC CCU ROOM - STEP DOWN,critical_care_unit room step down,Room and Board,Room and Board,0.85,1
+HC CHEST 1 VIEW PA OR AP ONLY,chest 1 view posterior_anterior operation_room anterior_posterior only,Radiology,Radiology,0.85,1
+HC CO2 EXPIRED GAS DETRMN INFRARD,carbon_dioxide expired gas determination infrared,Monitoring,Monitoring,0.85,1
+HC COMPREHENSIVE METABOLIC,comprehensive metabolic,Laboratory,Laboratory,0.94,1
+HC COMPREHENSIVE PANEL,comprehensive panel,Laboratory,Laboratory,0.86,1
+HC CULTURE BLOOD,culture blood,Laboratory,Laboratory,0.95,1
+HC CULTURE WOUND,culture wound,Laboratory,Laboratory,0.86,1
+HC DEBRIDEMENT OPEN WND FIRST 20 SQCM,debridement open wound first 20 sqcm,Nursing Services,Nursing Services,0.87,1
+HC GLUCOSE  POC,glucose point_of_care,Monitoring,Monitoring,1.0,1
+HC GLUCOSE BLD QUANT,glucose blood quantitative,Laboratory,Laboratory,0.92,1
+HC GLUCOSE BLOOD TEST,glucose blood test,Laboratory,Laboratory,0.92,1
+HC GLUCOSE POINT OF CARE,glucose point of care,Monitoring,Monitoring,0.87,1
+HC GLUCOSE QT BY METER FOR,glucose quantitative by meter for,Monitoring,Monitoring,1.0,1
+HC GLUCOSE QUANTATIVE BLOOD,glucose quantitative blood,Laboratory,Laboratory,0.9,1
+HC GUIDEWIRE PTCA,guidewire ptca,Supply,Supply,0.87,1
+HC HEMATOCRIT POC,hematocrit point_of_care,Monitoring,Laboratory,0.93,0
+HC INHALATION TX HHN MDI IPPB 1 VISIT PER DAY,inhalation treatment high multi-dose_inhaler intermittent_positive_pressure_breathing 1 visit per day,Respiratory Therapy,Respiratory Therapy,0.96,1
+HC IV INF THER ADD HR,intravenous infusion therapist additional hour,Nursing Services,Nursing Services,0.91,1
+HC KIT ARTERIAL BLOOD GAS,kit arterial blood gas,Supply,Monitoring,0.9,0
+HC LIPASE,lipase,Laboratory,Laboratory,0.93,1
+HC NITRIC OXIDE USE HOURLY,nitric oxide use hourly,Plan Benefit,Plan Benefit,0.94,1
+HC PACU CLASS 2 NPR 1:1,pacu class 2 npr 1 1,OR / Anesthesia / Recovery Room,OR / Anesthesia / Recovery Room,0.96,1
+HC POTASSIUM  POC,potassium point_of_care,Monitoring,Monitoring,0.95,1
+HC POTASSIUM  SERUM,potassium serum,Laboratory,Laboratory,0.96,1
+HC POTASSIUM SERUM PLASMA WB,potassium serum plasma whole_blood,Laboratory,Laboratory,0.92,1
+HC PROTHROMBIN TIME,prothrombin time,Laboratory,Laboratory,0.96,1
+HC ROOM CHARGE NICU 174,room charge neonatal_intensive_care_unit 174,Room and Board,Room and Board,0.85,1
+HC ROOM CHRG INTERMEDIAT,room charge intermediate,Room and Board,Room and Board,0.85,1
+HC RT SUPPLIES LEVEL 1,respiratory_therapy supplies level 1,Supply,Supply,0.96,1
+HC SELF-CARE D/C STATUS,self care discontinue status,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.86,1
+HC SODIUM SERUM/PLASMA/WHOLE BLD,sodium serum/plasma/whole blood,Laboratory,Laboratory,0.95,1
+HC T4 FREE,t4 free,Laboratory,Laboratory,0.92,1
+HC THER PROPH/DX NJX EA SEQL IV PUSH SBST/DRUG,therapist prophylactic/diagnostic injection each sequential intravenous push subsequent/drug,Nursing Services,Nursing Services,0.98,1
+HC URINALYSIS AUTO WO MICRO,urinalysis automated without miscroscopic,Laboratory,Laboratory,0.96,1
+HC URINALYSIS AUTOMATED WITH MICRO,urinalysis automated w miscroscopic,Laboratory,Laboratory,0.9,1
+HC VENIPUNCTURE,venipuncture,Nursing Services,Nursing Services,0.95,1
+HC XR CHEST 1 VIEW,x_ray chest 1 view,Radiology,Radiology,0.95,1
+HC-LAB-CHLORIDE SERUM,laboratory chloride serum,Laboratory,Laboratory,0.88,1
+HC-LAB-GLUCOSE BLOOD,laboratory glucose blood,Laboratory,Monitoring,0.86,0
+HCHG BILIRUBIN TOTAL,bilirubin total,Laboratory,Laboratory,0.96,1
+HCHG CBC AUTO W/AUTO DIFF HCHG CBC AUTO W/AUTO DIFF,complete_blood_count automated w automated difficile_clostridium minutes complete_blood_count automated w automated difficile_clostridium,Laboratory,Laboratory,0.89,1
+HCHG DAILY NO  PER HOUR,daily nitric_oxide per hour,Plan Benefit,Plan Benefit,1.0,1
+HCHG DAILY NO PER HOUR/HCHG DAILY NO PER HOUR,daily no_catheter per hour/minutes daily no_catheter per hour,Plan Benefit,Plan Benefit,1.0,1
+HCHG HEMOGLOBIN,hemoglobin,Laboratory,Laboratory,0.9,1
+HEHOGLOBIN,hemoglobin,Laboratory,Laboratory,0.93,1
+HEMATOCRIT TEST,hematocrit test,Laboratory,Laboratory,0.9,1
+HEMOSTAT CELLULOSE (SURGICEL),hemostat cellulose surgicel,Supply,Supply,0.92,1
+HEPARIN (PORCINE) 10 UNIT/ML SOLN 3 ML SYRINGE,heparin porcine 10_units/ml solution 3_ml syringe,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.9,1
+HEPARIN 1 000 UNIT/ML SOLN 30 ML VIAL,heparin 1 000_units/ml solution 30_ml vial,Pharmacy,Pharmacy,0.98,1
+HEPARIN 10 UNITS/ML INJ (10ML),heparin 10_units/ml injection 10_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.97,1
+HEPARIN 100 U INJ,heparin 100_units injection,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.93,1
+HEPARIN 1000 UNIT/ML INJ 10ML,heparin 1000_units/ml injection 10_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.92,1
+HEPARIN INJ 1000U (50,heparin injection 1000u 50,Pharmacy,Pharmacy,0.9,1
+HEPARIN LOCK FLUSH 10 UNIT/ML SOLN,heparin lock flush 10_units/ml solution,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.92,1
+HEPARIN LOCK FLUSH 10 UNIT/ML SOLN 1 ML SYRINGE,heparin lock flush 10_units/ml solution 1_ml syringe,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.97,1
+HEPARIN LOCK FLUSH 10 UNIT/ML SYRG,heparin lock flush 10_units/ml syringe,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.92,1
+HEPARIN LOCK FLUSH 10 UNIT/ML SYRG 3 ML SYRINGE,heparin lock flush 10_units/ml syringe 3_ml syringe,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.9,1
+HEPARIN SOD 10U/ML 5ML VIA,heparin sodium 10_units/ml 5_ml vial,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.87,1
+HEPARIN SODIUM 1 000 UNITS INJ,heparin sodium 1 000_units injection,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.96,1
+HEPATIC FUNCTION,hepatic function,Laboratory,Laboratory,0.92,1
+HEPATIC FUNCTION PAN,hepatic function pan,Laboratory,Laboratory,0.97,1
+HEPATITIS B SURFACE AB,hepatitis b surface antibody,Laboratory,Laboratory,0.9,1
+HYDRALAZINE 20MG INJ,hydralazine 20_mg injection,Pharmacy,Pharmacy,0.94,1
+HYDRALAZNE 20MG INJ,hydralazine 20_mg injection,Pharmacy,Pharmacy,0.89,1
+HYDROMORPH UP TO 4 MG,hydromorphone up to 4_mg,Pharmacy,Pharmacy,1.0,1
+HYDROMORPHONE 1 MG/1 ML INJ,hydromorphone 1_mg/1_ml injection,Pharmacy,Pharmacy,0.97,1
+HYDROMORPHONE 2 MG INJ,hydromorphone 2_mg injection,Pharmacy,Pharmacy,0.91,1
+HYDROMORPHONE 2 MG/ML SOLN,hydromorphone 2_mg/ml solution,Pharmacy,Pharmacy,0.97,1
+I STAT HCT (PICU),i stat hematocrit pediatric_intensive_care_unit,Monitoring,Laboratory,0.89,0
+INDIV. EXER. PER 15 MIN. (OT),individual exercise per 15 minutes occupational_therapy,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.91,1
+INFLUENZA B  AG  IF,influenza b silver if,Laboratory,Laboratory,0.95,1
+INHALATION TRTMT SUB,inhalation trtmt sub,Respiratory Therapy,Respiratory Therapy,0.87,1
+INHALED NITRIC,inhaled nitric,Plan Benefit,Plan Benefit,0.85,1
+INJECTION  LINEZOLID  200M,injection linezolid 200m,Pharmacy,Pharmacy,1.0,1
+INSULIN GLARGINE 100 UNI,insulin glargine 100_units,Pharmacy,Pharmacy,0.95,1
+INSULIN REGULAR HUMAN 100 UNIT/ML SOLN,insulin regular human 100_units/ml solution,Pharmacy,Pharmacy,0.89,1
+IV 0.9% NACL 250 ML,intravenous 0.9% sodium_chloride 250_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.98,1
+IV D5W 250ML,intravenous dextrose_5%_in_water 250_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,1.0,1
+IV DEX 05% NACL .45% 1000,intravenous dextrose 05% sodium_chloride 0.45% 1000,Diluent / Flush / Irrigant,Pharmacy,0.85,0
+IV-SODIUM CHLORIDE 0.9% 250ML,intravenous sodium chloride 0.9% 250_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.87,1
+K ISTAT,potassium istat,Monitoring,Laboratory,0.89,0
+KETAMINE 500MG/10ML VL,ketamine 500_mg/10_ml vial,Pharmacy,Pharmacy,0.91,1
+KETAMINE HCL 50MG/ML 10ML,ketamine hcl 50_mg/ml 10_ml,Pharmacy,Pharmacy,0.88,1
+KETOROLAC 15MG INJ,ketorolac 15_mg injection,Pharmacy,Pharmacy,0.95,1
+KIT DRSG CHANGE PWR GLIDE,kit dressing change pwr glide,Supply,Supply,0.85,1
+LAB GLUCOSE  BEDSIDE,laboratory glucose bedside,Monitoring,Monitoring,0.85,1
+LAB-GLUCSE BLOOD REAGENT STRIP,laboratory glucose blood reagent strip,Supply,Supply,1.0,1
+LAB-IONIZED CA (WHOLE BLOOD),laboratory ionized calcium whole blood,Laboratory,Laboratory,0.9,1
+LACTATE  POCT,lactate point_of_care_testing,Monitoring,Laboratory,0.88,0
+LACTATE (LACTI,lactate lactate,Laboratory,Laboratory,0.94,1
+LACTATE (LACTIC ACID),lactate lactic acid,Laboratory,Laboratory,1.0,1
+LACTATE (PNL),lactate panel,Laboratory,Laboratory,0.94,1
+LACTATED RINGERS SOLN,lactated ringers solution,Pharmacy,Pharmacy,0.95,1
+LACTATED RINGERS SOLP,lactated ringers solution,Pharmacy,Pharmacy,0.98,1
+LACTULOSE 10 GM/15ML SOLN,lactulose 10_gm/15_ml solution,Pharmacy,Pharmacy,0.85,1
+LACTULOSE 10 GRAM/15 ML SO,lactulose 10 gram/15_ml so,Pharmacy,Pharmacy,0.89,1
+LACTULOSE 30ML UM,lactulose 30_ml um,Pharmacy,Pharmacy,0.86,1
+LEVEL IV-SURG PATH GROSS/MICRO,level intravenous surgical path gross/miscroscopic,Laboratory,Laboratory,0.99,1
+LEVETIRACETAM 250 MG TAB,levetiracetam 250_mg tablet,Pharmacy,Pharmacy,0.93,1
+LEVOFLOXACIN 750 MG TAB,levofloxacin 750_mg tablet,Pharmacy,Pharmacy,0.9,1
+LEVOTHYROXINE 100 MCG TABLET,levothyroxine 100 mcg_gram_aerosol tablet,Pharmacy,Pharmacy,0.92,1
+LEVOTHYROXINE 50 MCG TABS,levothyroxine 50 mcg_gram_aerosol tablets,Pharmacy,Pharmacy,0.97,1
+LIDOCAINE 1% 20 ML INJ,lidocaine 1% 20_ml injection,Pharmacy,Pharmacy,0.9,1
+LIDOCAINE-PF 1% 30 ML INJ,lidocaine partial_fill 1% 30_ml injection,Pharmacy,Pharmacy,0.88,1
+LIPASE-PROTEASE-AMYLASE 20,lipase protease amylase 20,Pharmacy,Pharmacy,0.87,1
+LISINOPRIL 5 MG TAB,lisinopril 5_mg tablet,Pharmacy,Pharmacy,1.0,1
+LORAZEPAM 2 MG/ML CONC 30 ML BOTTLE,lorazepam 2_mg/ml concentration 30_ml bottle,Pharmacy,Pharmacy,0.89,1
+LORAZEPAM 2 MG/ML INJ,lorazepam 2_mg/ml injection,Pharmacy,Pharmacy,0.94,1
+MAGNESIUM CITRATE SOLN 300ML,magnesium citrate solution 300_ml,Pharmacy,Pharmacy,0.86,1
+MAGNESIUM HYDROXIDE 400 MG/5 ML SUSP,magnesium hydroxide 400_mg/5_ml suspension,Pharmacy,Pharmacy,0.92,1
+MAGNESIUM HYDROXIDE 400 MG/5ML SUSP,magnesium hydroxide 400_mg/5_ml suspension,Pharmacy,Pharmacy,0.92,1
+MAGNESIUM SULFATE 500 MG/ML SOLN,magnesium sulfate 500_mg/ml solution,Pharmacy,Pharmacy,0.95,1
+METHADONE 1 MG/ML SOLN 500 ML BOTTLE,methadone 1_mg/ml solution 500_ml bottle,Pharmacy,Pharmacy,0.88,1
+METHADONE 10 MG/ML SOLN,methadone 10_mg/ml solution,Pharmacy,Pharmacy,0.98,1
+METOCLOPRAMIDE 5 MG/ML SOLN,metoclopramide 5_mg/ml solution,Pharmacy,Pharmacy,0.89,1
+METOPROLOL ER TAB 50M,metoprolol emergency_room tablet 50m,Pharmacy,Pharmacy,0.86,1
+MIDAZOL HCL 1MG INJ,midazolam hcl 1_mg injection,Pharmacy,Pharmacy,0.92,1
+MIDAZOLAM 1 MG/ML SOLN 2 ML VIAL,midazolam 1_mg/ml solution 2_ml vial,Pharmacy,Pharmacy,0.91,1
+MIDAZOLAM 1:10 0.5 MG/ML SOLN 1 ML SYRINGE,midazolam 1 10 0.5_mg/ml solution 1_ml syringe,Pharmacy,Pharmacy,0.85,1
+MIDAZOLAM 2 MG/2 ML INJECTION,midazolam 2_mg/2_ml injection,Pharmacy,Pharmacy,0.88,1
+MIDAZOLAM 2 MG/2ML SOLN,midazolam 2_mg/2_ml solution,Pharmacy,Pharmacy,0.95,1
+MIDAZOLAM 2MG/2ML INJ,midazolam 2_mg/2_ml injection,Pharmacy,Pharmacy,0.93,1
+MIDAZOLAM 5 MG/ML SOLN 10,midazolam 5_mg/ml solution 10,Pharmacy,Pharmacy,0.97,1
+MIDODRINE 5 MG TAB,midodrine 5_mg tablet,Pharmacy,Pharmacy,0.88,1
+MILRINONE 1 MG/ML SOLN 10 ML VIAL,milrinone 1_mg/ml solution 10_ml vial,Pharmacy,Pharmacy,0.98,1
+MORPHINE 15 MG/ML SOLN 20,morphine 15_mg/ml solution 20,Pharmacy,Pharmacy,0.97,1
+MORPHINE 2 MG/ML SYRG,morphine 2_mg/ml syringe,Pharmacy,Pharmacy,0.89,1
+MORPHINE PF 10MG INJ,morphine partial_fill 10_mg injection,Pharmacy,Pharmacy,0.9,1
+MORPHINE SULFATE 10 MG INJ,morphine sulfate 10_mg injection,Pharmacy,Pharmacy,0.95,1
+MYCOPHENALATE 250 MG PO S,mycophenalate 250_mg by_mouth s,Pharmacy,Pharmacy,0.85,1
+NACL .9 100ML,sodium_chloride 0.9 100_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.91,1
+NACL 0.9% *PF* INJ,sodium_chloride 0.9% partial_fill injection,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.86,1
+NACL 0.9% 100ML MBP,sodium_chloride 0.9% 100_ml mini-bag_plus,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.94,1
+NACL 0.9% INJ 10ML,sodium_chloride 0.9% injection 10_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.94,1
+NACL 0.9% INJ 50 ML,sodium_chloride 0.9% injection 50_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.98,1
+NEONATAL INTENSIVE CARE UNIT,neonatal intensive care unit,Room and Board,Room and Board,0.96,1
+NEOSTIGMINE 5MG/5ML INJ (PREFILL SYR),neostigmine 5_mg/5_ml injection prefill syringe,Pharmacy,Pharmacy,0.88,1
+NICOTINE 14 MG/24 HR PT24,nicotine 14_mg/24 hour patch_24,Plan Benefit,Plan Benefit,0.87,1
+NICOTINE 21 MG/24 HR PT24,nicotine 21_mg/24 hour patch_24,Plan Benefit,Plan Benefit,0.92,1
+NICOTINE 21 MG/24HR PT24,nicotine 21_mg/24_hour patch_24,Plan Benefit,Plan Benefit,0.92,1
+NICU I INTENSIVE CARE,neonatal_intensive_care_unit i intensive care,Room and Board,Room and Board,0.93,1
+NITRIC OXIDE DAILY,nitric oxide daily,Plan Benefit,Plan Benefit,0.92,1
+NITRIC OXIDE DLY,nitric oxide daily,Plan Benefit,Plan Benefit,0.95,1
+NITRIC OXIDE GAS-EACH HOUR,nitric oxide gas each hour,Plan Benefit,Plan Benefit,0.94,1
+NORMAL SALINE 100ML,normal saline 100_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.94,1
+NS 1000 ML,normal_saline 1000_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.92,1
+NS 100ML,normal_saline 100_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.96,1
+NUTRITION CONSULT PER 15 M,nutrition consultation per 15 m,Education / Training,PT / OT / Speech Therapy,0.97,0
+NYSTATIN 100 000 UNIT/ML P,nystatin 100 000_units/ml powder,Pharmacy,Pharmacy,0.94,1
+NYSTATIN 100 000 UNIT/ML SUSP 2 ML SYRINGE,nystatin 100 000_units/ml suspension 2_ml syringe,Pharmacy,Pharmacy,0.85,1
+NYSTATIN 100 000 UNITS/G OINT 15 G TUBE,nystatin 100 000_units/gram ointment 15 gram tube,Pharmacy,Pharmacy,0.89,1
+O2 SENSOR,oxygen sensor,Supply,Supply,0.88,1
+ONDANSETRON 1MG INJ,ondansetron 1_mg injection,Pharmacy,Pharmacy,1.0,1
+ONDANSETRON 4 MG TABS,ondansetron 4_mg tablets,Pharmacy,Pharmacy,0.88,1
+ONDANSETRON 4 MG TBDL,ondansetron 4_mg tbdl,Pharmacy,Pharmacy,0.92,1
+OR LEVEL 4 FIRST 30 MINUTE,operation_room level 4 first 30 minute,OR / Anesthesia / Recovery Room,OR / Anesthesia / Recovery Room,0.98,1
+OR SURGERY LEVEL 3,operation_room surgery level 3,OR / Anesthesia / Recovery Room,OR / Anesthesia / Recovery Room,0.96,1
+OT EVAL INTERMEDIATE,occupational_therapy evaluation intermediate,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.96,1
+OT EVALUATION,occupational_therapy evaluation,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.94,1
+OXIMETRY CONTINUOUS  1-24 HOURS,oximetry continuous 1 24 hours,Monitoring,Monitoring,0.86,1
+OXYCODONE 5 MG TABLET,oxycodone 5_mg tablet,Pharmacy,Pharmacy,0.95,1
+OXYCODONE 5MG TAB,oxycodone 5_mg tablet,Pharmacy,Pharmacy,1.0,1
+OXYCODONE-ACETAMINOPHEN 10-325 MG TABLET,oxycodone acetaminophen 10 325_mg tablet,Pharmacy,Pharmacy,0.96,1
+OXYGEN  PER HR,oxygen per hour,Respiratory Therapy,Respiratory Therapy,1.0,1
+OXYGEN 1 - 12 HR,oxygen 1 12 hour,Respiratory Therapy,Respiratory Therapy,1.0,1
+OXYGEN SETUP,oxygen setup,Supply,Respiratory Therapy,0.85,0
+OXYGEN THERAPY,oxygen therapy,Respiratory Therapy,Respiratory Therapy,0.86,1
+PANTOPRAZOLE 4 MG/ML SOLR 1 EACH VIAL,pantoprazole 4_mg/ml solution 1 each vial,Pharmacy,Pharmacy,0.9,1
+PANTOPRAZOLE 40 MG TAB,pantoprazole 40_mg tablet,Pharmacy,Pharmacy,0.95,1
+PANTOPRAZOLE 40 MG TAB DR,pantoprazole 40_mg tablet drainage,Pharmacy,Pharmacy,0.92,1
+PAPAVERINE 30 MG/ML SOLN 10 ML VIAL,papaverine 30_mg/ml solution 10_ml vial,Pharmacy,Pharmacy,0.97,1
+PARTIAL THROMBOPLAST TIME PTT,partial thromboplastin time partial_prothrombaplastin_time,Laboratory,Laboratory,0.92,1
+PHENOBARBITAL 32.4 MG TAB,phenobarbital 32.4_mg tablet,Pharmacy,Pharmacy,0.92,1
+PHENYLEPHRIN 1ML INJ,phenylephrine 1_ml injection,Pharmacy,Pharmacy,0.93,1
+PHENYLEPHRINE 1MG/10 ML-NS IV,phenylephrine 1_mg/10_ml normal_saline intravenous,Pharmacy,Pharmacy,0.89,1
+PHYS SUBSEQUENT HOSP CARE MOD,phys subsequent hosp care module,Professional Fee,Professional Fee,0.91,1
+PHYTONADIONE (VITAMIN K) PER 1 MG,phytonadione vitamin potassium per 1_mg,Pharmacy,Pharmacy,0.94,1
+PHYTONADIONE 10 MG/ML SOLN,phytonadione 10_mg/ml solution,Pharmacy,Pharmacy,0.96,1
+PIPERACILLIN / TAZOBACTAM,piperacillin/tazobactam,Pharmacy,Pharmacy,0.96,1
+PIPERACILLIN-TAZOBACTAM 40,piperacillin tazobactam 40,Pharmacy,Pharmacy,0.97,1
+PLT LEUKORED CMVN EA (PLC),platelet leukoreduced cmvn each place,Blood Products,Blood Products,0.85,1
+PM-DEXTROSE 5% W/HEPARIN 1UNIT/ML,between_noon_and_midnight dextrose 5% w heparin 1_units/ml,Diluent / Flush / Irrigant,Pharmacy,0.91,0
+PNEUMOCOCCAL CONJUGATE 13-,pneumococcal conjugate 13,Pharmacy,Laboratory,0.86,0
+POC HEMATOCRIT,point_of_care hematocrit,Monitoring,Monitoring,0.9,1
+POC-GLUCOSE  BLOOD,point_of_care glucose blood,Monitoring,Monitoring,0.89,1
+POC-HEMATOCRIT (HCT) GEM,point_of_care hematocrit hematocrit glucagon_emergency_management,Monitoring,Monitoring,0.86,1
+POC-POTASSIUM (K) GEM,point_of_care potassium potassium glucagon_emergency_management,Monitoring,Monitoring,0.87,1
+POCT POTASSIUM,point_of_care_testing potassium,Monitoring,Laboratory,0.9,0
+POLYETHYLENE GLYCOL 3350 PACK,polyethylene glucol 3350 pack,Pharmacy,Pharmacy,0.95,1
+POLYETHYLENE GLYCOL 3350 PACKET 17G UD,polyethylene glucol 3350 packet 17_gm ud,Pharmacy,Pharmacy,0.89,1
+POSITIONER FLUIDIZED NEO 1,positioner fluidized neonatal 1,Supply,Supply,0.97,1
+POSITIONER FLUIDIZED NEO 7X10,positioner fluidized neonatal 7x10,Supply,Supply,0.96,1
+POTASSIUM  POC,potassium point_of_care,Monitoring,Monitoring,1.0,1
+POTASSIUM (BLOOD GAS),potassium blood gas,Laboratory,Laboratory,0.94,1
+POTASSIUM AND SODIUM PHOSP,potassium and sodium phospho,Pharmacy,Pharmacy,0.88,1
+POTASSIUM CHLOR 10 MEQ/50 ML I,potassium chloride 10_meq/50_ml i,Pharmacy,Pharmacy,0.93,1
+POTASSIUM CHLORIDE 2 MEQ INJ,potassium chloride 2_meq injection,Pharmacy,Pharmacy,0.93,1
+POTASSIUM CHLORIDE 2 MEQ/ML SOLP,potassium chloride 2_meq/ml solution,Pharmacy,Pharmacy,0.94,1
+POTASSIUM CHLORIDE 20 MEQ/15ML (10%) SOLN,potassium chloride 20_meq/15_ml 10% solution,Pharmacy,Pharmacy,0.96,1
+POTASSIUM CL 20MEQ SA TAB,potassium chloride 20_meq slow_action tablet,Pharmacy,Pharmacy,0.87,1
+POTASSIUM CL 20MEQ/15ML LIQ,potassium chloride 20_meq/15_ml liquid,Pharmacy,Pharmacy,0.87,1
+POTASSIUM ISTAT,potassium istat,Monitoring,Monitoring,0.9,1
+POTASSIUM WB ASSAY,potassium whole_blood assay,Laboratory,Laboratory,0.93,1
+POTASSIUM WHOLE BLOOD,potassium whole blood,Laboratory,Laboratory,0.97,1
+POTASSIUM/K  B,potassium/potassium b,Laboratory,Laboratory,0.92,1
+PREALBUMIN (PAB),prealbumin pab,Laboratory,Laboratory,0.92,1
+PREDNISONE 5MG-20MG TAB,prednisone 5_mg 20_mg tablet,Pharmacy,Pharmacy,0.93,1
+PREGABALIN 75MG CAP,pregabalin 75_mg capillary,Pharmacy,Pharmacy,0.94,1
+PREMASOL 10% 1L BY ML,premasol 10% 1l by ml,Pharmacy,Pharmacy,1.0,1
+PRIVATE TELEMETRY,private telemetry,Room and Board,Room and Board,0.85,1
+PROPOFOL 10 MG INJ,propofol 10_mg injection,Pharmacy,Pharmacy,1.0,1
+PROPOFOL 10MG/ML 20ML VL,propofol 10_mg/ml 20_ml vial,Pharmacy,Pharmacy,0.91,1
+PROPOFOL PER 10MG/100ML INJ,propofol per 10_mg/100_ml injection,Pharmacy,Pharmacy,0.96,1
+PROTHROMBIN TIME 1,prothrombin time 1,Laboratory,Laboratory,0.98,1
+PROTHROMBIN TIME INR,prothrombin time inr,Laboratory,Laboratory,0.97,1
+PULSE OX-CONTINUOUS,pulse oximetry continuous,Monitoring,Monitoring,0.98,1
+PULSE OXIMETER  DAILY,pulse oximeter daily,Monitoring,Monitoring,0.89,1
+PULSE OXIMETRY SENSOR,pulse oximetry sensor,Supply,Monitoring,0.87,0
+PULSE OXIMETRY SINGLE,pulse oximetry single,Monitoring,Monitoring,1.0,1
+PULSE OXIMETRY SPOT CHEC,pulse oximetry spot check,Monitoring,Monitoring,0.88,1
+PULSE OXIMETRY-PER HOUR,pulse oximetry per hour,Monitoring,Monitoring,0.9,1
+PULSE OXIMETRY/DAILY,pulse oximetry/daily,Monitoring,Monitoring,0.96,1
+PULSE OXIMTRY SINGLE,pulse oximetry single,Monitoring,Monitoring,0.91,1
+QLAB=CALCIUM IONIZED,qlab calcium ionized,Laboratory,Laboratory,0.9,1
+RANITIDINE 25 MG/ML SOLN,ranitidine 25_mg/ml solution,Pharmacy,Pharmacy,0.92,1
+RB NEONATAL-ICU CRIT LEV 1,room_and_board neonatal intensive_care_unit critical level 1,Room and Board,Room and Board,0.98,1
+RBC ANTIBODY SCREEN,red_blood_cell antibody screen,Laboratory,Laboratory,0.89,1
+RBC LEUKOCYTES REDUCED EA UNIT,red_blood_cell leukocytes reduced each unit,Blood Products,Blood Products,0.92,1
+RCH LAB-WHOLE BLOOD GLUCOS,laboratory whole blood glucose,Laboratory,Laboratory,0.88,1
+RE-EVALUATION OT,re evaluation occupational_therapy,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.95,1
+RECOVERY CLASS 2,recovery class 2,OR / Anesthesia / Recovery Room,OR / Anesthesia / Recovery Room,0.95,1
+RED BLOOD CELLS LEUKO RED-CKBC,red blood cells leukocyte red ckbc,Blood Products,Blood Products,0.95,1
+RIFAXIMIN 550 MG TAB,rifaximin 550_mg tablet,Pharmacy,Pharmacy,0.85,1
+ROCURONIUM 10 MG/ML SOLN,rocuronium 10_mg/ml solution,Pharmacy,Pharmacy,0.98,1
+ROCURONIUM 10 MG/ML SOLN 5 ML VIAL,rocuronium 10_mg/ml solution 5_ml vial,Pharmacy,Pharmacy,1.0,1
+ROCURONIUM 100 MG/10ML SOLN,rocuronium 100_mg/10_ml solution,Pharmacy,Pharmacy,0.94,1
+ROCURONIUM 10MG/ML 10ML VL,rocuronium 10_mg/ml 10_ml vial,Pharmacy,Pharmacy,0.87,1
+ROCURONIUM 50MG/5ML BD SYRINGE,rocuronium 50_mg/5_ml bd syringe,Pharmacy,Pharmacy,0.9,1
+ROCURONIUM BROM 10 MG / ML,rocuronium broom 10_mg/ml,Pharmacy,Pharmacy,0.93,1
+ROOM & BOARD - NICU LEVEL II,room and_insert board neonatal_intensive_care_unit level ii,Room and Board,Room and Board,0.98,1
+ROOM 5011,room 5011,Room and Board,Room and Board,0.92,1
+ROOM 532 D,room 532 daily,Room and Board,Room and Board,0.92,1
+ROOM 8016,room 8016,Room and Board,Room and Board,0.87,1
+ROOM NICU,room neonatal_intensive_care_unit,Room and Board,Room and Board,0.96,1
+ROOM RNB2,room room_and_board,Room and Board,Room and Board,0.92,1
+ROPIVACAINE 1% INJ 10 ML,ropivacaine 1% injection 10_ml,Pharmacy,Pharmacy,0.88,1
+RT POTASSIUM,respiratory_therapy potassium,Monitoring,Laboratory,0.9,0
+SEDIMENTATION RATE RBC AUT,sedimentation rate red_blood_cell aut,Laboratory,Laboratory,0.93,1
+SELFCARE HOME MGMT 15 MIN,selfcare home management 15 minutes,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.98,1
+SENNA/DOCUSATE 8.6/50 MG TAB,senna/docusate 8.6/50_mg tablet,Pharmacy,Pharmacy,0.96,1
+SET IV EXT MIN-VOL 60,set intravenous extension minutes volume 60,Supply,Supply,1.0,1
+SEVELAMER CARB POWD 8,sevelamer carb powd 8,Pharmacy,Pharmacy,0.85,1
+SEVELAMER CARBONATE 800 MG,sevelamer carbonate 800_mg,Pharmacy,Pharmacy,0.87,1
+SHEATH INTRO PINNACLE PERIPH GW6FRX10,sheath intro pinnacle peripheral gw6frx10,Supply,Supply,0.98,1
+SILDENAFIL 100 MG TAB 30 EACH BOTTLE,sildenafil 100_mg tablet 30 each bottle,Plan Benefit,Plan Benefit,0.88,1
+SILDENAFIL 2.5 MG/ML SU,sildenafil 2.5_mg/ml supply,Plan Benefit,Plan Benefit,0.97,1
+SILDENAFIL 2.5 MG/ML SUSP 1 ML CUP,sildenafil 2.5_mg/ml suspension 1_ml cup,Plan Benefit,Plan Benefit,0.94,1
+SILDENAFIL 2.5 MG/ML SUSPENSION,sildenafil 2.5_mg/ml suspension,Plan Benefit,Plan Benefit,1.0,1
+SILDENAFIL 2.5MG/ML SUSP,sildenafil 2.5_mg/ml suspension,Plan Benefit,Plan Benefit,1.0,1
+SILDENAFIL 2MG/ML 5ML LI,sildenafil 2_mg/ml 5_ml li,Plan Benefit,Plan Benefit,0.87,1
+SILDENAFIL ORAL,sildenafil oral,Plan Benefit,Plan Benefit,0.86,1
+SILDENAFIL SUSP 2.5MG/ML,sildenafil suspension 2.5_mg/ml,Plan Benefit,Plan Benefit,0.96,1
+SILVER SULFADIAZINE CR 1% 50G,silver sulfadiazine chest_radiograft 1% 50_gm,Pharmacy,Pharmacy,0.92,1
+SOCK STUMP 18X8X6,sock stump 18x8x6,Supply,Supply,0.93,1
+SOD BICARB 8.4% 50MEQ,sodium bicarb 8.4% 50_meq,Pharmacy,Pharmacy,0.92,1
+SOD BICARBONATE 8.4% 50 ML SYR,sodium bicarbonate 8.4% 50_ml syringe,Pharmacy,Pharmacy,0.88,1
+SOD CHLOR 9% 20ML,sodium chloride 9% 20_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.93,1
+SOD CHLORIDE 0.9% PER 250ML,sodium chloride 0.9% per 250_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.89,1
+SOD CHLORIDE 0.9%/250ML 100ML,sodium chloride 0.9%/250_ml 100_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.96,1
+SODIUM C,sodium cap,Laboratory,Laboratory,0.95,1
+SODIUM CHL 0,sodium chloride 0,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.91,1
+SODIUM CHLORID,sodium chloride,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.98,1
+SODIUM CHLORIDE 0.45 % SOLN 1 000 ML FLEX CONT,sodium chloride 0.45% solution 1 000_ml flex cont,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.96,1
+SODIUM CHLORIDE 0.45% FLUS,sodium chloride 0.45% flush,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.94,1
+SODIUM CHLORIDE 0.9 % SO,sodium chloride 0.9% so,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.97,1
+SODIUM CHLORIDE 0.9% 0.9% SOLN,sodium chloride 0.9% 0.9% solution,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.97,1
+SODIUM CHLORIDE 0.9% 0.9% SYRG 10 ML SYRINGE,sodium chloride 0.9% 0.9% syringe 10_ml syringe,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.93,1
+SODIUM CHLORIDE 0.9% 100ML 0264-1800-32,sodium chloride 0.9% 100_ml 264 1800 32,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.9,1
+SODIUM CHLORIDE 0.9% 250ML,sodium chloride 0.9% 250_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.99,1
+SODIUM CHLORIDE 0.9% 25ML,sodium chloride 0.9% 25_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.97,1
+SODIUM CHLORIDE 0.9% 50ML BAG,sodium chloride 0.9% 50_ml bag,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.96,1
+SODIUM CHLORIDE 0.9% FLU,sodium chloride 0.9% flush,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.95,1
+SODIUM CHLORIDE 0.9% IVPB  5,sodium chloride 0.9% intravenous_piggyback 5,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.96,1
+SODIUM CHLORIDE 0.9% SO,sodium chloride 0.9% so,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.97,1
+SODIUM CHLORIDE 0.9% SOL,sodium chloride 0.9% solution,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.98,1
+SODIUM CHLORIDE 0.9% SOLN,sodium chloride 0.9% solution,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,1.0,1
+SODIUM CHLORIDE 0.9% SOLP,sodium chloride 0.9% solution,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,1.0,1
+SODIUM CHLORIDE 0.9% SOLP 100 ML BAG,sodium chloride 0.9% solution 100_ml bag,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.97,1
+SODIUM CHLORIDE 0.9% SOLP 250 ML FLEX CONT,sodium chloride 0.9% solution 250_ml flex cont,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.98,1
+SODIUM CHLORIDE 4 MEQ/ML SOLP,sodium chloride 4_meq/ml solution,Pharmacy,Pharmacy,0.96,1
+SODIUM CHLORIDE POWD 500 G JAR,sodium chloride powd 500 gram jar,Pharmacy,Pharmacy,0.91,1
+SODIUM PHOSPHATE 3 MMOLE,sodium phosphate 3 mmole,Pharmacy,Pharmacy,0.85,1
+SODIUM SERUM,sodium serum,Laboratory,Laboratory,0.85,1
+SODIUM WHOLE BLOOD,sodium whole blood,Laboratory,Laboratory,0.96,1
+SOL NACL 0.9PCT 1000ML BG,solution sodium_chloride 0.9pct 1000_ml blood_gas,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.92,1
+SPECIMEN COLLECTION FEE,specimen collection fee,Nursing Services,Nursing Services,0.88,1
+SPIRONOLACTONE 5 MG/ML SUSP 100 ML BOTTLE,spironolactone 5_mg/ml suspension 100_ml bottle,Pharmacy,Pharmacy,0.89,1
+STERIL WATER INJ 10ML,sterile water injection 10_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.88,1
+STERILE WATER FOR INJECTION 10,sterile water for injection 10,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.93,1
+STERILE WATER FOR IRRIG 250ML,sterile water for irrigation 250_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.88,1
+STERILE WATER QS BASE,sterile water quantity_sufficient base,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.89,1
+STERILE WATER SOLN,sterile water solution,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.96,1
+STERILE WATER SOLP 1 000 ML BAG,sterile water solution 1 000_ml bag,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.95,1
+STMETHICONE-80MG U/D,stmethicone 80_mg u/daily,Pharmacy,Pharmacy,0.94,1
+SUCROSE N.F. 24% SOLUTION AMP 1ML,sucrose n male_female 24% solution ampule 1_ml,Pharmacy,Pharmacy,0.99,1
+SUCTION ONLY,suction only,Respiratory Therapy,Respiratory Therapy,0.86,1
+SUCTIONING,suctioning,Respiratory Therapy,Respiratory Therapy,0.9,1
+SURG LEVEL IV-ADD 30 MIN,surgical level intravenous additional 30 minutes,OR / Anesthesia / Recovery Room,OR / Anesthesia / Recovery Room,0.91,1
+SYRINGE PUMP,syringe pump,Capital Equipment,Capital Equipment,0.95,1
+SYSTEM INTRO SS VALVED 9.0FRX13CM,system intro ss valved 9.0frx13cm,Supply,Supply,0.98,1
+TB ET CUF INMD HI LO 7.5MM 864,tube et cuff inmd hi lo 7.5mm 864,Supply,Supply,0.87,1
+TB ET CUF INTMED HI LO 8MM LF,tube et cuff intmed hi lo 8mm line_flush,Supply,Supply,0.97,1
+TC LACTATE WHOLE BLOOD,lactate whole blood,Laboratory,Laboratory,0.91,1
+TC XR ABDOMEN,x_ray abdomen,Radiology,Radiology,0.88,1
+THER EXERCISE EA 15 MIN,therapist exercise each 15 minutes,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.95,1
+THERA ACTIVITIES 15 MIN,therapy activities 15 minutes,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.85,1
+THROMBOPLASTIN TM PRTL PLS,thromboplastin time prtl plasma,Laboratory,Laboratory,0.89,1
+THROMBOPLASTIN TM PRTL PLSM/WHL BLD,thromboplastin time prtl plasma/whole blood,Laboratory,Laboratory,0.91,1
+TISSUE EXAM PATHOLOGIST LEVEL5,tissue examination pathologist level5,Laboratory,Laboratory,0.98,1
+TOBRAMYCIN 40 MG/ML SOLN 3,tobramycin 40_mg/ml solution 3,Pharmacy,Pharmacy,0.92,1
+TORSEMIDE 100 MG TABS,torsemide 100_mg tablets,Pharmacy,Pharmacy,0.94,1
+TPN - (PATIENTS 5-10 KG),total_parenteral_nutrition patients 5 10 kilogram,Pharmacy,Pharmacy,0.96,1
+TRACH CARE KIT,tracheostomy care kit,Supply,Respiratory Therapy,0.85,0
+TRANSDUCER,transducer,Supply,Supply,0.92,1
+TRANSFUSION BLOOD OR BLOOD COMPONE,transfusion blood operation_room blood components,Nursing Services,Nursing Services,0.93,1
+TRANSPORT-VENT PATIENT ADULT,transport ventilation patient adult,Respiratory Therapy,Respiratory Therapy,0.92,1
+TRAY  TRACH CARE/EA,tray tracheostomy care/each,Supply,Supply,0.88,1
+TREATMENT/SWALLOWING,treatment/swallowing,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.9,1
+TRIAMCINOLONE 0.1% CREA 15,triamcinolone 0.1% cream 15,Pharmacy,Pharmacy,0.9,1
+TRIGLYCERIDES,triglycerides,Laboratory,Laboratory,0.97,1
+TROPICAMIDE 0.5% DROP 15 M,tropicamide 0.5% drop 15 m,Pharmacy,Pharmacy,0.91,1
+TUBE  FEEDING  ROSS #6,tube feeding ross 6,Supply,Supply,0.87,1
+TUBE SUCTION YANKAUER,tube suction yankauer,Supply,Supply,0.87,1
+URNLS DIP STICK/TABLET RGN,urinalysis dip stick/tablet reagent,Laboratory,Laboratory,0.91,1
+URSODIOL 300 MG CAPSULE,ursodiol 300_mg capsule,Pharmacy,Pharmacy,0.93,1
+URSODIOL 60 MG/ML PO SUSP,ursodiol 60_mg/ml by_mouth suspension,Pharmacy,Pharmacy,0.93,1
+US DPLR LIMIT ABD PELVIS S,ultrasound doppler_with limit abdomen pelvis s,Radiology,Radiology,0.85,1
+VANCOMYCIN 1 GM/200ML SOLN,vancomycin 1_gm/200_ml solution,Pharmacy,Pharmacy,0.89,1
+VANCOMYCIN 1GM/10ML INJ,vancomycin 1_gm/10_ml injection,Pharmacy,Pharmacy,0.92,1
+VANCOMYCIN 500 MG IVPB,vancomycin 500_mg intravenous_piggyback,Pharmacy,Pharmacy,0.91,1
+VANCOMYCIN 500MG INJ,vancomycin 500_mg injection,Pharmacy,Pharmacy,1.0,1
+VANCOMYCIN HCL 500 M,vancomycin hcl 500 m,Pharmacy,Pharmacy,0.98,1
+VANCOMYCIN TROUGH,vancomycin trough,Laboratory,Laboratory,0.88,1
+VARICELLA ZOSTER AB,varicella zoster antibody,Laboratory,Pharmacy,0.85,0
+VASOPRESSIN 100 UNITS IN 1,vasopressin 100_units in 1,Pharmacy,Pharmacy,0.91,1
+VECURONIUM 1 MG/ML SOLR 1 EACH VIAL,vecuronium 1_mg/ml solution 1 each vial,Pharmacy,Pharmacy,0.89,1
+VECURONIUM BR INJ 20MG - 20ML,vecuronium br injection 20_mg 20_ml,Pharmacy,Pharmacy,0.85,1
+VENIPUNCTURE  ROUTINE,venipuncture routine,Nursing Services,Nursing Services,0.95,1
+VENIPUNCTURE - CHRG ONLY,venipuncture charge only,Nursing Services,Nursing Services,0.93,1
+VENIPUNCTURE COLLECTION,venipuncture collection,Nursing Services,Nursing Services,0.88,1
+VENIPUNCTURE ROUTINE,venipuncture routine,Nursing Services,Nursing Services,0.95,1
+VENTILATOR-ADULT SUBSEQ DAY,ventilator adult subsequent day,Respiratory Therapy,Respiratory Therapy,0.85,1
+WALKING MOVING AROUND,walking moving around,PT / OT / Speech Therapy,PT / OT / Speech Therapy,0.9,1
+WARFARIN 3 MG TABS 1 EAC,warfarin 3_mg tablets 1 each,Pharmacy,Pharmacy,0.96,1
+WARMER HEEL INFANT,warmer heel infant,Supply,Supply,0.9,1
+WATER FOR INJ 10ML,water for injection 10_ml,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.96,1
+WATER FOR INJ IV,water for injection intravenous,Diluent / Flush / Irrigant,Diluent / Flush / Irrigant,0.95,1
+WB GLUCOSE BY MONITOR DEVICE,whole_blood glucose by monitor device,Monitoring,Monitoring,0.87,1
+XR CHEST 1 VIEW FRONTAL,x_ray chest 1 view front,Radiology,Radiology,0.86,1
+XR CHEST 1V,x_ray chest one_view,Radiology,Radiology,1.0,1
+XRAY ABDOMEN AP 1 VIEW,x-ray abdomen anterior_posterior 1 view,Radiology,Radiology,0.85,1
+ZINC SULFATE 220MG CAPS,zinc sulfate 220_mg capsule,Pharmacy,Pharmacy,0.88,1

@@ -1,0 +1,305 @@
+Rev Code Grp,CHRG_CLS,# of descs
+Ambulance,Other,4
+Ambulatory Surgical,OR / Anesthesia / Recovery Room,1
+Ambulatory Surgical,Procedure,1
+Anesthesia,Cardiology,1
+Anesthesia,Diluent / Flush / Irrigant,2
+Anesthesia,Monitoring,1
+Anesthesia,OR / Anesthesia / Recovery Room,47
+Anesthesia,Pharmacy,4
+Anesthesia,Plan Benefit,3
+Anesthesia,Radiology,1
+Anesthesia,Respiratory Therapy,3
+Anesthesia,Supply,3
+Audiology,Laboratory,1
+Audiology,Nursing Services,1
+Audiology,PT / OT / Speech Therapy,7
+Audiology,Procedure,4
+Blood,Blood Products,39
+Blood,Laboratory,15
+Blood,Nursing Services,13
+Blood,OR / Anesthesia / Recovery Room,3
+Blood,Pharmacy,4
+Blood,Supply,2
+CT Scan,Cardiology,1
+CT Scan,Diluent / Flush / Irrigant,1
+CT Scan,Laboratory,1
+CT Scan,OR / Anesthesia / Recovery Room,1
+CT Scan,Pharmacy,21
+CT Scan,Radiology,29
+Cardiology,Cardiology,34
+Cardiology,Diluent / Flush / Irrigant,1
+Cardiology,Education / Training,1
+Cardiology,Monitoring,5
+Cardiology,Nursing Services,2
+Cardiology,Pharmacy,1
+Cardiology,Radiology,11
+Cardiology,Respiratory Therapy,3
+Cardiology,Supply,1
+Cast/Recovery/Labor Room,Cardiology,1
+Cast/Recovery/Labor Room,Diluent / Flush / Irrigant,1
+Cast/Recovery/Labor Room,Laboratory,1
+Cast/Recovery/Labor Room,Monitoring,2
+Cast/Recovery/Labor Room,Nursing Services,1
+Cast/Recovery/Labor Room,OR / Anesthesia / Recovery Room,22
+Cast/Recovery/Labor Room,Pharmacy,3
+Cast/Recovery/Labor Room,Radiology,2
+Cast/Recovery/Labor Room,Room and Board,1
+Cast/Recovery/Labor Room,Supply,1
+Clinic,Education / Training,1
+Clinic,Nursing Services,2
+Clinic,Other,1
+Coronary Care,Monitoring,1
+Coronary Care,Room and Board,11
+Coronary Care,Supply,1
+Drugs Requiring Specific Identification,Cardiology,1
+Drugs Requiring Specific Identification,Diluent / Flush / Irrigant,130
+Drugs Requiring Specific Identification,Laboratory,12
+Drugs Requiring Specific Identification,Monitoring,1
+Drugs Requiring Specific Identification,Pharmacy,780
+Drugs Requiring Specific Identification,Plan Benefit,25
+Drugs Requiring Specific Identification,Respiratory Therapy,2
+Drugs Requiring Specific Identification,Supply,11
+EKG/ECG/EEG,Cardiology,20
+EKG/ECG/EEG,Diluent / Flush / Irrigant,2
+EKG/ECG/EEG,Education / Training,2
+EKG/ECG/EEG,Laboratory,25
+EKG/ECG/EEG,Monitoring,4
+EKG/ECG/EEG,Nursing Services,1
+EKG/ECG/EEG,Pharmacy,19
+EKG/ECG/EEG,Procedure,3
+EKG/ECG/EEG,Radiology,1
+EKG/ECG/EEG,Respiratory Therapy,1
+Emergency Room,Cardiology,2
+Emergency Room,Laboratory,5
+Emergency Room,Monitoring,4
+Emergency Room,Nursing Services,26
+Emergency Room,Other,12
+Emergency Room,Pharmacy,3
+Emergency Room,Procedure,3
+Emergency Room,Respiratory Therapy,8
+Emergency Room,Room and Board,2
+Emergency Room,Supply,3
+Gastro-Intestinal Services,Laboratory,2
+Gastro-Intestinal Services,Nursing Services,1
+Gastro-Intestinal Services,Procedure,1
+Gastro-Intestinal Services,Radiology,2
+Gastro-Intestinal Services,Respiratory Therapy,2
+Gastro-Intestinal Services,Supply,1
+Home Health,Pharmacy,1
+Hospice Services,Laboratory,9
+IV Therapy,Diluent / Flush / Irrigant,10
+IV Therapy,Diluent / flush / Irrigant,1
+IV Therapy,Laboratory,1
+IV Therapy,Nursing Services,13
+IV Therapy,Pharmacy,64
+Implant/Supply,Capital Equipment,50
+Implant/Supply,Cardiology,2
+Implant/Supply,Dialysis,1
+Implant/Supply,Diluent / Flush / Irrigant,46
+Implant/Supply,Diluent / flush / Irrigant,1
+Implant/Supply,Education / Training,2
+Implant/Supply,Implant,83
+Implant/Supply,Laboratory,37
+Implant/Supply,Monitoring,19
+Implant/Supply,Nursing Services,13
+Implant/Supply,OR / Anesthesia / Recovery Room,8
+Implant/Supply,Other,3
+Implant/Supply,PT / OT / Speech Therapy,15
+Implant/Supply,Pharmacy,33
+Implant/Supply,Plan Benefit,15
+Implant/Supply,Procedure,3
+Implant/Supply,Professional Fee,3
+Implant/Supply,Radiology,6
+Implant/Supply,Respiratory Therapy,65
+Implant/Supply,Room and Board,1
+Implant/Supply,Supply,1668
+Intensive Care,Diluent / Flush / Irrigant,1
+Intensive Care,Laboratory,4
+Intensive Care,Monitoring,2
+Intensive Care,Room and Board,62
+Intensive Care,Supply,1
+Laboratory,Blood Products,9
+Laboratory,Cardiology,2
+Laboratory,Diluent / Flush / Irrigant,6
+Laboratory,Implant,1
+Laboratory,Laboratory,1344
+Laboratory,Monitoring,172
+Laboratory,Nursing Services,66
+Laboratory,Pharmacy,35
+Laboratory,Professional Fee,5
+Laboratory,Radiology,7
+Laboratory,Respiratory Therapy,5
+Laboratory,Supply,4
+MRI,Nursing Services,1
+MRI,Pharmacy,5
+MRI,Professional Fee,1
+MRI,Radiology,29
+MRI,Respiratory Therapy,1
+Medical Equipment,Pharmacy,3
+Nuclear Medicine,Laboratory,2
+Nuclear Medicine,PT / OT / Speech Therapy,1
+Nuclear Medicine,Radiology,2
+Nursing,Monitoring,3
+Nursing,OR / Anesthesia / Recovery Room,1
+Nursing,Pharmacy,6
+Nursing,Radiology,2
+OR Services,Capital Equipment,2
+OR Services,Cardiology,1
+OR Services,Diluent / Flush / Irrigant,1
+OR Services,Laboratory,1
+OR Services,Monitoring,3
+OR Services,Nursing Services,5
+OR Services,OR / Anesthesia / Recovery Room,65
+OR Services,Other,2
+OR Services,Procedure,31
+OR Services,Radiology,15
+OR Services,Respiratory Therapy,4
+OR Services,Supply,6
+Oncology,Pharmacy,3
+Organ Acquisition,Cardiology,1
+Organ Acquisition,Laboratory,16
+Organ Acquisition,Monitoring,1
+Organ Acquisition,Nursing Services,1
+Organ Acquisition,OR / Anesthesia / Recovery Room,1
+Organ Acquisition,Pharmacy,11
+Organ Acquisition,Supply,1
+Osteopathic Services,Pharmacy,10
+Other Diagnostic Services,Cardiology,2
+Other Diagnostic Services,Education / Training,1
+Other Diagnostic Services,Monitoring,2
+Other Diagnostic Services,Nursing Services,12
+Other Diagnostic Services,Procedure,11
+Other Diagnostic Services,Radiology,18
+Other Diagnostic Services,Supply,3
+Other Imaging Services,Laboratory,20
+Other Imaging Services,Monitoring,1
+Other Imaging Services,Nursing Services,2
+Other Imaging Services,PT / OT / Speech Therapy,2
+Other Imaging Services,Procedure,1
+Other Imaging Services,Radiology,29
+Other Imaging Services,Respiratory Therapy,3
+Other Therapeutic Services,Capital Equipment,8
+Other Therapeutic Services,Cardiology,2
+Other Therapeutic Services,Education / Training,3
+Other Therapeutic Services,Nursing Services,8
+Other Therapeutic Services,Other,2
+Other Therapeutic Services,PT / OT / Speech Therapy,1
+Other Therapeutic Services,Procedure,1
+Other Therapeutic Services,Professional Fee,1
+Other Therapeutic Services,Respiratory Therapy,1
+Other Therapeutic Services,Supply,2
+Others,Diluent / Flush / Irrigant,1
+Others,Laboratory,5
+Others,Pharmacy,2
+Others,Procedure,1
+Others,Respiratory Therapy,1
+Others,Supply,2
+Outpatient Services,Laboratory,6
+Outpatient Services,Pharmacy,1
+Outpatient or Home,Diluent / Flush / Irrigant,2
+Outpatient or Home,PT / OT / Speech Therapy,1
+Outpatient or Home,Pharmacy,17
+PT/OT/Speech,Capital Equipment,1
+PT/OT/Speech,Cardiology,1
+PT/OT/Speech,Diluent / Flush / Irrigant,2
+PT/OT/Speech,Laboratory,11
+PT/OT/Speech,Monitoring,1
+PT/OT/Speech,Nursing Services,1
+PT/OT/Speech,OR / Anesthesia / Recovery Room,3
+PT/OT/Speech,PT / OT / Speech Therapy,186
+PT/OT/Speech,Pharmacy,12
+PT/OT/Speech,Radiology,5
+PT/OT/Speech,Respiratory Therapy,1
+PT/OT/Speech,Room and Board,1
+PT/OT/Speech,Supply,2
+Patient Conv Items,Diluent / Flush / Irrigant,1
+Patient Conv Items,Laboratory,1
+Patient Conv Items,Monitoring,6
+Patient Conv Items,Nursing Services,2
+Patient Conv Items,Pharmacy,37
+Patient Conv Items,Plan Benefit,2
+Patient Conv Items,Respiratory Therapy,2
+Patient Conv Items,Room and Board,1
+Patient Conv Items,Supply,3
+Pharmacy,Capital Equipment,3
+Pharmacy,Diluent / Flush / Irrigant,361
+Pharmacy,Diluent / flush / Irrigant,16
+Pharmacy,Education / Training,1
+Pharmacy,Laboratory,37
+Pharmacy,Monitoring,2
+Pharmacy,OR / Anesthesia / Recovery Room,2
+Pharmacy,PT / OT / Speech Therapy,4
+Pharmacy,Pharmacy,2179
+Pharmacy,Plan Benefit,94
+Pharmacy,Professional Fee,1
+Pharmacy,Radiology,2
+Pharmacy,Respiratory Therapy,9
+Pharmacy,Room and Board,1
+Pharmacy,Supply,105
+Preventive Care Services,Dialysis,8
+Preventive Care Services,Diluent / Flush / Irrigant,2
+Preventive Care Services,Laboratory,7
+Preventive Care Services,Nursing Services,3
+Preventive Care Services,PT / OT / Speech Therapy,1
+Preventive Care Services,Pharmacy,6
+Preventive Care Services,Procedure,1
+Prof Fees,Cardiology,3
+Prof Fees,Professional Fee,8
+Prof Fees,Radiology,3
+Prof Fees,Respiratory Therapy,1
+Pulmonary Function,Cardiology,1
+Pulmonary Function,Education / Training,1
+Pulmonary Function,Laboratory,1
+Pulmonary Function,Monitoring,53
+Pulmonary Function,Nursing Services,5
+Pulmonary Function,PT / OT / Speech Therapy,1
+Pulmonary Function,Pharmacy,1
+Pulmonary Function,Plan Benefit,3
+Pulmonary Function,Radiology,1
+Pulmonary Function,Respiratory Therapy,19
+Pulmonary Function,Supply,3
+Radiology,Blood Products,2
+Radiology,Diluent / Flush / Irrigant,1
+Radiology,Laboratory,10
+Radiology,Nursing Services,1
+Radiology,OR / Anesthesia / Recovery Room,3
+Radiology,Other,1
+Radiology,PT / OT / Speech Therapy,1
+Radiology,Pharmacy,17
+Radiology,Procedure,3
+Radiology,Radiology,88
+Radiology,Supply,4
+Respiratory Services,Capital Equipment,2
+Respiratory Services,Cardiology,2
+Respiratory Services,Education / Training,3
+Respiratory Services,Laboratory,1
+Respiratory Services,Monitoring,21
+Respiratory Services,Nursing Services,10
+Respiratory Services,OR / Anesthesia / Recovery Room,2
+Respiratory Services,Other,1
+Respiratory Services,PT / OT / Speech Therapy,1
+Respiratory Services,Pharmacy,2
+Respiratory Services,Plan Benefit,15
+Respiratory Services,Procedure,2
+Respiratory Services,Radiology,2
+Respiratory Services,Respiratory Therapy,167
+Respiratory Services,Supply,15
+Room & Board,Capital Equipment,1
+Room & Board,Laboratory,3
+Room & Board,Monitoring,1
+Room & Board,PT / OT / Speech Therapy,2
+Room & Board,Pharmacy,2
+Room & Board,Room and Board,81
+Room & Board,Supply,1
+Treatment/Observation Room,Monitoring,1
+Treatment/Observation Room,Nursing Services,14
+Treatment/Observation Room,OR / Anesthesia / Recovery Room,2
+Treatment/Observation Room,PT / OT / Speech Therapy,3
+Treatment/Observation Room,Pharmacy,1
+Treatment/Observation Room,Procedure,5
+Treatment/Observation Room,Professional Fee,2
+Treatment/Observation Room,Radiology,1
+Treatment/Observation Room,Respiratory Therapy,5
+Treatment/Observation Room,Room and Board,2
+Treatment/Observation Room,Supply,2

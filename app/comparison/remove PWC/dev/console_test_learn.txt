@@ -1,0 +1,55 @@
+Starting learning pipeline...
+learning_models/models is not empty.
+unlearning done
+Time taken in unlearning:
+0.0199999809265
+Time taken in updating training from MR:
+0.0160000324249
+Length of Complete training data: 
+time taken in pulling training data
+0.628000020981
+# of training samples= 4500
+Time taken in loading and saving training data:
+0.242000102997
+Time taken in upsampling:
+0.0279998779297
+Time taken in splitting test from training:
+0.029000043869
+Time taken in normalization inside python:
+0.206000089645
+stop words:
+[]
+3410 long vocabulary...
+Time taken in training countVectorizer:
+0.0929999351501
+Time taken in removing zero variance:
+78.0920000076
+Time taken in removing PWC:
+717.005000114
+(4003L, 997L) (500L, 997L)
+Time taken in extracting feature vectors:
+940.739000082
+Time taken in saving Vectorizer object and delected features:
+0.760999917984
+Time taken in training Jaro:
+119.029000044
+105.039000034
+0.285000085831
+9.49000000954
+0.911000013351
+time taken in training DeepNN:
+336.765000105
+12.2619998455
+6.40400004387
+Time taken in training XGB:
+1118.98199987
+Total time taken by TrainClassifiers:
+1741.45800018
+Time taken in voting:
+7.46500015259
+Time taken in training
+2718.70900011
+Time taken in uploading training MD
+0.0429999828339
+Total time taken in training Pipeline + database communication:
+2840.09699988

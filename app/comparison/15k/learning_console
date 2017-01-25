@@ -1,0 +1,21 @@
+/home/abzooba/anaconda2/bin/python /home/abzooba/git/equian_ml_ensemble/app/core/pipeline_train.py
+classifiers.pickle from MODELS_FOLDER_LEARNING
+NUMBER_OF_MODELS =  14
+14:31:50
+# of training samples= 25366
+Time taken in loading and saving training data:
+0.203231096268
+Time taken in upsampling:
+0.0125801563263
+Time taken in splitting test from training:
+0.0693910121918
+Time taken in normalization inside python:
+0.401033878326
+stop words:
+[]
+11474 long vocabulary...
+Time taken in training countVectorizer:
+0.363630056381
+
+Process finished with exit code 137
+
